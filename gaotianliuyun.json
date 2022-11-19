@@ -1,0 +1,40 @@
+{
+    "urls": [
+        {
+           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0820.json",
+           "name":"0820-1"
+        },
+        {
+           "url": "https://raw.fastgit.org/gaotianliuyun/gao/master/0820.txt",
+           "name":"0820-1"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0821.json",
+          "name":"0821"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0827.json",
+          "name":"0827"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json",
+          "name":"0828"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json",
+          "name":"0829"
+        },
+         {
+           "url": "https://raw.fastgit.org/gaotianliuyun/gao/master/1.json",
+           "name":"1"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/9918.json",
+           "name":"CR9918"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/9919.json",
+          "name":"9919"
+        }
+     ]
+   }
