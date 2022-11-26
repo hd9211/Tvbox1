@@ -1,6 +1,14 @@
 {
     "urls": [
         {
+           "url":"https://raw.fastgit.org/qaz1371041/tvbox/main/18.json",
+           "name":"qaz1371041"
+        },
+        {
+           "url":"https://raw.fastgit.org/xianyuyimu/TVBOX-/main/TVBox/18.json",
+           "name":"xianyuyimu"
+        },
+        {
            "url":"https://raw.fastgit.org/xibao999/x/master/dxwoai18.json",
            "name":"xibao999线路1"
         },
