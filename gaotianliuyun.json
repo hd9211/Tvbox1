@@ -2,31 +2,31 @@
     "urls": [
         {
            "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0820.json",
-           "name":"0820-1"
+           "name":"WEWA（饭太硬）"
         },
         {
            "url": "https://raw.fastgit.org/gaotianliuyun/gao/master/0820.txt",
-           "name":"0820-1"
+           "name":"唐三线路1"
         },
         {
           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0821.json",
-          "name":"0821"
+          "name":"俊于线路1"
         },
         {
           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0827.json",
-          "name":"0827"
+          "name":"fongmi"
         },
         {
           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json",
-          "name":"0828"
+          "name":"唐三线路2"
         },
         {
           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json",
-          "name":"0829"
+          "name":"俊于线路2"
         },
          {
            "url": "https://raw.fastgit.org/gaotianliuyun/gao/master/1.json",
-           "name":"1"
+           "name":"测试"
         },
         {
           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/9918.json",
@@ -35,6 +35,14 @@
         {
           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/9919.json",
           "name":"9919"
+        }, 
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/js.json",
+           "name":"道长drpy(js)资源"
+        },
+        {
+          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/xBPQ.json",
+           "name":"菜妮丝"
         }
      ]
    }
