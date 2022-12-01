@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+           "url":"https://raw.fastgit.org/jessic01/tv/main/11.json",
+           "name":"jessic01"
+        },
+        {
            "url":"https://raw.fastgit.org/qaz1371041/tvbox/main/18.json",
            "name":"qaz1371041"
         },
