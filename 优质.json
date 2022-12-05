@@ -45,8 +45,36 @@
            "name":"zhanghong1983-SP线路"
         },
         {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/xb.json",
+           "name":"zhanghong1983-xb线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/xbpq.json",
+           "name":"zhanghong1983-xbpq线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/xp.json",
+           "name":"zhanghong1983-XP线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/xyq.json",
+           "name":"zhanghong1983-XYQ线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/py.json",
+           "name":"zhanghong1983-PY线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/js.json",
+           "name":"zhanghong1983-JS线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/app.json",
+           "name":"zhanghong1983-APP线路"
+        },
+        {
            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/tvbox.json",
            "name":"zhanghong1983线路1"
-        }
+        },
      ]
    }
