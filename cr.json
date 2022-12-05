@@ -61,6 +61,14 @@
           "name":"SSM0415线路3"
         },
         {
+          "url":"https://raw.fastgit.org/SSM0415/apptest/main/adult1.json",
+          "name":"SSM0415线路4"
+        },
+        {
+          "url":"https://raw.fastgit.org/SSM0415/apptest/main/adult2.txt",
+          "name":"SSM0415线路5"
+        },
+        {
           "url":"https://raw.fastgit.org/jyj0912/2hacc/main/H/h",
           "name":"jyj0912"
         },
