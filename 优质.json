@@ -39,6 +39,14 @@
         {
            "url": "https://raw.fastgit.org/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8cs.json",
            "name":"一木cs"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/sp.json",
+           "name":"zhanghong1983-SP线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/tvbox.json",
+           "name":"zhanghong1983线路1"
         }
      ]
    }
