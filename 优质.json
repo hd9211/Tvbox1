@@ -2,15 +2,15 @@
     "urls": [
         {
            "url":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-           "name":"线路1"
+           "name":"vpei线路1"
         },
         {
            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-           "name":"线路2"
+           "name":"vpei线路2"
         },
         {
           "url":"https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
-          "name":"线路3"
+          "name":"vpei线路3"
         },
         {
           "url":"https://raw.fastgit.org/Guard-H/tvbox/main/fj.json",
@@ -75,6 +75,10 @@
         {
            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/tvbox.json",
            "name":"zhanghong1983线路1"
+        },
+        {
+           "url": "https://raw.fastgit.org/qiqiqi8898/tvbox/main/2022.json",
+           "name":"qiqiqi8898"
         }
      ]
    }
