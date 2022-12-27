@@ -79,6 +79,10 @@
         {
            "url": "https://raw.fastgit.org/qiqiqi8898/tvbox/main/2022.json",
            "name":"qiqiqi8898"
+        },
+        {
+           "url": "https://raw.fastgit.org/kjrzxu/TVBox/main/tvbox.json",
+           "name":"kjrzxu"
         }
      ]
    }
