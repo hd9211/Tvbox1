@@ -26,8 +26,12 @@
         },
          {
            "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
-           "name":"2哈社区"
+           "name":"2哈社区线路1"
         },
+        {
+           "url": "https://raw.fastgit.org/2hacc/TVBox/main/drpy/xiaoya.json",
+           "name":"2哈社区线路2"
+        },        
         {
            "url": "https://raw.fastgit.org/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
            "name":"一木自用"
@@ -83,6 +87,18 @@
         {
            "url": "https://raw.fastgit.org/kjrzxu/TVBox/main/tvbox.json",
            "name":"kjrzxu"
+        },
+        {
+           "url": "https://jsd.cdn.zzko.cn/gh/w-aiguo/tvbox@main/m.json",
+           "name":"应用多多接口1"
+        },       
+        {
+           "url": "https://jsd.cdn.zzko.cn/gh/w-aiguo/tvbox@main/t.json",
+           "name":"应用多多接口1"
+        },        
+        {
+           "url": "https://jsd.cdn.zzko.cn/gh/w-aiguo/tvbox@main/v.json",
+           "name":"应用多多接口1"
         }
-     ]
+        ]
    }
