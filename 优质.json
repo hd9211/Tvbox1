@@ -1,16 +1,16 @@
 {
     "urls": [
         {
-           "url":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-           "name":"vpei线路1"
+           "url":"https://raw.iqiq.io/cloudplains/jnsj/main/out/tvbox.txt",
+           "name":"cloudplains线路1"
         },
         {
-           "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-           "name":"vpei线路2"
+           "url": "https://ghproxy.com/https://raw.githubusercontent.com/cloudplains/jnsj/main/out/tvbox.txt",
+           "name":"cloudplains线路2"
         },
         {
-          "url":"https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
-          "name":"vpei线路3"
+          "url":"https://cloudplains.github.io/jnsj/out/tvbox.txt",
+          "name":"cloudplains线路3"
         },
         {
           "url":"https://raw.fastgit.org/Guard-H/tvbox/main/fj.json",
