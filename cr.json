@@ -122,7 +122,11 @@
         },
         {
           "url":"https://raw.fastgit.org/shiran588/TVBox/main/cr.json",
-          "name":"shiran588"
+          "name":"shiran588线路1"
+        },
+        {
+          "url":"https://raw.fastgit.org/shiran588/m3u/main/maoCR.txt",
+          "name":"shiran588线路2"
         },
         {
           "url":"https://raw.fastgit.org/ss916/test/2fe4f11b85383738c98ba99c126b107a4f1784b0/tv/fl/FL.json",
