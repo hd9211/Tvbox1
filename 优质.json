@@ -40,10 +40,15 @@
            "url": "https://raw.fastgit.org/xianyuyimu/TVBOX-/main/TVBox/%E5%A4%87%E7%94%A8.json",
            "name":"一木备用"
         },
+        
         {
            "url": "https://raw.fastgit.org/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8cs.json",
            "name":"一木cs"
         },
+        {
+           "url": "https://raw.fastgit.org/tuji-2015/miao/main/TVBox/tvbox.json",
+           "name":"tuji-2015"
+        }
         {
            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/sp.json",
            "name":"zhanghong1983-SP线路"
