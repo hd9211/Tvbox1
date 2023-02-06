@@ -110,7 +110,11 @@
         },
         {
           "url":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/18.json",
-          "name":"zhanghong1983"
+          "name":"zhanghong1983线路1"
+        },
+        {
+          "url":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/055b7c292ac579ce1734ce171dc8d074c817dd1f/tvbox.json",
+          "name":"zhanghong1983线路1"
         },
         {
           "url":"https://raw.fastgit.org/w1915591935/TVBOX-/main/TVBox/18.json",
