@@ -36,6 +36,7 @@
 {"url":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/vip.json","name":"zhanghong1983_vip"},
 {"url":"https://raw.fastgit.org/w1915591935/TVBOX-/main/TVBox/18.json","name":"w1915591935_18"},
 {"url":"https://raw.fastgit.org/2hacc/TVBox/main/H/h","name":"2hacc_h"},
+{"url":"https://raw.fastgit.org/2hacc/2hacc.github.io/master/h/h.json","name":"2hacc-H"},
 {"url":"https://raw.fastgit.org/shiran588/TVBox/main/cr.json","name":"shiran588_cr"},
 {"url":"https://raw.fastgit.org/shiran588/m3u/main/maoCR.txt","name":"shiran588_maoCR"},
 {"url":"https://raw.fastgit.org/ss916/test/main/tv/fl/FL.json","name":"ss916_FL"},
@@ -293,7 +294,7 @@
 {"url":"https://raw.fastgit.org/xiuyaoxu/xiuyaoxu.github.io/23f178b875b963dc7184f712736408925ec56e97/18.json","name":"xiuyaoxu"},
 {"url":"https://raw.fastgit.org/hhbbnn/jjm/4e2d9f6f64e6f4ff25a26e68a2d1f307552c6d23/ff.json","name":"xiuyaoxu"},
 {"url":"https://raw.fastgit.org/menghao990/menghao990.github.io/87a8c93e218f11f7c7fa8b520a7c3ed624f4c182/tvbox/tv.json","name":"menghao990"},
-{"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/main/m.json","name":"ltxxjs"},
+{"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/main/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.fastgit.org/q2564063/tvbox_source/main/source/18.json","name":"q2564063"},
 {"url":"https://raw.fastgit.org/sqspot/tac/master/18.json","name":"sqspot_18"},
 {"url":"https://raw.fastgit.org/sqspot/tac/master/不正經.json","name":"sqspot_不正經"},
@@ -307,6 +308,16 @@
 {"url":"https://raw.fastgit.org/habao260/zy/master/2023.json","name":"habao260"},
 {"url":"https://raw.fastgit.org/caca3559823437/2022/master/xxoo.json","name":"caca3559823437_xxoo"},
 {"url":"https://raw.fastgit.org/caca3559823437/2022/master/xxoo1.json","name":"caca3559823437_xxoo1"},
+
+//https://raw.fastgit.org/Coldnine009/cangku/main/003_urls.txt
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18.json","name": "🚀马克思主义哲学1"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_2.json","name": "🚀马克思主义哲学2"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_3.json","name": "🚀马克思主义哲学3"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_4.json","name": "🚀马克思主义哲学4"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/Coldnine009/cangku/main/libs/18_5.json","name": "🚀马克思主义哲学5"},
+{"url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json","name": "🐉18+"},
+{"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/18.json","name": "🦒18+"},
+
 {"url":"https://raw.fastgit.org/wuheng18/XL/master/zyz.jpg","name":"wuheng18"},
 {"url":"https://raw.fastgit.org/wuheng18/cr/master/1/CR18.json","name":"wuheng18_线路1"},
 {"url":"https://raw.fastgit.org/wuheng18/cr/master/1/se18.json","name":"wuheng18_线路2"},
@@ -521,4 +532,3 @@
 {"url":"https://raw.fastgit.org/wuheng18/wh/master/wh.txt","name":"wuheng18_线路211"}
 
 ]}
-
