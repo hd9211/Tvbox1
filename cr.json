@@ -77,6 +77,13 @@
 {"url":"https://raw.fastgit.org/tv189ymail/2023/master/99-master/ss","name":"tv189ymail_ss"},
 {"url":"https://raw.fastgit.org/tv189ymail/2023/master/m-master/m.m3u8","name":"tv189ymail_m"},
 {"url":"https://raw.fastgit.org/tv189ymail/2023/master/xgtv/fl.txt","name":"tv189ymail_fl"},
+{"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/DY1/PRO.json","name":"tv189ymail_PRO"},
+{"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/DY1/PRO (1).json","name":"tv189ymail_PRO (1)"},
+{"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/DY1/PRO (3).json","name":"tv189ymail_PRO (3)"},
+{"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/DY1/adult.json","name":"tv189ymail_adult"},
+{"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/DY1/adult (3).json","name":"tv189ymail_adult (3)"},
+
+//
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m2.json","name":"ltxxjs_m2"},
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m4.json","name":"ltxxjs_m4"},
