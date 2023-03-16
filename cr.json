@@ -98,7 +98,11 @@
 {"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/bendi/xl/sm.json","name":"tv189ymail_sm"},
 {"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/bendi/xl/tangs.json","name":"tv189ymail_tangs"},
 {"url":"https://raw.fastgit.org/tv189ymail/2023/main/BDB/bendi/xl/隐藏.json","name":"tv189ymail_隐藏"},
-
+{"url":"https://raw.fastgit.org/tv189ymail/BD/main/ToxA-master/plus/PRO.json","name":"tv189ymail_PRO"},
+{"url":"https://raw.fastgit.org/eddyyung/m3u8/master/18.json","name":"eddyyung_18"},
+{"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/b","name":"ddiibb_b"},
+{"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/bb","name":"ddiibb_bb"},
+{"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/bbb","name":"ddiibb_bbb"},
 //
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m2.json","name":"ltxxjs_m2"},
@@ -124,6 +128,7 @@
 {"url":"http://52bsj.vip:98/0805","name":"28176 163"},
 {"url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/020102.json","name":"佰欣园"},
 {"url":"https://raw.fastgit.org/mullvip/TVBox/master/H/x.txt","name":"mullvip_x"},
+{"url":"https://raw.fastgit.org/mullvip/TVBox/master/H/tvbox18.json","name":"mullvip_tvbox18"},
 {"url":"https://raw.fastgit.org/tlswch/2008tsw/master/369/PRO.json","name":"tlswch_PRO"},
 {"url":"https://raw.fastgit.org/tlswch/kuku-kot/master/py/js/js.json","name":"tlswch_js"},
 {"url":"https://raw.fastgit.org/tlswch/kuku-kot/master/py/jpg/1jp.json","name":"tlswch_1"},
@@ -142,7 +147,8 @@
 {"url":"https://raw.fastgit.org/yh7072/ttvv/main/19.json","name":"yh7072_19"},
 {"url":"https://raw.fastgit.org/yh7072/ttvv/main/js.json","name":"yh7072_js"},
 {"url":"https://raw.fastgit.org/koy1619/ygbh/master/pro","name":"koy1619_pro"},
-
+{"url":"https://raw.fastgit.org/kjsc0310/tvy/master/s2.json","name":"kjsc0310_s2"},
+{"url":"https://raw.fastgit.org/kjsc0310/tvy/master/s6.json","name":"kjsc0310_s6"},
 
 //https://raw.fastgit.org/gsdlj/TVBox/main/00.txt
 {"url":"https://pan.css.lc/api/v3/file/get/89965/%E7%94%B5%E8%A7%86%E5%85%8Dvip.txt?sign=agMrEWCKQ6iit7W2Zkl3wq_HUNWqTdr-m5akXV02m-I%3D%3A0","name":"飞机20"},
@@ -654,3 +660,4 @@
 {"url":"https://raw.fastgit.org/wuheng18/wh/master/wh.txt","name":"wuheng18_线路211"}
 
 ]}
+
