@@ -103,6 +103,7 @@
 {"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/b","name":"ddiibb_b"},
 {"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/bb","name":"ddiibb_bb"},
 {"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/bbb","name":"ddiibb_bbb"},
+{"url":"https://raw.fastgit.org/xiaochongzige/box/master/box/fuli-1.json","name":"xiaochongzige_fuli-1"},
 //
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m2.json","name":"ltxxjs_m2"},
@@ -149,6 +150,7 @@
 {"url":"https://raw.fastgit.org/koy1619/ygbh/master/pro","name":"koy1619_pro"},
 {"url":"https://raw.fastgit.org/kjsc0310/tvy/master/s2.json","name":"kjsc0310_s2"},
 {"url":"https://raw.fastgit.org/kjsc0310/tvy/master/s6.json","name":"kjsc0310_s6"},
+{"url":"https://raw.fastgit.org/zyk445971319/ygbh/master/pro","name":"zyk445971319_pro"},
 
 //https://raw.fastgit.org/gsdlj/TVBox/main/00.txt
 {"url":"https://pan.css.lc/api/v3/file/get/89965/%E7%94%B5%E8%A7%86%E5%85%8Dvip.txt?sign=agMrEWCKQ6iit7W2Zkl3wq_HUNWqTdr-m5akXV02m-I%3D%3A0","name":"飞机20"},
@@ -402,7 +404,8 @@
 {"url":"https://raw.fastgit.org/devilgarfield/notes/main/tv/tvbox.json","name":"devilgarfield"},
 {"url":"https://raw.fastgit.org/chiakiwang/ck/master/tvbox.json","name":"chiakiwang_tvbox"},
 {"url":"https://raw.fastgit.org/chiakiwang/ck/master/tvbox1","name":"chiakiwang_tvbox1"},
-{"url":"https://raw.fastgit.org/cnnbgo/tvbox/main/x.txt","name":"cnnbgo_X"},
+{"url":"https://raw.fastgit.org/cnnbgo/tvbox/master/x.json","name":"cnnbgo_X"},
+{"url":"https://raw.fastgit.org/cnnbgo/tvbox/master/1.json","name":"cnnbgo_1"},
 {"url":"https://raw.fastgit.org/kfwdxy/livey/master/嚎.txt","name":"kfwdxy_嚎"},
 {"url":"https://raw.fastgit.org/kfwdxy/livey/master/sc0.txt","name":"kfwdxy_sc0"},
 {"url":"https://raw.fastgit.org/jinyongbo77/abc-/master/aa.txt","name":"jinyongbo77"},
