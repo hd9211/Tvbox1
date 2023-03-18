@@ -104,6 +104,7 @@
 {"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/bb","name":"ddiibb_bb"},
 {"url":"https://raw.fastgit.org/ddiibb/ck/master/LocalhostOne/jar/bbb","name":"ddiibb_bbb"},
 {"url":"https://raw.fastgit.org/xiaochongzige/box/master/box/fuli-1.json","name":"xiaochongzige_fuli-1"},
+{"url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json","name":"FongMi_adult"},
 //
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.fastgit.org/ltxxjs/ltxxjs.github.io/master/m2.json","name":"ltxxjs_m2"},
@@ -127,6 +128,7 @@
 {"url":"https://raw.fastgit.org/viptvbox/tvbox/main/1670998077.txt","name":"viptvbox_1670998077"},
 {"url":"https://raw.fastgit.org/viptvbox/tvbox/main/1671105806.txt","name":"viptvbox_1671105806"},
 {"url":"http://52bsj.vip:98/0805","name":"28176 163"},
+{"url":"http://52bsj.vip:81/api/v3/file/get/23452/dxwoai18+.txt?sign=BHuceT2ExGD0qhPwGDukpBVZELS79oJRmYLZ0VbcfUk%3D%3A0","name":"18dxwoai-75"},
 {"url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/020102.json","name":"佰欣园"},
 {"url":"https://raw.fastgit.org/mullvip/TVBox/master/H/x.txt","name":"mullvip_x"},
 {"url":"https://raw.fastgit.org/mullvip/TVBox/master/H/tvbox18.json","name":"mullvip_tvbox18"},
@@ -435,6 +437,7 @@
 {"url":"https://raw.fastgit.org/c120487/00/master/00tvx1.txt","name":"c120487_00tvx1"},
 {"url":"https://raw.fastgit.org/c120487/00/master/00tvx1c.txt","name":"c120487_00tvx1c"},
 {"url":"https://raw.fastgit.org/c120487/00/main/00tvx0.txt","name":"c120487_00tvx0"},
+{"url":"https://raw.fastgit.org/c120487/00/main/vip.json","name":"c120487_vip"},
 {"url":"https://raw.fastgit.org/smjxf/box/master/xx.json","name":"smjxf_xx"},
 {"url":"https://raw.fastgit.org/habao260/zy/master/2023.json","name":"habao260"},
 {"url":"https://raw.fastgit.org/caca3559823437/2022/master/xxoo.json","name":"caca3559823437_xxoo"},
@@ -663,4 +666,3 @@
 {"url":"https://raw.fastgit.org/wuheng18/wh/master/wh.txt","name":"wuheng18_线路211"}
 
 ]}
-
