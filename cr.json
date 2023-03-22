@@ -108,6 +108,9 @@
 {"url":"https://raw.fastgit.org/xiaomi128/ztv/master/huyaxpa.json","name":"xiaomi128_huyaxpa"},
 {"url":"https://raw.fastgit.org/xwlaila/jiekou/main/hao.json","name":"xwlaila_hao"},
 {"url":"https://raw.fastgit.org/HITVHDU/ZB/master/tvbox接口.txt","name":"HITVHDU"},
+{"url":"https://raw.fastgit.org/alivetv/live/master/15.json","name":"alivetv_15"},
+{"url":"https://raw.fastgit.org/czy19950220/TVBoxConfig/main/myConfigs/52bjs/dxwoai18.txt","name":"czy19950220_dxwoai18"},
+
 
 //https://raw.fastgit.org/QFBJ/TV/main/V/vip.txt
 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name": "🔞月光宝盒PRO"},
@@ -752,4 +755,3 @@
 {"url":"https://raw.fastgit.org/wuheng18/wh/master/wh.txt","name":"wuheng18_线路211"}
 
 ]}
-
