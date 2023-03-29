@@ -1,47 +1,47 @@
 {
     "urls": [
         {
-           "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0820.json",
+           "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
            "name":"WEWA（饭太硬）"
         },
         {
-           "url": "https://raw.fastgit.org/gaotianliuyun/gao/master/0820.txt",
+           "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.txt",
            "name":"唐三线路1"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0821.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0821.json",
           "name":"俊于线路1"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0827.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0827.json",
           "name":"fongmi"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json",
           "name":"唐三线路2"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json",
           "name":"俊于线路2"
         },
          {
-           "url": "https://raw.fastgit.org/gaotianliuyun/gao/master/1.json",
+           "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/1.json",
            "name":"测试"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/9918.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json",
            "name":"CR9918"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/9919.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9919.json",
           "name":"9919"
         }, 
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/js.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
            "name":"道长drpy(js)资源"
         },
         {
-          "url":"https://raw.fastgit.org/gaotianliuyun/gao/master/xBPQ.json",
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ.json",
            "name":"菜妮丝"
         }
      ]
