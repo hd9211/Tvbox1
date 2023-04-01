@@ -53,7 +53,6 @@
 {"url":"https://raw.iqiq.io/xiaoxuwenzi/1/main/18.json","name":"xiaoxuwenzi_18"},
 {"url":"https://raw.iqiq.io/kcjsd/TVBOXZY/main/18.json","name":"kcjsd_18"},
 {"url":"https://raw.iqiq.io/yw88075/tvbox/main/zh.json","name":"yw88075_zh"},
-{"url":"https://raw.iqiq.io/sqspot/tac/master/18-1.json","name":"sqspot_18-1"},
 {"url":"https://raw.iqiq.io/tv189ymail/ku2023/master/SMTT/DMSM.json","name":"tv189ymail_DMSM"},
 {"url":"https://raw.iqiq.io/tv189ymail/ku2023/master/SMTT/siji3.json","name":"tv189ymail_siji3"},
 {"url":"https://raw.iqiq.io/tv189ymail/ku2023/master/SMTT/司机.json","name":"tv189ymail_司机"},
@@ -115,6 +114,8 @@
 {"url":"https://raw.iqiq.io/apaoyun/tvbox/main/tvbox.txt","name":"apaoyun_tvbox"},
 {"url":"https://raw.iqiq.io/loikeo/loikeo.github.io/master/tvbox.json","name":"loikeo_tvbox"},
 {"url":"https://raw.iqiq.io/cd028kyyy/cd028kyyy.github.io/master/box/1022tv.json","name":"cd028kyyy_1022tv"},
+{"url":"https://raw.iqiq.io/sdxinm/tvb/master/tvbox.json","name":"sdxinm_tvbox"},
+{"url":"https://raw.iqiq.io/sdxinm/tvb/master/tvbox","name":"sdxinm_tvbox"},
 
 //https://raw.iqiq.io/QFBJ/TV/main/V/vip.txt
 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name": "🔞月光宝盒PRO"},
@@ -196,7 +197,6 @@
 {"url":"https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json","name":"🐻福利"},
 {"url":"https://agit.ai/hu/hcr/raw/branch/master/haoh.txt","name":"🐨福利"},
 {"url":"https://download.kstore.space/download/2863/01.txt","name":"🐸福利"},
-
 {"url": "https://raw.iqiq.io/QFBJ/TV/main/V/千方百纪福利.txt","name": "千方百纪福利"},
 //
 {"url":"https://raw.iqiq.io/ltxxjs/ltxxjs.github.io/master/m.json","name":"ltxxjs_m"},
@@ -528,7 +528,6 @@
 {"url":"https://raw.iqiq.io/menghao990/menghao990.github.io/87a8c93e218f11f7c7fa8b520a7c3ed624f4c182/tvbox/tv.json","name":"menghao990"},
 {"url":"https://raw.iqiq.io/ltxxjs/ltxxjs.github.io/main/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.iqiq.io/q2564063/tvbox_source/main/source/18.json","name":"q2564063"},
-{"url":"https://raw.iqiq.io/sqspot/tac/master/18.json","name":"sqspot_18"},
 {"url":"https://raw.iqiq.io/sqspot/tac/master/18-1.json","name":"sqspot_18-1"},
 {"url":"https://raw.iqiq.io/sqspot/tac/master/18.js","name":"sqspot_18JS"},
 {"url":"https://raw.iqiq.io/sqspot/tac/master/不正經.json","name":"sqspot_不正經"},
