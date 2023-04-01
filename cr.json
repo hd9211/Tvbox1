@@ -113,6 +113,8 @@
 {"url":"https://raw.iqiq.io/wanganni/yinshiyuan/master/tvbox18.json","name":"wanganni_tvbox18"},
 {"url":"https://raw.iqiq.io/wanjune/wanjune.github.io/main/static/tvbox/3721.json","name":"wanjune_3721"},
 {"url":"https://raw.iqiq.io/apaoyun/tvbox/main/tvbox.txt","name":"apaoyun_tvbox"},
+{"url":"https://raw.iqiq.io/loikeo/loikeo.github.io/master/tvbox.json","name":"loikeo_tvbox"},
+{"url":"https://raw.iqiq.io/cd028kyyy/cd028kyyy.github.io/master/box/1022tv.json","name":"cd028kyyy_1022tv"},
 
 //https://raw.iqiq.io/QFBJ/TV/main/V/vip.txt
 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name": "🔞月光宝盒PRO"},
@@ -499,6 +501,12 @@
 {"url":"https://raw.iqiq.io/chiakiwang/ck/master/tvbox1","name":"chiakiwang_tvbox1"},
 {"url":"https://raw.iqiq.io/cnnbgo/tvbox/master/x.json","name":"cnnbgo_X"},
 {"url":"https://raw.iqiq.io/cnnbgo/tvbox/master/1.json","name":"cnnbgo_1"},
+{"url":"https://raw.iqiq.io/cnnbgo/tvbox/master/xiaomi128/x.json","name":"cnnbgo_x"},
+{"url":"https://raw.iqiq.io/cnnbgo/tvbox/main/zh/18.json","name":"cnnbgo_18"},
+{"url":"https://raw.iqiq.io/cnnbgo/tvbox/main/zh/js.json","name":"cnnbgo_js"},
+{"url":"https://raw.iqiq.io/cnnbgo/tvbox/main/zh/tvbox.json","name":"cnnbgo_tvbox"},
+{"url":"https://raw.iqiq.io/cnnbgo/tvbox/main/zh/x.json","name":"cnnbgo_x"},
+{"url":"https://raw.iqiq.io/cnnbgo/tvbox/main/wh/wh.txt","name":"cnnbgo_wh"},
 {"url":"https://raw.iqiq.io/kfwdxy/livey/master/嚎.txt","name":"kfwdxy_嚎"},
 {"url":"https://raw.iqiq.io/kfwdxy/livey/master/sc0.txt","name":"kfwdxy_sc0"},
 {"url":"https://raw.iqiq.io/jinyongbo77/abc-/master/aa.txt","name":"jinyongbo77"},
