@@ -124,11 +124,12 @@
 {"url":"https://raw.iqiq.io/txxwc/tvbox/main/18.json","name":"txxwc_18"},
 {"url":"https://raw.iqiq.io/fkaf1/TVBox/master/XC2.json","name":"fkaf1_XC2"},
 {"url":"https://raw.iqiq.io/fkaf1/fk/master/XC2.json","name":"fkaf1_XC2"},
+{"url":"https://raw.iqiq.io/fkaf1/fk/master/3580.json","name":"fkaf1_3580"},
 {"url":"https://raw.iqiq.io/wxwxwz/YGBH/master/Video/PRO.json","name":"wxwxwz_PRO"},
 {"url":"https://raw.iqiq.io/zhoujck/config/master/Json/box18","name":"zhoujck_box18"},
 {"url":"https://raw.iqiq.io/888huge/tv/master/ceshiTV.txt","name":"888huge_ceshiTV"},
 {"url":"https://raw.iqiq.io/888huge/tv/master/ceshitv4.txt","name":"888huge_ceshitv4"},
-
+{"url":"https://raw.iqiq.io/QFBJ/KKYS/master/CS","name":"QFBJ_CS"},
 
 //https://raw.iqiq.io/QFBJ/TV/main/V/vip.txt
 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name": "🔞月光宝盒PRO"},
@@ -798,4 +799,3 @@
 {"url":"https://raw.iqiq.io/wuheng18/wh/master/wh.txt","name":"wuheng18_线路211"},
 {"url":"https://raw.iqiq.io/wuheng18/zy/master/wh.txt","name":"wuheng18_线路212"}
 ]}
-
