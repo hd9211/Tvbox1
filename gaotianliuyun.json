@@ -41,6 +41,10 @@
            "name":"道长drpy(js)资源"
         },
         {
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js1.json",
+           "name":"道长drpy(js1)资源"
+        },
+        {
           "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ.json",
            "name":"菜妮丝"
         }
