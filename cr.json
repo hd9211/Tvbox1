@@ -185,7 +185,8 @@
 {"url":"https://tvbox.evai.pl/x6.json","name":"x6"},
 {"url":"https://raw.iqiq.io/xiongjian83/TvBox/main/C.json","name":"xiongjian83_C"},
 {"url":"https://raw.iqiq.io/xiongjian83/TvBox/main/T.json","name":"xiongjian83_T"},
-
+{"url":"https://raw.iqiq.io/xiongjian83/TvBox/main/18/18live.json","name":"xiongjian83_18live"},
+{"url":"https://raw.iqiq.io/xiongjian83/TvBox/main/yyfx.json","name":"xiongjian83_yyfx"},
 
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt","name":"huyuan_1665283016"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1667621493.txt","name":"shuyuan_1667621493"},
@@ -645,6 +646,7 @@
 {"url":"https://raw.iqiq.io/lmlmi/xxxx/main/vip.json","name":"lmlmi_vip"},
 {"url":"https://raw.iqiq.io/lmlmi/xxxx/main/wq18.json","name":"lmlmi_wq18"},
 {"url":"https://raw.iqiq.io/lmlmi/xxxx/main/xys18.json","name":"lmlmi_xys18"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/lmlmi/l/master/18","name":"lmlmi_18"},
 
 {"url":"https://raw.iqiq.io/Ever52/1/main/beifen/shuangbo.json","name":"Ever52_shuangbo"},
 {"url":"https://raw.iqiq.io/Ever52/1/main/beifen/福利1.txt","name":"Ever52_福利1"},
