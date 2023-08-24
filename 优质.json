@@ -41,6 +41,7 @@
 {"url":"https://raw.kgithub.com/pcrock88/pcrock88.github.io/main/zb/cs.json","name":"pcrock88_cs"},
 {"url":"https://raw.kgithub.com/pcrock88/pcrock88.github.io/main/zb/tvbox.json","name":"pcrock88_tvbox"},
 {"url":"https://raw.kgithub.com/pcrock88/pcrock88.github.io/main/zb/tvbox-tv.json","name":"pcrock88_tvbox-tv"},
+{"url":"https://raw.kgithub.com/pcrock88/pcrock88.github.io/main/zb/tvbox-free.json","name":"pcrock88_tvbox-free"},
 {"url":"https://raw.kgithub.com/ride-start/ownimpl/main/tv/tvb.json","name":"ride-start_tvb"},
 {"url":"https://raw.kgithub.com/ltxxjs/box2022-1/main/m.json","name":"ltxxjs_m"},
 {"url":"https://raw.kgithub.com/xiongjian83/TvBox/main/01.json","name":"xiongjian83_01"},
@@ -58,6 +59,9 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json","name":"PizazzGY_api2"},
 {"url":"https://raw.kgithub.com/byteshijinn/tvbox/master/tvbox.txt","name":"byteshijinn"},
 {"url":"https://raw.kgithub.com/byteshijinn/tvbox/master/tvbox.txt","name":"byteshijinn"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Codetv01/code/main/main.json","name":"Codetv01"},
+{"url":"https://raw.kgithub.com/tiantuhao/tvinterface/main/tian.json","name":"tiantuhao_tian"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/hhqqwwjj/tvb1/main/XC.json","name":"hhqqwwjj_XC"},
 
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路"},
 {"url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8","name": "云星哔哩线路"},
