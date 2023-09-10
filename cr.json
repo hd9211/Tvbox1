@@ -194,6 +194,7 @@
 {"url":"https://raw.kgithub.com/shippomx/iptv/main/hentai.json","name":"hippomx_hentai"},
 {"url":"https://raw.kgithub.com/tianya7981/jiekou/main/ziyong","name":"tianya7981_ziyong"},
 {"url":"https://raw.kgithub.com/ZTHA000/tvbox/main/18.json","name":"ZTHA000_18"},
+{"url":"https://raw.kgithub.com/ZTHA000/tvbox/main/thzx1.json","name":"ZTHA000_thzx1"},
 {"url":"https://raw.kgithub.com/qirenzhidao/tvbox18/main/adult.json","name":"qirenzhidao_adult"},
 {"url":"https://raw.kgithub.com/Demonhesusheng/tvbox/main/tvbox5.json","name":"Demonhesusheng_tvbox5"},
 {"url":"https://raw.kgithub.com/w2594190605/tvbox/main/1.txt","name":"w2594190605_1"},
@@ -207,13 +208,30 @@
 {"url":"https://raw.kgithub.com/tv-player/tvbox-line/main/tv/q73m.json","name":"tv-player_q73m"},
 {"url":"https://raw.kgithub.com/cnnbgo/tvbox/main/x.json","name":"cnnbgo_x"},
 {"url":"https://raw.kgithub.com/rrzt/gao18/master/fuli18.json","name":"rrzt_fuli18"},
+{"url":"https://raw.kgithub.com/jadehh/TV/main/18.json","name":"jadehh_18"},
+{"url":"https://raw.kgithub.com/jadehh/TV/main/9918.json","name":"jadehh_9918"},
 
 {"url":"https://raw.kgithub.com/wertymarry/tvbox/main/pro原.json.json","name":"wertymarry_pro原"},
 {"url":"https://raw.kgithub.com/lishuncai123789/shunzi/main/httpshuyuan.miaogongzi.netshuyuan1692722306.json","name":"lishuncai123789"},
 {"url":"https://raw.kgithub.com/moneyfly1/tvbox/main/tv.json","name":"moneyfly1_tv"},
 {"url":"https://raw.kgithub.com/Emder-0311/tvbox_api/main/maotv.json","name":"Emder-0311"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/Renly/main/TVBox/FM.json","name":"13998394872-FM"},
+{"url":"https://raw.kgithub.com/13998394872/TVBox/main/PG.json","name":"13998394872_PG"},
 {"url":"https://raw.kgithub.com/jigedos/tvbox1/main/jk/fuli1009.json","name":"jigedos-fuli1009"},
+{"url":"https://raw.kgithub.com/dalazhi/tvbox/main/18.txt","name":"dalazhi-18"},
+
+//https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/flck.json
+//https://pan.shangui.cc/f/pxGYFL/%E7%A6%8F%E5%88%A9%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt
+{"name":"🔞挺好专享","url":"https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json"},
+{"name":"🔞彩蛋1","url":"https://pan.shangui.cc/f/54KbSA/%E7%A6%8F%E5%88%A91.txt"},
+{"name":"🔞彩蛋2","url":"https://pan.shangui.cc/f/6pKZtp/%E7%A6%8F%E5%88%A92.txt"},
+{"name":"🔞彩蛋3","url":"https://pan.shangui.cc/f/pxyEsL/%E7%A6%8F%E5%88%A93.txt"},
+{"name":"🔞18+","url":"https://pan.shangui.cc/f/N0g3Sj/%E7%A6%8F%E5%88%A94.txt"},
+{"name":"🔞XH","url":"https://pan.shangui.cc/f/VqZZU8/%E7%A6%8F%E5%88%A95.txt"},
+{"name":"🔞FL1","url":"https://s2.pub/n1"},
+{"name":"🔞FL2","url":"https://s2.pub/n2"},
+{"name":"🔞老鸭","url":"https://s2.pub/of"},
+{"name":"🔞福利9","url":"https://pan.shangui.cc/f/LVLKS3/%E7%A6%8F%E5%88%A99.txt"},
 
 //https://raw.kgithub.com/ZTHA000/tvbox/main/绿茶69.json
 {"url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "🌈私人影院"},
