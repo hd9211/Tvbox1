@@ -129,7 +129,7 @@
 {"url":"♻️sathew♻️","name":"https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"},
 {"url":"♻️猎狼专用♻️","name":"http://sc.lltv8.top"},
 {"url":"♻️guot54♻️","name":"https://agit.ai/guot54/ygbh/raw/branch/master/prox.json"},
-
+//
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"线路①"},
 {"url":"https://fongmi.cachefly.net/cqzho/hao/main/m.json","name":"线路②"},
 {"url":"https://6666.eu.org/m.json","name":"线路③"},
@@ -143,6 +143,9 @@
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风"},
 {"url":"https://tvbox.cainisi.cf","name":"菜妮丝XBPQ"},
 {"url":"https://weixine.net/ysc.json","name":"运输车"},
+//
+{"url":"https://raw.kgithub.com/13998394872/TVBox/main/FM.json","name":"13998394872_FM"},
+{"url":"https://raw.kgithub.com/ZTHA000/tvbox/main/djk1.json","name":"ZTHA000_djk1"},
 
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路"},
 {"url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8","name": "云星哔哩线路"},
