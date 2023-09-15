@@ -1,39 +1,39 @@
 {
     "urls": [
         {
-           "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/0821.json",
+           "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
            "name":"大而全的配置"
         },
         {
-           "url": "https://raw.kgithub.com/gaotianliuyun/gao/master/0825.txt",
+           "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.txt",
            "name":"小而精的配置"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/0826.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
           "name":"WEWA（饭太硬）"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/0827.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
           "name":"fongmi"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/0828.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
           "name":"唐三线路"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/9918.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
            "name":"CR9918"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/js.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
            "name":"道长drpy(js)资源"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/XYQ.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
            "name":"香雅情"
         },
         {
-          "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/XBPQ.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
            "name":"小米小爆脾气"
         }
      ]
