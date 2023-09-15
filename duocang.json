@@ -1,5 +1,5 @@
 {"storeHouse":[
-{"sourceName":"gaotianliuyun仓库","sourceUrl":"https://raw.kgithub.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
-{"sourceName":"优质","sourceUrl":"https://raw.kgithub.com/hd9211/Tvbox1/main/优质.json"},
-{"sourceName":"CR","sourceUrl":"https://raw.kgithub.com/hd9211/Tvbox1/main/cr.json"}
+{"sourceName":"gaotianliuyun仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
+{"sourceName":"优质","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
+{"sourceName":"CR","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"}
 ]}
