@@ -213,7 +213,7 @@
 {"name":"xxx Japan M-R","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u","epg":"","isActive":true,"id":10}, 
 {"name":"xxx Japan S","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u","epg":"","isActive":true,"id":11}, 
 {"name":"xxx Japan T-W","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u","epg":"","isActive":true,"id":12}, 
-{"name":"xxx Japan X-Z"，"url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u","epg":"","isActive":true,"id":13}
+{"name":"xxx Japan X-Z","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u"，"epg":"","isActive":true,"id":13}
 ]},
 "analyzes":{"default":1,
 "data":[
