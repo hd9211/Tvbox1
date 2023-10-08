@@ -198,7 +198,7 @@
 {"key":"AV资源","name": "AV资源","api": "http://api.avkk8zy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":195},
 {"key":"奶茶资源","name": "奶茶资源","api": "https://caiji.naichaapi.com/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":196},
 {"key":"523资源","name": "523资源","api": "https://caiji.523zyw.com/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":197}
-]}，
+]},
 "iptv":{"default":1,
 "data":[
 {"name":"Ray直播","url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg":"http://epg.112114.xyz","isActive":true,"id":1},
@@ -213,7 +213,7 @@
 {"name":"xxx Japan M-R","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u","epg":"","isActive":true,"id":10}, 
 {"name":"xxx Japan S","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u","epg":"","isActive":true,"id":11}, 
 {"name":"xxx Japan T-W","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan T-W.m3u","epg":"","isActive":true,"id":12}, 
-{"name":"xxx Japan X-Z","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u"，"epg":"","isActive":true,"id":13}
+{"name":"xxx Japan X-Z","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u","epg":"","isActive":true,"id":13}
 ]},
 "analyzes":{"default":1,
 "data":[
