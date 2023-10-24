@@ -206,7 +206,7 @@
 {"name":"xxx Japan S1","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S1.m3u","type":"remote","epg":"","isActive":true,"id":11}, 
 {"name":"xxx Japan S2-W","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S-W.m3u","type":"remote","epg":"","isActive":true,"id":12}, 
 {"name":"xxx Japan X-Z","url":"https://ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u","type":"remote","epg":"","isActive":true,"id":13}
-]}，
+]},
 "analyzes":{"default":1,
 "data":[
 {"name":"777","url":"https://jx.777jiexi.com/player/?url=","isActive":true,"id":1},
