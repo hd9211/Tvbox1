@@ -18,7 +18,7 @@
 {"key":"熊掌资源","name": "熊掌资源","api": "https://xzcjz.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":15},
 {"key":"索尼资源","name": "索尼资源","api": "https://suoniapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":16},
 {"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":17},
-{"key":"可可资源","name": "可可资源","api": "https://caiji.kekezyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
+{"key":"可可资源","name": "可可资源","api": "https://caiji.kekezyapi.com/api.php/provide/vod/"，"download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":19},
 {"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":20},
 {"key":"夸克资源","name": "夸克资源","api": "http://kuakezy1.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":21},
@@ -182,7 +182,7 @@
 {"name":"xxx Japan S2-W","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
 {"name":"xxx Japan X-Z","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u","type":"remote","epg":"","isActive":true,"id":13}
 ]},
-"analyze":{"default":2,"data":[
+"analyze":{"default":1,"data":[
 {"id":1,"name":"纯净","url":"https://im1907.top/?jx=","isActive":true},
 {"id":2,"name":"听乐","url":"https://jx.dj6u.com/?url=","isActive":true},
 {"id":3,"name":"YT","url":"https://jx.yangtu.top/?url=","isActive":true},
