@@ -18,7 +18,7 @@
 {"key":"华为吧","name": "华为吧","api": "https://hw8.live/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":15},
 {"key":"熊掌资源","name": "熊掌资源","api": "https://xzcjz.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":16},
 {"key":"索尼资源","name": "索尼资源","api": "https://suoniapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":17},
-{"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
+{"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/"，"download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
 {"key":"可可资源","name": "可可资源","api": "https://caiji.kekezyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":19},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":20},
 {"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":21},
@@ -180,7 +180,7 @@
 {"name":"xxx Japan I-L","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u","type":"remote","epg":"","isActive":true,"id":9},
 {"name":"xxx Japan M-R","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u","type":"remote","epg":"","isActive":true,"id":10},
 {"name":"xxx Japan S","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u","type":"remote","epg":"","isActive":true,"id":11},
-{"name":"xxx Japan Si-W","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Si2-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
+{"name":"xxx Japan Si-W","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Si-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
 {"name":"xxx Japan X","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u","type":"remote","epg":"","isActive":true,"id":13},
 {"name":"xxx Japan Y-Z","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y-Z.m3u","type":"remote","epg":"","isActive":true,"id":14}
 ]},
