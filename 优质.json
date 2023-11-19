@@ -161,6 +161,11 @@
 {"url":"https://weixine.net/ysc.json","name":"运输车"},
 //
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/FM.json","name":"13998394872_FM"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PF.json","name":"13998394872_PF"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/PG.json","name":"13998394872_PG"},
+
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Wuxiao139/Tvbox/main/api.json","name":"Wuxiao139_api"},
+
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/djk1.json","name":"ZTHA000_djk1"},
 
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路"},
@@ -233,7 +238,8 @@
 
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json","name":"alantang1977_X"},
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/api.json","name":"alantang1977_api"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/PY.json","name":"alantang1977_PY"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/PG.json","name":"alantang1977_PG"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/tang.json","name":"alantang1977_tang"},
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/tang.json","name":"alantang1977_tang"},
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/bluefriendCN/tvbox/main/mx.json","name":"bluefriendCN_mx"},
 {"url":"https://gh-proxy.com/https://raw.githubusercontent.com/bluefriendCN/tvbox/main/my.json","name":"bluefriendCN_my"},
