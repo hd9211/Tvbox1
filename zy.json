@@ -179,11 +179,12 @@
 {"name":"xxx Japan D-H","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan D-H.m3u","type":"remote","epg":"","isActive":true,"id":8},
 {"name":"xxx Japan I-L","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u","type":"remote","epg":"","isActive":true,"id":9},
 {"name":"xxx Japan M-R","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u","type":"remote","epg":"","isActive":true,"id":10},
-{"name":"xxx Japan S1","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S1.m3u","type":"remote","epg":"","isActive":true,"id":11},
-{"name":"xxx Japan S2-W","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S2-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
-{"name":"xxx Japan X-Z","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X-Z.m3u","type":"remote","epg":"","isActive":true,"id":13}
+{"name":"xxx Japan S","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u","type":"remote","epg":"","isActive":true,"id":11},
+{"name":"xxx Japan Si-W","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Si2-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
+{"name":"xxx Japan X","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u","type":"remote","epg":"","isActive":true,"id":13},
+{"name":"xxx Japan Y-Z","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y-Z.m3u","type":"remote","epg":"","isActive":true,"id":14}
 ]},
-"analyze":{"default":1,"data":[
+"analyze":{"default":2,"data":[
 {"id":1,"name":"纯净","url":"https://im1907.top/?jx=","isActive":true},
 {"id":2,"name":"听乐","url":"https://jx.dj6u.com/?url=","isActive":true},
 {"id":3,"name":"YT","url":"https://jx.yangtu.top/?url=","isActive":true},
@@ -217,7 +218,7 @@
 {"id":31,"name":"阳途","url":"https://jx.yangtu.top/?url=","isActive":true},
 {"id":32,"name":"777Player","url":"https://jx.jsonplayer.com/player/?url=","isActive":false},
 {"name":"JY","url":"https://jx.playerjy.com/?url=","isActive":true,"id":250}
-]},
+]}，
 "drive":{"default":2,"data":[
 {"name":"🌊神器云","server":"https://al.chirmyram.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":1},
 {"name":"🏓小雅","server":"http://alist.xiaoya.pro","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":2},
