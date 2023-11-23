@@ -219,7 +219,7 @@
 {"id":31,"name":"阳途","url":"https://jx.yangtu.top/?url=","isActive":true},
 {"id":32,"name":"777Player","url":"https://jx.jsonplayer.com/player/?url=","isActive":false},
 {"name":"JY","url":"https://jx.playerjy.com/?url=","isActive":true,"id":250}
-]}，
+]},
 "drive":{"default":2,"data":[
 {"name":"🌊神器云","server":"https://al.chirmyram.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":1},
 {"name":"🏓小雅","server":"http://alist.xiaoya.pro","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":2},
