@@ -174,16 +174,16 @@
 {"name":"月光宝盒直播","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":2},
 {"name":"饭太硬直播","url":"http://ftyyy.tk/live.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":3},
 {"name":"俊于直播","url":"http://home.jundie.top:81/Cat/tv/live.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":4},
-{"name":"xxx Japan 1","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u","type":"remote","epg":"","isActive":true,"id":5},
-{"name":"xxx Japan 2","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u","type":"remote","epg":"","isActive":true,"id":6},
-{"name":"xxx Japan A-C","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-C.m3u","type":"remote","epg":"","isActive":true,"id":7},
-{"name":"xxx Japan D-H","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan D-H.m3u","type":"remote","epg":"","isActive":true,"id":8},
-{"name":"xxx Japan I-L","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u","type":"remote","epg":"","isActive":true,"id":9},
-{"name":"xxx Japan M-R","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u","type":"remote","epg":"","isActive":true,"id":10},
-{"name":"xxx Japan S","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u","type":"remote","epg":"","isActive":true,"id":11},
-{"name":"xxx Japan Si-W","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Si-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
-{"name":"xxx Japan X","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u","type":"remote","epg":"","isActive":true,"id":13},
-{"name":"xxx Japan Y-Z","url":"https://gh-proxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y-Z.m3u","type":"remote","epg":"","isActive":true,"id":14}
+{"name":"xxx Japan 1","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u","type":"remote","epg":"","isActive":true,"id":5},
+{"name":"xxx Japan 2","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u","type":"remote","epg":"","isActive":true,"id":6},
+{"name":"xxx Japan A-C","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan A-C.m3u","type":"remote","epg":"","isActive":true,"id":7},
+{"name":"xxx Japan D-H","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan D-H.m3u","type":"remote","epg":"","isActive":true,"id":8},
+{"name":"xxx Japan I-L","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan I-L.m3u","type":"remote","epg":"","isActive":true,"id":9},
+{"name":"xxx Japan M-R","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan M-R.m3u","type":"remote","epg":"","isActive":true,"id":10},
+{"name":"xxx Japan S","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan S.m3u","type":"remote","epg":"","isActive":true,"id":11},
+{"name":"xxx Japan Si-W","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Si-W.m3u","type":"remote","epg":"","isActive":true,"id":12},
+{"name":"xxx Japan X","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan X.m3u","type":"remote","epg":"","isActive":true,"id":13},
+{"name":"xxx Japan Y-Z","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan Y-Z.m3u","type":"remote","epg":"","isActive":true,"id":14}
 ]},
 "analyze":{"default":2,"data":[
 {"id":1,"name":"纯净","url":"https://im1907.top/?jx=","isActive":true},
@@ -219,7 +219,7 @@
 {"id":31,"name":"阳途","url":"https://jx.yangtu.top/?url=","isActive":true},
 {"id":32,"name":"777Player","url":"https://jx.jsonplayer.com/player/?url=","isActive":false},
 {"name":"JY","url":"https://jx.playerjy.com/?url=","isActive":true,"id":250}
-]},
+]}，
 "drive":{"default":2,"data":[
 {"name":"🌊神器云","server":"https://al.chirmyram.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":1},
 {"name":"🏓小雅","server":"http://alist.xiaoya.pro","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":2},
@@ -248,6 +248,10 @@
 {"name":"🕵️好汉吧","server":"https://8023.haohanba.cn","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":25},
 {"name":"💢repl","server":"https://ali.liucn.repl.co","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":26},
 {"name":"🌨秋雨分享","server":"https://share.laowang.me","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":27},
-{"name":"💦讯维云盘","server":"https://pan.xwbeta.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":28}
+{"name":"💦讯维云盘","server":"https://pan.xwbeta.com","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":28},
+{"name":"fw","server":"http://69.161.221.160:5244/","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":29},
+{"name":"alist.eduedu.eu.org","server":"https://alist.eduedu.eu.org","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":30},
+{"name":"LG五星棒","server":"https://lala-ofbip.run.goorm.site/","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":31}
 ]}
 }
+
