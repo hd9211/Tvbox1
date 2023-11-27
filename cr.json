@@ -1,7 +1,6 @@
 {"urls":
 [
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/main/one.json","name":"xfcjp_one"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/main/one1.json","name":"xfcjp_one1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json","name":"xfcjp_adult"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json","name":"Dong-learn9_18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/19.json","name":"Dong-learn9_19"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/juyou.json","name":"Dong-learn9_juyou"},
@@ -244,6 +243,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wertymarry/tvbox/main/pro原.json.json","name":"wertymarry_pro原"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lishuncai123789/shunzi/main/httpshuyuan.miaogongzi.netshuyuan1692722306.json","name":"lishuncai123789"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/moneyfly1/tvbox/main/tv.json","name":"moneyfly1_tv"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/moneyfly1/tv/main/adult.json","name":"moneyfly1-adult"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Emder-0311/tvbox_api/main/maotv.json","name":"Emder-0311"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/1.json","name":"13998394872_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13998394872/Renly/main/TVBox/FM.json","name":"13998394872-FM"},
@@ -251,6 +251,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/fuli1009.json","name":"jigedos-fuli1009"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/18.txt","name":"dalazhi-18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/sex.json","name":"dalazhi-sex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/18-2","name":"dalazhi-18-2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/18.json","name":"yangxb1-18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/19.json","name":"yangxb1-19"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/SEX.json","name":"yangxb1-SEX"},
