@@ -26,6 +26,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dlgt7/CatVodSpider-FongMi/main/json/adult.json","name":"dlgt7_adult"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dlgt7/gao/main/9918.json","name":"dlgt7_CR9918"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"SSM0415_avnetwork18x"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json","name":"SSM0415_avnetwork18x1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvboxcat/H/h","name":"SSM0415_h"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/maotest.txt","name":"SSM0415_maotest"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult1.json","name":"SSM0415_adult1"},
@@ -258,7 +259,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/tvbox.json","name":"yangxb1-tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/vip.json","name":"yangxb1-vip"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dalazhi/tvbox/main/1012.txt","name":"dalazhi-1012"},
-
+{"url":"https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h","name":"ctt49401-H"},
+{"url":"https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name":"tw94015-18+點播"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxb1/aa/main/cili/h.json
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json","name":"分享者18+"},
