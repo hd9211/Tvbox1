@@ -85,9 +85,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/claude-hub/TVBox/main/tvbox.json","name":"claude-hub-tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/TKJY.json","name":"Tinker-TTW-TKJY"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/测试.json","name":"Tinker-TTW-测试"},
-
-
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name":"hanhan8127-hanXC"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/mx.json","name":"bluefriendCN-mx"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/my.json","name":"bluefriendCN-my"},
 
 
 //
@@ -254,8 +255,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/PG.json","name":"alantang1977_PG"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/tang.json","name":"alantang1977_tang"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/tang.json","name":"alantang1977_tang"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/tvbox/main/mx.json","name":"bluefriendCN_mx"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/tvbox/main/my.json","name":"bluefriendCN_my"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/Yoursmile7/master/XC.json","name":"jigedos_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/yyfx.json","name":"mengzehe_yyfx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/My/main/A.json","name":"Grovin720_A"},
@@ -279,4 +278,5 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/w-aiguo/tvbox/main/m.json","name":"应用多多接口1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/w-aiguo/tvbox/main/t.json","name":"应用多多接口1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/w-aiguo/tvbox/main/v.json","name":"应用多多接口1"}
-]}
+]
+}
