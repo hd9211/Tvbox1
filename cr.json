@@ -295,6 +295,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/25","name":"kitty83307-25"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/18/26","name":"kitty83307-26"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/ma.json","name":"bluefriendCN-ma"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/achabuhecha/moviebox/main/1012.txt","name":"achabuhecha-1012"},
+
+
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/kitty83307/tvbox/main/bin
@@ -356,6 +359,12 @@
 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name": "天运造化丹"},
 {"url": "https://大屌蜂蜜.eu.org","name": "八门困锁阵"},
 {"url": "https://codeberg.org/caic/a/raw/branch/main/不正经.json","name": "十二都天紫雷阵"},
+
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/line_config.json
+{"url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name": "自用線路1-AV" },
+{"url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json","name": "自用線路2-AV"},
+{"url": "https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h","name": "資源線路3-18+"},
+{"url": "https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name": "線路3-AV"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/1280283789/TVBOX/main/LC18/多仓lc.json
 {"url": "https://s2.pub/xmbjmfldx","name":"L001仓"},
