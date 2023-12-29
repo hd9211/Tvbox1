@@ -63,6 +63,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hhqqwwjj/tvb1/main/XC.json","name":"hhqqwwjj_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fan.json","name":"qirenzhidao_fan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fongmi.json","name":"qirenzhidao_fongmi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"qirenzhidao-tv"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json","name":"qirenzhidao-app"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Chenzhusheng01/tvbox/main/db.json","name":"Chenzhusheng01_db"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json","name":"candymuj"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json","name":"candymuj1"},
@@ -94,8 +96,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niuo0/tvbox/main/tvbox.json","name":"niuo0-tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/manmandebaba/B/main/S","name":"manmandebaba-S"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/gyf/main/m.json","name":"gyfandzd-m"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"qirenzhidao-tv"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json","name":"qirenzhidao-app"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yes8080/TVBox/main/tvbox.json","name":"yes8080-tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wilsonXo/tvbox-sub/master/tvbox.json","name":"wilsonXo-tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wilsonXo/tvbox-sub/master/xiaoya.json","name":"wilsonXo-xiaoya"},
@@ -113,6 +113,14 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Creazy-youyou/tvbox_setfile/main/m.json","name":"Creazy-youyou-m"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"hy5528-XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt","name":"lxhfans-tv"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv1.txt","name":"lxhfans-tv1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhtv/111/main/cx","name":"swhtv-cx"},
+
+
+
+
+
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/jk
