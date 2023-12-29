@@ -105,11 +105,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cloudplains/jnsj/main/wacp.json","name":"cloudplains-wacp"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/godvon/Tvbox-yuan/main/dianbo.json","name":"godvon-dianbo"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zyclyj/TV/main/tvbox.json","name":"zyclyj-tvbox"},
-{"url":"https://codeberg.org/looktv/my/raw/branch/main/ck.json","name":"branch-ck"},
-{"url":"https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json","name":"branch-vip"},
-{"url":"https://codeberg.org/looktv/35xs/raw/branch/main/35xs.json","name":"branch-35xs"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/YSC.json","name":"ziyongdaima-YSC"},
-{"url":"https://download.kstore.space/download/4562/pglblb/0618.txt","name":"wokaotianshi123-0618"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Creazy-youyou/tvbox_setfile/main/m.json","name":"Creazy-youyou-m"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"hy5528-XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
@@ -119,8 +115,14 @@
 
 
 
-
-
+{"url":"https://codeberg.org/looktv/my/raw/branch/main/ck.json","name":"branch-ck"},
+{"url":"https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json","name":"branch-vip"},
+{"url":"https://codeberg.org/looktv/35xs/raw/branch/main/35xs.json","name":"branch-35xs"},
+{"url":"https://download.kstore.space/download/4562/pglblb/0618.txt","name":"wokaotianshi123-0618"},
+{"url":"http://lin.ohphp.com/2/tvkj.json","name":"4K线路1"},
+{"url":"http://lin.ohphp.com/da/bao.json","name":"4K线路2"},
+{"url":"http://lin.aosoubao.com/2/ymjr.json","name":"4K线路3"},
+{"url":"http://lin.ohphp.com/1/my.json","name":"4K线路4"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/jk
