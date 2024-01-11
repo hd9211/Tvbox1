@@ -23,7 +23,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json","name":"niubihu1_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json","name":"niubihu1_2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/3.json","name":"niubihu1_3"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/355.json","name":"niubihu1_355"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/376.json","name":"niubihu1_376"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/线路优选.json","name":"niubihu1_线路优选"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/线路优选带网盘资源.json","name":"niubihu1_线路优选带网盘资源"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mullvip/TVBox/main/1.json","name":"mullvip_1"},
@@ -133,7 +133,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/ziyong/main/xs.json","name":"hotword-xs"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1992YS/TB/main/yang.json","name":"1992YS-yang"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pengguozhen/TVBox/main/pengguozhen.json","name":"pengguozhen"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jojomom2020/TVbox/main/tv.json","name":"jojomom2020"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bigtangxi/yule/main/zdy.json","name":"bigtangxi_zdy"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yudengcheng/ydcbox/main/ydc.json","name":"yudengcheng_ydc"},
 
 
 
@@ -143,6 +145,12 @@
 {"url":"https://codeberg.org/looktv/35xs/raw/branch/main/35xs.json","name":"branch-35xs"},
 {"url":"https://download.kstore.space/download/4562/pglblb/0618.txt","name":"wokaotianshi123-0618"},
 
+
+
+
+{"url":"http://mdxgh.dynv6.net","name":"4K"},
+{"url":"https://gitee.com/wj0321/tvlive/raw/main/wj.json","name":"wj0321_wj"},
+{"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
 {"url":"http://lin.ohphp.com/1/my.json","name":"4K线路1"},
 {"url":"http://lin.ohphp.com/2/tvkj.json","name":"4K线路2"},
 {"url":"http://lin.ohphp.com/da/bao.json","name":"4K线路3"},
@@ -399,6 +407,8 @@
 {"url":"http://lin.aosoubao.com/1/sanbao.json","name":"畅影随行"},
 {"url":"http://lin.aosoubao.com/2/ymjr.json","name":"畅影随行1"},
 {"url":"http://lin.aosoubao.com/da/wa.json","name":"畅影随行2"},
+{"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
+{"url":"http://mdxgh.dynv6.net","name":"1080P"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"qiaoji8"},
 {"url":"http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"xhww.fun"},
 {"url":"https://pan.shangui.cc/f/8Qybfo/ssjyz.txt","name":"pan.shangui.cc"},
