@@ -162,10 +162,9 @@
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/dc.json
-{"name":"饭太硬","url":"https://hfr1107.github.io/up/fty.json"},
-{"name":"OK砂锅","url":"https://hfr1107.github.io/up/ok.json"},
-{"name":"应用市场","url":"https://hfr1107.github.io/up/fm.json"},
 {"name":"🍚太硬砂锅","url":"http://饭太硬.top/tv"},
+{"name":"l浪里小白龙","url":"http://39.101.135.137:8080"},
+{"name":"春盈天下","url":"https://wds.ecsxs.com/230989.json"},
 {"name":"🐼肥猫砂锅","url":"http://肥猫.live"},
 {"name":"🌼菜妮丝砂锅","url":"https://tvbox.cainisi.cf"},
 {"name":"🌹小米砂锅","url":"http://xhww.fun:63/小米/DEMO.json"},
@@ -181,7 +180,12 @@
 {"name":"🐕老刘备砂锅","url":"https://raw.liucn.cc/box/m.json"},
 {"name":"🌿月光宝盒砂锅","url":"https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json"},
 {"name":"🏡奇奇砂锅","url":"https://jihulab.com/lxhfans/TV/-/raw/master/tv.txt"},
+{"name":"壹梦在线","url":"http://qrh.yimkj.cn/ym/壹梦.json"},
+{"name":"乌鸦不太黑","url":"https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json"},
+{"name":"影探","url":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt?ref_type=heads"},
+{"name":"运输车","url":"http://tvkj.top/DC/ysc/tvkj/svip.json"},
 {"name":"✨星辰砂锅","url":"http://8.210.232.168/xc.json"},
+{"name":"应用市场","url":"https://hfr1107.github.io/up/json/fm.json"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/tgdc.json
 {"url":"https://bitbucket.org/ls125781003/tvboxtg/raw/main/饭太硬/api.json","name":"饭太硬"},
