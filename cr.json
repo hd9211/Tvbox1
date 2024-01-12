@@ -237,7 +237,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/ziyong/main/sd.json","name":"hotword_sd"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/achabuhecha/moviebox/main/00.json","name":"achabuhecha_00"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bigtangxi/yule/main/CR.json","name":"bigtangxi_CR"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zxc2817427/box-config/master/18.json","name":"zxc2817427_18"},
 
 
 
@@ -743,10 +743,10 @@
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/flc.json
 {"name":"🔞蜂蜜","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"},
 {"name":"🔞高天","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+{"name":"🔞绿茶","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/99.json"},
 {"name":"🔞猫影①","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/watson1982/CatVodSpider/main/json/adult.json"},
 {"name":"🔞猫影②","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"},
 {"name":"🔞二哈","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
-{"name":"🔞猫影视","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/jav.json"},
 {"name":"🔞成人","url":"https://fmjar.caioa.link/json/adult.json"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/871796397/godling-tvbox/main/greenhanming.json
@@ -1703,4 +1703,3 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/wh/main/wh.txt","name":"wuheng18_线路211"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/main/wh.txt","name":"wuheng18_线路212"}
 ]}
-
