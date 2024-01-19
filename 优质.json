@@ -153,7 +153,9 @@
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/2008hanbing/2008hanbing/main/jy.txt","name":"2008hanbing_jy"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/YF-pan/tvbox/main/tvbox.json","name":"YF-pan_tvbox"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/owen2000wy/owentv/main/OwenTV.json","name":"owen2000wy_OwenTV"},
-
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/tv_config.json","name":"jadehh_tv"},
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/he_tv_config.json","name":"jadehh_he_tv"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/helcddd/tvbox/main/candymuj1.json","name":"helcddd_candymuj1"},
 
 
 
@@ -393,7 +395,7 @@
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json","name":"天天开心"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/短剧频道/api.json","name":"短剧频道"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/荷城茶秀/api.json","name":"荷城茶秀"},
-{url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json","name":"少儿频道"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json","name":"少儿频道"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/动漫频道/api.json","name":"动漫频道"},
 
 
