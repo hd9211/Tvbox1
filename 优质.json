@@ -156,7 +156,7 @@
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/tv_config.json","name":"jadehh_tv"},
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/he_tv_config.json","name":"jadehh_he_tv"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/helcddd/tvbox/main/candymuj1.json","name":"helcddd_candymuj1"},
-
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/Tangxg2017/osc/main/TangxgJK-1.json","name":"Tangxg2017_TangxgJK-1"},
 
 
 
@@ -180,6 +180,20 @@
 {"url":"http://lin.aosoubao.com/da/wa.json","name":"4K线路6"},
 {"url":"http://lin.ohphp.com/1/my.json","name":"4K线路7"},
 {"url":"https://ghproxy.net/raw.githubusercontent.com/lxhfans/fans/master/duanju.json","name":"乐享短剧"},
+
+
+//https://ghproxy.net/https://raw.githubusercontent.com/Tangxg2017/dc/main/tangxgDC-1.json
+{"name":"🎯糖果主力线路🎯","url":"https://pan.shangui.cc/f/5mXbSA/tangxgJK0.json"},
+{"name":"🎯壹梦主力线路🎯","url":"http://qrh.yimkj.cn/ym/壹梦.json"},
+{"name":"🎯文坤主力线路🎯","url":"http://qrh.yimkj.cn/wk/文坤.json"},
+{"name":"🎯酷玩主力线路🎯","url":"http://qrh.yimkj.cn/kw/酷玩.json"},
+{"name":"🎯宝盒主力线路🎯","url":"http://qrh.yimkj.cn/bh/宝盒.json"},
+{"name":"🎯于氏主力线路🎯","url":"https://agit.ai/sejinan/app/raw/branch/box/yu"},
+{"name":"🎯南风主力线路🎯","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"🎯影视车主线路🎯","url":"http://svip.weixine.net:88/uploads/itvbox/svip.json"},
+{"name":"📀阿里玩偶线路📀","url":"http://qrh.yimkj.cn/al/阿里.json"},
+{"name":"📚教育专线线路📚","url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt"},
+{"name":"🤹🏼少儿益智线路🤹🏼","url":"http://qrh.yimkj.cn/se/少儿.json"},
 
 
 //https://ghproxy.net/https://raw.githubusercontent.com/ClodQiu/TVBox/main/5iClub.TV
