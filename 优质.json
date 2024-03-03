@@ -99,6 +99,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name":"hanhan8127-hanXC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanhan","name":"hanhan8127-hanhan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty/fty.json","name":"shichuanenhui-fty"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/ma.json","name":"bluefriendCN-mx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/my.json","name":"bluefriendCN-my"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/tvbox/main/tvbox.json","name":"victor1616888-tvbox"},
@@ -237,6 +238,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json","name":"guot55_pro"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/box原.json","name":"guot55_box原"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/SX/main/4k.json","name":"tvboxmt_4k"},
 
 
 
@@ -246,8 +248,7 @@
 
 
 
-
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/zysc/main/无意云.txt","name":"无意云"},  
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},  
 {"url":"https://box.iqinu.com","name":"龙门线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json","name":"龙门线路"},    
