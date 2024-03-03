@@ -263,6 +263,12 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/18.json","name":"hfr1107_18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/18-1.json","name":"hfr1107_18-1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/tvbox/main/18+.json","name":"asdf1319964f_18+"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox.json","name":"guot55_prox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox1.json","name":"guot55_prox1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox2.json","name":"guot55_prox2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox3.json","name":"guot55_prox3"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/tsys.json","name":"guot55_tsys"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/SX/main/官源vip.txt","name":"tvboxmt_官源vip"},
 
 
 
@@ -443,6 +449,8 @@
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/特制仓.txt
 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json","name": "你懂2"},
 
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemoncr.json
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json","name":"锅大侠(18+)"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/lugefuli.txt
 {"name":"陆哥数码：🔞陆哥福利1","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json"},
