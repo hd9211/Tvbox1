@@ -244,6 +244,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/stanlyshi/tvbox-cfg/master/ok.txt","name":"stanlyshi_ok"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LCii-Bot/TVBOX/main/4k.json","name":"LCii-Bot_4k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yongheng66/mytvbox/main/bqapi.json","name":"yongheng66_bqapi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/moyu.json","name":"supermeguo_摸鱼"},
+
 
 
 
@@ -1347,7 +1349,6 @@
 {"url":"http://lin.aosoubao.com/1/sanbao.json","name":"畅影随行"},
 {"url":"http://lin.aosoubao.com/2/ymjr.json","name":"畅影随行1"},
 {"url":"http://lin.aosoubao.com/da/wa.json","name":"畅影随行2"},
-{"url":"https://notabug.org/dongchenys/pt/raw/json/jianjie.json","name":"东辰影视"},
 {"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
 {"url":"https://gitee.com/shangyunvip/yingshicang/raw/master/moyu/moyu.json","name":"摸鱼4k1"},
 {"url":"https://gitee.com/shangyunvip/yscdx/raw/master/WP.json","name":"殇云WP"},
@@ -1356,10 +1357,13 @@
 {"url":"https://gitee.com/shangyunvip/yscdx/raw/master/wpcl.json","name":"殇云wpcl"},
 {"url":"https://gitee.com/shangyunvip/yscdx/raw/master/主线备用.json","name":"殇云主线备用"},
 {"url":"https://gitee.com/shangyunvip/yingshicang/raw/master/lexiang/tv.json","name":"乐享汇fans"},
-{"url":"http://mdxgh.dynv6.net","name":"1080P"},
+{"url":"http://www.wya6.cn/tv/yc.php","name":"无意云"},
+{"url":"https://gitee.com/zhaodehe/qlkj/raw/master/ys.json","name":"奇乐科技"},
+{"url":"https://notabug.org/dongchenys/pt/raw/json/liu.json","name":"东辰影视"},
 {"url":"https://tvkj888.cn/tvys/svip.json","name":"天微影视VIP线"},
 {"url": "https://tvkj888.cn/QX/svip.json","name":"七星影视VIP线"},
 {"url": "http://tv.tv520.shop","name":"tv520"},
+{"url":"http://mdxgh.dynv6.net","name":"1080P"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"qiaoji8"},
 {"url":"http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"xhww.fun"},
 {"url":"https://pan.shangui.cc/f/8Qybfo/ssjyz.txt","name":"pan.shangui.cc"},
@@ -2177,7 +2181,6 @@
 {"url":"http://111.67.196.181/mtv/meow.txt","name":"太阳线路"},
 {"url":"https://ju.binghe.ga/4.txt","name":"冰河接口"},
 {"url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8","name":"蚂蚁论坛接口"},
-{"url":"https://gitlab.com/duomv/duo/-/raw/main/v.json","name":"应用多多接口"},
 {"url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name":"月光宝盒接口"},
 {"url":"http://home.jundie.top:81/top98.json","name":"俊佬接口"},
 {"url":"https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt","name":"潇洒线路"},
