@@ -98,6 +98,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/GITH-TKJY.json","name":"Tinker-TTW-GITH-TKJY"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name":"hanhan8127-hanXC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanhan","name":"hanhan8127-hanhan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/xiaomin","name":"hanhan8127-小米"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty/fty.json","name":"shichuanenhui-fty"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/ma.json","name":"bluefriendCN-mx"},
@@ -121,6 +122,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/TVB.json","name":"ziyongdaima_TVB"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Creazy-youyou/tvbox_setfile/main/m.json","name":"Creazy-youyou-m"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"hy5528-XC"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/sub/my.json","name":"hy5528-my"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/sub/M.json","name":"hy5528-M"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhtv/111/main/cx","name":"swhtv-cx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhtv/111/main/240301综合影视.json","name":"swhtv-综合影视"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhtv/111/main/pro.json","name":"swhtv-pro"},
@@ -250,10 +253,19 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/qq1719248506.github.io/main/api.json","name":"qq1719248506_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wokaotianshi123/wokaotianshi123.github.io/main/pglblb/0618.txt","name":"wokaotianshi123_0618"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json","name":"sky4726_s"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/soeton/tvshow/main/miao.json","name":"soeton_miao"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/TVBoxOSC_workflow/master/tvbox/self_use.txt","name":"yangxiaoge_self_use"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json","name":"hackyjso_config"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yxwl333/TVBOX/main/自建.json","name":"yxwl333_自建"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yxwl333/TVBOX/main/巧技.json","name":"yxwl333_巧技"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/3371438472/tvbox/master/TV.json","name":"3371438472_TV"},
 
 
 
 
+
+
+{"url":"http://mdxgh.v6.rocks:9999/","name":"码点小干货"},
 {"url":"http://router.bopop.buzz:9999/mdxgh.json","name":"码点小干货"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/4TVBox/4TVBox/main/config.json","name":"4TVBox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/zysc/main/无意云.txt","name":"无意云"},  
@@ -1627,6 +1639,8 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixiadc.json
 {"name":"七夏TV📚七夏仓库","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json"},
+{"name":"七夏TV📚七夏仓库2","url":"https://gh.con.sh/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json"},
+{"name":"七夏TV📚404仓库","url":"https://gh.con.sh/https://raw.githubusercontent.com/xzwei528/qixia/main/XQX.json"},
 {"name":"七夏IPV6📚七夏仓库","url":"http://nas.qixia.love:8899/"},
 {"name":"肥猫📚七夏仓库","url":"http://肥猫.live"},
 {"name":"荷城茶秀📚七夏仓库","url":"http://rihou.vip:88/荷城茶秀"},
