@@ -31,6 +31,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult1.json","name":"SSM0415_adult1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult2.txt","name":"SSM0415_adult2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/adult2影視殼1.4.5格式.txt","name":"SSM0415_adult2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/18cn.json","name":"SSM0415_18cn"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json","name":"Guard-H_c"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyj0912/c120487/main/00tvx0.txt","name":"jyj0912_00tvx0"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mmfan/houxian-json/main/adult.json","name":"mmfan_adult"},
@@ -273,7 +274,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/SX/main/官源vip.txt","name":"tvboxmt_官源vip"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/TVBoxOSC_workflow/master/tvbox/fongmi_adult.json","name":"yangxiaoge_fongmi_adult"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gao410940747/tb/master/9918.json","name":"gao410940747_9918"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/TWJK01/tvbox/master/tvbox/學習.json","name":"TWJK01_學習"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ken088/pg/main/学习.json","name":"ken088_学习"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/panjinda/TVBOX/main/CandyMuj-18.json","name":"panjinda_CandyMuj-18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/18sex.txt","name":"bizhangjie_18sex"},
@@ -834,10 +834,16 @@
 {"url":"https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json","name":"🔞MHQTV线路"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/line_config.json
-{"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"自用線路1-AV"},
-{"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json","name":"自用線路2-AV"},
-{"url":"https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h","name":"資源線路3-18+"},
-{"url":"https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name":"線路3-AV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
+{"url":"https://wds.ecsxs.com/230989.json","name":"螞蟻線路2-TV"},
+{"url":"http://w.longba123.top/app/api.json","name":"龍霸線路3-TV",},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"自用線路1-AV",},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.txt","name":"自用線路2-AV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yescopys/box/825da80f57a48f181c0a91d67ea1ae2bec298126/ah/18cn.json","name":"自用線路3-AV"},
+{"url":"https://大屌蜂蜜.eu.org","name":"自用線路3-AV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h","name":"更新中3-18+"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name":"更新中3-AV"},
+
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/1280283789/TVBOX/main/LC18/多仓lc.json
 {"url":"https://s2.pub/xmbjmfldx","name":"L001仓"},
@@ -2318,3 +2324,4 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/wh/main/wh.txt","name":"wuheng18_线路211"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/main/wh.txt","name":"wuheng18_线路212"}
 ]}
+
