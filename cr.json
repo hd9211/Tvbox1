@@ -836,8 +836,8 @@
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/line_config.json
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
 {"url":"https://wds.ecsxs.com/230989.json","name":"螞蟻線路2-TV"},
-{"url":"http://w.longba123.top/app/api.json","name":"龍霸線路3-TV",},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"自用線路1-AV",},
+{"url":"http://w.longba123.top/app/api.json","name":"龍霸線路3-TV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"自用線路1-AV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.txt","name":"自用線路2-AV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yescopys/box/825da80f57a48f181c0a91d67ea1ae2bec298126/ah/18cn.json","name":"自用線路3-AV"},
 {"url":"https://大屌蜂蜜.eu.org","name":"自用線路3-AV"},
@@ -2324,4 +2324,3 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/wh/main/wh.txt","name":"wuheng18_线路211"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/main/wh.txt","name":"wuheng18_线路212"}
 ]}
-
