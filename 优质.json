@@ -296,8 +296,10 @@
 
 
 
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机稳定版"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
+{"url":"https://atomgit.com/lintech/tms/raw/master/source/stable/main.json","name":"时光机稳定版"},
+{"url":"https://atomgit.com/lintech/tms/raw/master/source/nightly/main.json","name":"时光机领先版"},
 {"url":"https://gitee.com/zhaodehe/qlkj/raw/master/ql.json","name":"qlkj_4K"},
 {"url":"https://notabug.org/dongchenys/pt/raw/json/zx.json","name":"dongchenys_4K"},
 {"url":"https://gitee.com/heng546199810/hxvip8/raw/master/hxvip3.txt","name":"恒星育华学堂之斧头帮专线接口"},
