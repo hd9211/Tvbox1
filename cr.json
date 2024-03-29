@@ -158,8 +158,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV/main/11.json","name":"123linyao123_11"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV/main/avnetwork18x.txt","name":"123linyao123_avnetwork18x"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sandeli/tgys/main/18.json","name":"sandeli_18"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/zb/tvbox-fl.json","name":"pcrock88_tvbox-fl"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/zb/zy.json","name":"pcrock88_zy"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/zb/fl.pcrock","name":"pcrock88_fl"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pcrock88/pcrock88.github.io/main/zb/tvbox.pcrock","name":"pcrock88_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yan91220/TVBox/main/最新福利接口0402.txt","name":"yan91220_最新福利接口0402"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zxj18/yun/main/online/new000000.json","name":"zxj18_new000000"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lin888666/520/main/ys/baohe","name":"lin888666_baohe"},
@@ -261,9 +261,13 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/caonimagfw/tv-box/main/18/18-02.json","name":"caonimagfw_18-02"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/caonimagfw/tv-box/main/18/18-03.json","name":"caonimagfw_18-03"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/sex.json","name":"child9527_sex"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/18.json","name":"hfr1107_18"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/18-1.json","name":"hfr1107_18-1"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/18-2.json","name":"hfr1107_18-2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/box/1668.json","name":"hfr1107_1668"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18.json","name":"hfr1107_18"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-1.json","name":"hfr1107_18-1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-2.json","name":"hfr1107_18-2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-3.json","name":"hfr1107_18-3"},
+
+
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/tvbox/main/18+.json","name":"asdf1319964f_18+"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/tvbox/main/J.json","name":"asdf1319964f_J"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox.json","name":"guot55_prox"},
@@ -288,10 +292,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/luffy94608/myTVB/master/18/18-03.json","name":"luffy94608_18-03"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfbykj/TVbox1/main/fljk.json","name":"hfbykj_fljk"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfbykj/TVbox1/main/x.jdon","name":"hfbykj_X"},
-
-
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/su147456888444/tvbox/main/18.json","name":"su147456888444_18"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zengjian03/han/master/18.json","name":"zengjian03_18"},
 
 
 
@@ -481,10 +483,11 @@
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemoncr.json
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json","name":"锅大侠(18+)"},
 
+
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/lugefuli.txt
 {"name":"陆哥数码：🔞陆哥福利1","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json"},
 {"name":"陆哥数码：🔞陆哥福利2","url":"https://suo.yt/0Dq8yxo"},
- {"name":"陆哥数码：🔞陆哥福利3","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
+{"name":"陆哥数码：🔞陆哥福利3","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
 {"name":"陆哥数码：🔞陆哥福利4","url":"https://suo.yt/KEooGLf"},
 {"name":"陆哥数码：🔞陆哥福利5","url":"https://s2.pub/xmbjmfldx"},
 {"name":"陆哥数码：🔞陆哥福利6","url":"https://s2.pub/sgqlwFL"},
