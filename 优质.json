@@ -240,6 +240,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json","name":"guot55_ygbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json","name":"guot55_pro"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/box原.json","name":"guot55_box原"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/yp/api.json","name":"guot55_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/SX/main/4k.json","name":"tvboxmt_4k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xtheqing/tvbox/main/DB1.json","name":"xtheqing_DB1"},
@@ -296,7 +297,7 @@
 
 
 
-
+{"url":"https://codeberg.org/xiaohe/123321/raw/branch/main/HD.json","name":"小盒公社"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机稳定版"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
 {"url":"https://atomgit.com/lintech/tms/raw/master/source/stable/main.json","name":"时光机稳定版"},
