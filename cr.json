@@ -34,6 +34,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/18cn.json","name":"SSM0415_18cn"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json","name":"Guard-H_c"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyj0912/c120487/main/00tvx0.txt","name":"jyj0912_00tvx0"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jyj0912/c120487/main/05155.txt","name":"jyj0912_05155"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mmfan/houxian-json/main/adult.json","name":"mmfan_adult"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mmfan/houxian-json/main/adult0.json","name":"mmfan_adult0"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json","name":"zhanghong1983_SEX"},
@@ -260,7 +261,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/caonimagfw/tv-box/main/18/18-01.json","name":"caonimagfw_18-01"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/caonimagfw/tv-box/main/18/18-02.json","name":"caonimagfw_18-02"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/caonimagfw/tv-box/main/18/18-03.json","name":"caonimagfw_18-03"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/sex.json","name":"child9527_sex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/bee.json","name":"child9527_bee"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/box/1668.json","name":"hfr1107_1668"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18.json","name":"hfr1107_18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-1.json","name":"hfr1107_18-1"},
@@ -280,6 +281,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gao410940747/tb/master/9918.json","name":"gao410940747_9918"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ken088/pg/main/学习.json","name":"ken088_学习"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/panjinda/TVBOX/main/CandyMuj-18.json","name":"panjinda_CandyMuj-18"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/panjinda/TVBOX/main/18+.json","name":"panjinda_18+"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/18sex.txt","name":"bizhangjie_18sex"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index.json","name":"bizhangjie_index"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/fongmi_adult.json","name":"yangxiaoge_fongmi_adult"},
@@ -2339,3 +2341,4 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/wh/main/wh.txt","name":"wuheng18_线路211"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/main/wh.txt","name":"wuheng18_线路212"}
 ]}
+
