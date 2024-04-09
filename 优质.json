@@ -304,6 +304,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/XC.json","name":"cysk003_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chwh7267/TVBox/main/XC.json","name":"chwh7267_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fhqeeqzp/tvbox/main/aa.json","name":"fhqeeqzp_aa"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pkpkgtr1/MY_TVbox/main/my.json","name":"pkpkgtr1_my"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox.json","name":"MemoryCollection_tvbox"},
 
 
 
@@ -341,6 +343,10 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2147d4af-ca77-48cf-914b-7d1e9c8290b3.bmp","name":"2哈学习接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/be4eac87-8ae8-4b0b-a059-5f3aa838a3d0.bmp","name":"急救知识接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/a9eba1d9-0210-4844-8b81-6762d9027ec6.bmp","name":"农民接口"},
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/d508ce3e-f916-4f62-b06d-b3d2f12ce130.bmp","name":"二牛接口"},
+
+
+
 
 {"name":"🐈影音天堂①","url": "https://agit.ai/1018610504/yytt/raw/branch/main/tongyong.json"},
 {"name":"👹影音天堂②","url": "https://agit.ai/1018610504/yytt/raw/branch/main/dimaston.json"},
@@ -369,14 +375,14 @@
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json","name":"文艺"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json","name":"教育"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json","name":"直播"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json","name":"磁力"},
-{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json","name":"云盘"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json","name":"文艺"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json","name":"教育"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json","name":"直播"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json","name":"磁力"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json","name":"云盘"},
 
 //https://github.com/hl128k/tvbox/
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/3/0821.json","name":"hl128k_0821"},
@@ -1766,13 +1772,13 @@
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/Python-SMTP/main/Attribute.ror
 {"url":"http://163.197.212.65:81/huatai3.py","name":"❓【非凡圈子】主线测试"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/huatai3.py","name":"1【非凡圈子】主线综合"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0827.json","name":"2️【非凡圈子】音乐曲艺"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0827.json","name":"2【非凡圈子】音乐曲艺"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0826.json","name":"3【非凡圈子】体育电竞"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0825.json","name":"4【非凡圈子】儿童学习"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0822.json","name":"5【非凡圈子】聚短视频"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0707.json","name":"6【非凡圈子】哔哩合集"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/jigedos/python2/master/0821.json","name":"7【非凡圈子】网络收集"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/Selenium_emoji.py","name":"8️【非凡圈子】专享二线"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/0821.json","name":"7️【非凡圈子】网络收集"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/Selenium_emoji.py","name":"8【非凡圈子】专享二线"},
 {"url":"https://gitee.com/limon906/cannula/raw/main/examples/Selenium_2h.py","name":"▶️二哈线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js.json","name":"▶️道长线路"},
 {"url":"https://gitee.com/limon906/Python/raw/master/file_transfer/mytext1.txt","name":"▶️影-小红书版"},
