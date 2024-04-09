@@ -306,12 +306,17 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fhqeeqzp/tvbox/main/aa.json","name":"fhqeeqzp_aa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pkpkgtr1/MY_TVbox/main/my.json","name":"pkpkgtr1_my"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox.json","name":"MemoryCollection_tvbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/main/tvbox.json","name":"hushujiang_tvbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan.txt","name":"fighter1993_fan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan1.txt","name":"fighter1993_fan1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan2.txt","name":"fighter1993_fan2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/lt.json","name":"fighter1993_lt"},
 
 
 
 
-
-
+{"name":"🎯️ 短剧合集 🎯","url":"https://jihulab.com/jie200911161/cat/-/raw/main/TVBOX/短剧/短剧.bmp"},
+{"name":"🎯 杰哥在线[影视] 🎯","url":"https://jihulab.com/jie200911161/cat/-/raw/main/TVBOX/2.bmp"},
 {"url":"https://codeberg.org/xiaohe/123321/raw/branch/main/HD.json","name":"小盒公社"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机稳定版"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
@@ -374,15 +379,15 @@
 
 
 
-//https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json","name":"文艺"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json","name":"教育"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json","name":"直播"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json","name":"磁力"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json","name":"云盘"},
+//https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/warehouse.txt
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/影视/api.json","name":"影视"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/动漫/api.json","name":"动漫"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/文艺/api.json","name":"文艺"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/体育/api.json","name":"体育"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/教育/api.json","name":"教育"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/直播/api.json","name":"直播"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/磁力/api.json","name":"磁力"},
+{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/云盘/api.json","name":"云盘"},
 
 //https://github.com/hl128k/tvbox/
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/3/0821.json","name":"hl128k_0821"},
