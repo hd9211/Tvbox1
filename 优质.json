@@ -306,11 +306,15 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fhqeeqzp/tvbox/main/aa.json","name":"fhqeeqzp_aa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pkpkgtr1/MY_TVbox/main/my.json","name":"pkpkgtr1_my"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox.json","name":"MemoryCollection_tvbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox_1.json","name":"MemoryCollection_tvbox_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/main/tvbox.json","name":"hushujiang_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan.txt","name":"fighter1993_fan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan1.txt","name":"fighter1993_fan1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan2.txt","name":"fighter1993_fan2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/lt.json","name":"fighter1993_lt"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg1.json","name":"aliluya1977_shg1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/XC.json","name":"aliluya1977_XC"},
+
 
 
 
@@ -348,8 +352,7 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2147d4af-ca77-48cf-914b-7d1e9c8290b3.bmp","name":"2哈学习接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/be4eac87-8ae8-4b0b-a059-5f3aa838a3d0.bmp","name":"急救知识接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/a9eba1d9-0210-4844-8b81-6762d9027ec6.bmp","name":"农民接口"},
-{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/d508ce3e-f916-4f62-b06d-b3d2f12ce130.bmp","name":"二牛接口"},
-
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/be4e36f5-82c8-40e1-bbd7-2b083ac04a04.bmp","name":"奥特接口"},
 
 
 
@@ -370,7 +373,7 @@
 {"url":"http://lin.aosoubao.com/1/sanbao.json","name":"4K线路4"},
 {"url":"http://lin.aosoubao.com/2/ymjr.json","name":"4K线路5"},
 {"url":"http://lin.aosoubao.com/da/wa.json","name":"4K线路6"},
-{"url":"https://gitee.com/zhaodehe/qlkj/raw/master/ys.json","name":"奇乐科技"},
+{"url":"https://ys.qlkjy.cn/ql/kj.json","name":"奇乐科技"},
 {"url":"https://接口.tvbox.中国","name":"V哥接口"},
 {"url":"http://稳定接口.tvbox.中国","name":"V哥稳定接口"},
 {"url":"https://notabug.org/dongchenys/pt/raw/json/liu.json","name":"东辰影视"},
