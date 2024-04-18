@@ -331,8 +331,13 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/N/main/fan.json","name":"kan31467_fan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/fty/fty.json","name":"kan31467_fty"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/5/main/a.json","name":"kan31467_a"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan.json","name":"kan31467_kan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan1.json","name":"kan31467_kan1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13174771/tvboxlist/main/aa.json","name":"13174771_aa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzwei528/zyc/main/vip.json","name":"xzwei528_vip"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/z1287724120/TVBox/main/1.json","name":"z1287724120_1"},
+
+
 
 
 
@@ -382,6 +387,9 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/be4e36f5-82c8-40e1-bbd7-2b083ac04a04.bmp","name":"奥特接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/589a9a0a-e951-46a5-8dc5-fa30969f70ab.bmp","name":"275听书接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/b90227bf-6e88-48a3-ac05-c87c6d792760.bmp","name":"动漫接口"},
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/4420e3c3-2662-4fd2-88f2-c0769fe92bfe.bmp","name":"黑狐接口"},
+
+
 
 
 {"name":"🐈影音天堂①","url": "https://agit.ai/1018610504/yytt/raw/branch/main/tongyong.json"},
