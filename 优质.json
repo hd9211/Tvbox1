@@ -339,7 +339,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/grapkeing/tvbox/main/test.json","name":"grapkeing_test"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LCii-Bot/TVBOX-S1/master/ys1.json","name":"LCii-Bot_ys1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LCii-Bot/TVBOX-S1/master/ys2.json","name":"LCii-Bot_ys2"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/XX.json","name":"cspoh123_XX"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/x.json","name":"cspoh123_X"},
 
 
 
@@ -348,6 +349,7 @@
 
 
 {"url":"https://juziyou.vip/tv","name":"橘子柚"},
+{"url":"https://gitee.com/hackyjso/box/raw/main/config.json","name":"橘子柚"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json","name":"橘子柚"},
 {"url":"https://安卓哥.com","name":"安卓哥"},
 {"url":"https://盒子迷.top/禁止贩卖","name":"盒子迷"},
