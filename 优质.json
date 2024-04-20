@@ -49,6 +49,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json","name":"ltxxjs_m"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json","name":"ltxxjs_m2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/xj.json","name":"ltxxjs_xj"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jsxj.json","name":"ltxxjs_jsxj"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/tvbox/main/xj.json","name":"ltxxjs_xj"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/01.json","name":"xiongjian83_01"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json","name":"xiongjian83_X"},
@@ -254,7 +255,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json","name":"sky4726_s"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/soeton/tvshow/main/miao.json","name":"soeton_miao"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/self_use.txt","name":"yangxiaoge_self_use"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json","name":"hackyjso_config"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config111.json","name":"hackyjso_config111"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yxwl333/TVBOX/main/自建.json","name":"yxwl333_自建"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yxwl333/TVBOX/main/巧技.json","name":"yxwl333_巧技"},
@@ -318,7 +318,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shang-zhen/tv/main/tvbox.json","name":"shang-zhen_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hhqqwwjj/GitHub/main/api.json","name":"hhqqwwjj_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hhqqwwjj/GitHub/main/api2.json","name":"hhqqwwjj_api2"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zxjun9028/tvbox/main/tvbox.json","name":"zxjun9028_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/XC.json","name":"Yoursmile77_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/zysy/master/zy2.txt","name":"tianwaifeifan_zy2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/zysy/master/zy备份.txt","name":"tianwaifeifan_zy备份"},
@@ -346,10 +345,17 @@
 
 
 
+
+
+{"url":"https://juziyou.vip/tv","name":"橘子柚"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json","name":"橘子柚"},
+{"url":"https://安卓哥.com","name":"安卓哥"},
+{"url":"https://盒子迷.top/禁止贩卖","name":"盒子迷"},
 {"url":"https://jihulab.com/jinenge/tvbox/-/raw/main/1.json","name":"进恩哥"},
 {"url":"http://hucongrong.web3v.work/短剧.json","name":"短剧"},
 {"url":"https://8307.kstore.space/kx.json","name":"蓝光"},
 {"url":"https://gitee.com/siye88/siye/raw/master/春盈天下","name":"春盈天下"},
+{"url":"https://盒子迷.top/春盈天下","name":"春盈天下"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/TVBOX盒子.txt","name":"盒子迷"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index.json","name":"bizhangjie_index"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/jsm.json","name":"夜泊金沙专线"},
@@ -391,6 +397,7 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/b90227bf-6e88-48a3-ac05-c87c6d792760.bmp","name":"动漫接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/4420e3c3-2662-4fd2-88f2-c0769fe92bfe.bmp","name":"黑狐接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/0b4cb0ce-5ae7-4022-9b77-fa3f47c74a79.bmp","name":"橘圈圈接口"},
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/01160e61-d41a-45e9-bead-f018206b702f.bmp","name":"磁力接口"},
 
 
 
@@ -1215,7 +1222,7 @@
 {"url":"http://www.饭太硬.top/tv/","name":"👍饭太硬"},
 {"name":"👍春盈","url":"https://盒子迷.top/春盈天下"},
 {"url":"http://我不是.摸鱼儿.top","name":"摸鱼"},
-{"name":"失眠","url":"http://清清.摸鱼儿.top"},
+{"name":"清清摸鱼","url":"http://清清.摸鱼儿.top"},
 {"url":"https://zzzzz.tv/tv/tvbox.json","name":"南瓜zzzzz"},
 {"url":"http://fan.xxooo.cf/tv","name":"饭太硬（备用）"},
 {"url":"http://xhww.fun/小米/DEMO.json","name":"👍小米"},
