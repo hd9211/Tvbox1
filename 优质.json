@@ -23,7 +23,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json","name":"niubihu1_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json","name":"niubihu1_2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/3.json","name":"niubihu1_3"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/340.json","name":"niubihu1_340"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/352.json","name":"niubihu1_352"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/线路优选.json","name":"niubihu1_线路优选"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/线路优选带网盘资源.json","name":"niubihu1_线路优选带网盘资源"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mullvip/TVBox/main/1.json","name":"mullvip_1"},
@@ -348,6 +348,7 @@
 
 
 
+{"url":"https://gitee.com/tvkj/tw/raw/main/svip.json","name":"天微影视vip"},
 {"url":"https://juziyou.vip/tv","name":"橘子柚"},
 {"url":"https://gitee.com/hackyjso/box/raw/main/config.json","name":"橘子柚"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json","name":"橘子柚"},
@@ -368,8 +369,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
 {"url":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机稳定版"},
 {"url":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
-{"url":"https://gitee.com/zhaodehe/qlkj/raw/master/ql.json","name":"qlkj_4K"},
 {"url":"https://notabug.org/dongchenys/pt/raw/json/zx.json","name":"一青叶我"},
+{"url":"https://json.qlkjy.cn/jk.json","name":"奇乐技术网"},
+{"url":"https://ys.qlkjy.cn/ql/jk.json","name":"奇乐技术网"},
 {"url":"https://gitee.com/heng546199810/hxvip8/raw/master/hxvip3.txt","name":"恒星育华学堂之斧头帮专线接口"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/3371438472/tvbox2/master/TV.json","name":"肥猫宝贝"},
 {"url":"http://router.bopop.buzz:9999/mdxgh.json","name":"码点小干货"},
@@ -389,7 +391,6 @@
 {"url":"https://codeberg.org/looktv/35xs/raw/branch/main/35xs.json","name":"branch-35xs"},
 {"url":"https://download.kstore.space/download/4562/pglblb/0618.txt","name":"wokaotianshi123-0618"},
 {"url":"https://gitee.com/xuxiamu/xm/raw/master/xiamu.json","name":"xuxiamu"},
-{"url":"https://gitee.com/zhaodehe/qlkj/raw/master/kj.json","name":"奇乐技术网"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/d508ce3e-f916-4f62-b06d-b3d2f12ce130.bmp","name":"爱软研究社"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2147d4af-ca77-48cf-914b-7d1e9c8290b3.bmp","name":"2哈学习接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/be4eac87-8ae8-4b0b-a059-5f3aa838a3d0.bmp","name":"急救知识接口"},
