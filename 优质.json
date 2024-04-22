@@ -343,6 +343,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/x.json","name":"cspoh123_X"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ediart/at/main/OK.json","name":"ediart_OK"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ediart/at/main/X.json","name":"ediart_X"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ediart/at/main/fm.json","name":"ediart_fm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ediart/at/main/jsm.json","name":"ediart_jsm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ediart/at/main/pg.json","name":"ediart_pg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/wex.json","name":"qilegeguai_wex"},
 
 
@@ -350,7 +353,7 @@
 
 
 
-
+{"url":"https://d.n13.club/","name":"老猫迷"},
 {"url":"https://d.kstore.space/download/2912/0318.json","name":"西夏影视"},
 {"url":"https://gitlab.com/xmbjm/dc/-/raw/main/T4.json","name":"拾光T4线路"},
 {"url":"https://gitlab.com/xmbjm/omg/-/raw/main/omg.json","name":"拾光单线路"},
