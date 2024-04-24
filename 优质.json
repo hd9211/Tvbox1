@@ -151,6 +151,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ellondoa/Yoursmile7-TVBox/master/XC.json","name":"ellondoa-XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenghua-x/TVBox-Config/master/TV.json","name":"chenghua-x-TV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/ziyong/main/xs.json","name":"hotword-xs"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/afan/main/FT4.json","name":"hotword-FT4"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/afan/main/fx.json","name":"hotword-fx"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/afan/main/t4.json","name":"hotword-t4"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1992YS/TB/main/yang.json","name":"1992YS-yang"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/pengguozhen/TVBox/main/pengguozhen.json","name":"pengguozhen"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jojomom2020/TVbox/main/tv.json","name":"jojomom2020"},
@@ -285,6 +288,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Newtxin/tvbox/main/4k.json","name":"Newtxin_4k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Newtxin/tvbox/main/2.json","name":"Newtxin_2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Newtxin/tvbox/main/0404.json","name":"Newtxin_0404"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Newtxin/tvbox/main/0423.json","name":"Newtxin_0423"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Newtxin/tvbox/main/0424.json","name":"Newtxin_0424"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fand0921/tvbox/main/1.json","name":"fand0921_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fand0921/tvbox/main/fand.json","name":"fand0921_fand"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/daiweichun.json","name":"wnddwc_daiweichun"},
@@ -356,11 +361,15 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/main.json","name":"wwz09_main"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/main-js.json","name":"wwz09_main-js"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/mao.json","name":"wwz09_mao"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/baikeshu/admin-TVBox/main/ying.txt","name":"baikeshu_ying"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Tonychen1223/testing/main/tvboxlist.json","name":"Tonychen1223_tvboxlist"},
 
 
 
 
 
+
+{"name":"PG节奏熊猫","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
 {"name":"🔥amin","url":"https://d.kstore.space/download/7587/amin.json"},
 {"name":"🦅网游鹰","url":"https://d.kstore.space/download/5141/wyyk.json"},
 {"url":"https://d.n13.club/","name":"老猫迷"},
@@ -492,6 +501,7 @@
 {"name":"👌OK猫影","url":"http://ok321.top/ok"},
 {"url":"http://肥猫.live","name":"🚀多多┃肥猫线路"},
 {"url":"https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt","name":"🚀多多┃OK线路"},
+{"url":"http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json","name":"🚀多多┃PG线路"},
 {"url":"https://pastebin.com/raw/5NHaxyGR","name":"🚀多多┃道长线路"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"🚀多多┃香雅情线路"},
 {"url":"http://tvbox.王二小放牛娃.xyz","name":"🚀多多┃放牛线路"},
@@ -506,15 +516,12 @@
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json","name":"🐹多多┃月光线路"},
 {"url":"http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌","name":"🐹多多┃欧歌线路"},
 {"url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name":"🐹多多┃吾爱线路"},
-{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"🐹多多┃云星线路"},
 {"url":"http://8.210.232.168/xc.json","name":"🐹多多┃星辰线路"},
 {"url":"http://www.liuyunw.com:88/img","name":"🐹多多┃神仙线路"},
 {"url":"https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json","name":"💎多多┃不良帅线路"},
 {"url":"https://jxjson.icu/balabala","name":"💎多多┃巴拉线路"},
-{"url":"http://meowtv.cn/tv","name":"💎多多┃喵影视线路"},
 {"url":"https://tv.lan2wan.top/candymuj.json","name":"💎多多┃看电影线路"},
 {"url":"http://我不是.摸鱼儿.top","name":"💎多多┃摸鱼线路"},
-{"url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json","name":"🏄️多多┃业余线路"},
 {"url":"https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子","name":"🏄️多多┃夜猫子线路"},
 {"url":"http://sinopacifichk.com/box/56.txt","name":"🏄️多多┃太平洋线路"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"🏄️多多┃高天流云"},
@@ -1245,7 +1252,7 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json
 {"url":"http://www.饭太硬.top/tv/","name":"👍饭太硬"},
-{"name":"春盈","url":"https://盒子迷.top/春盈天下"},
+{"name":"春盈","url":"https://wds.ecsxs.com/231726.css"},
 {"url":"http://我不是.摸鱼儿.top","name":"摸鱼"},
 {"name":"失眠","url":"http://清清.摸鱼儿.top"},
 {"name":"南瓜zzzzz","url":"https://zzzzz.tv/tv/tvbox.json"},
