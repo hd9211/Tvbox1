@@ -179,6 +179,12 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/yyfx.json","name":"mengzehe_yyfx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/自用源","name":"mengzehe_自用源"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8-fongmi.txt","name":"franksun1211_E8-fongmi"},
+{"url":"hhttps://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/LS-main/18.json","name":"franksun1211_18"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8plus.txt","name":"franksun1211_E8plus"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8jk.txt","name":"franksun1211_E8jk"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8jk01.txt","name":"franksun1211_E8jk01"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8jk_fenwe.txt","name":"franksun1211_E8jk_fenwe"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TXT/main/E8plus-bak.txt","name":"franksun1211_E8plus-bak"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/xiaoH/main/xx.json","name":"jigedos_xx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/1667621493.txt","name":"cspoh123_1667621493"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cspoh123/tvbox/main/x6.json","name":"cspoh123_x6"},
@@ -267,10 +273,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-1.json","name":"hfr1107_18-1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-2.json","name":"hfr1107_18-2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/api/main/json/18-3.json","name":"hfr1107_18-3"},
-
-
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/tvbox/main/18+.json","name":"asdf1319964f_18+"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/tvbox/main/J.json","name":"asdf1319964f_J"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json","name":"guot55_pro"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox.json","name":"guot55_prox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox1.json","name":"guot55_prox1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/prox2.json","name":"guot55_prox2"},
@@ -318,7 +323,13 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL.json","name":"aa123jg_wyykFL"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json","name":"aliluya1977_papa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dudu526/zth/main/69.json","name":"dudu526_69"},
-
+{"url":"https://s2.pub/sgqlwFL","name":"sgqlwFL"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gengliye/tvbox/main/fj365.json","name":"gengliye_fj365"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json","name":"wwb521_video"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ZZVIP/pg/main/18plus.json","name":"ZZVIP_18plus"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/lb/XX.txt","name":"beyonder588_XX"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/CR.m3u8","name":"maoystv_CR"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/anran111111111111111/Dong-learn9/main/vip.json","name":"anran_vip"},
 
 
 
@@ -332,9 +343,6 @@
 {"url":"https://raw.githubusercontent.com/yescopys/box/main/ah/ah.json","name":"ah(Github)"},
 {"url":"https://raw.githubusercontent.com/yescopys/box/main/19-1/19-1.json","name":"19-1(Github)"},
 {"url":"https://raw.githubusercontent.com/yescopys/box/main/bocai/bocai.json","name":"bocai(Github)"},
-{"url":"https://www.qiqiguai.cn/tv/fl/8/index.txt","name":"地瓜妹妹🍠福利1🍠"},
-{"url":"https://www.qiqiguai.cn/tv/fl/9/index.txt","name":"地瓜妹妹🍠福利2🍠"},
-{"url":"https://www.qiqiguai.cn/tv/fl/7/api.json","name":"地瓜妹妹🍠福利3🍠"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt","name":"huyuan_1665283016"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1667621493.txt","name":"shuyuan_1667621493"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1666225624.txt","name":"shuyuan_1666225624"},
