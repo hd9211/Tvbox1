@@ -11,6 +11,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/备用.json","name":"一木备用"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木cs.json","name":"一木cs"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json","name":"FongMi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/T00700/Yc-TVBOX/main/1.json","name":"T00700_1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/T00700/Yc-TVBOX/main/2.json","name":"T00700_2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tvbox.json","name":"tuji-2015"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zzzlllmmm1/tv/main/zzz.json","name":"zzzlllmmm1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tv1.txt","name":"c120487_00tv1"},
@@ -247,6 +249,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json","name":"guot55_pro"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/box原.json","name":"guot55_box原"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/yp/api.json","name":"guot55_api"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json","name":"guot55_max"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxmt/SX/main/4k.json","name":"tvboxmt_4k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xtheqing/tvbox/main/DB1.json","name":"xtheqing_DB1"},
@@ -373,6 +376,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/todou66/tvbox/main/PG.json","name":"todou66_PG"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/todou66/tvbox/main/d.json","name":"todou66_d"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/todou66/tvbox/main/jbxa.json","name":"todou66_jbxa"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/tvbox.txt","name":"4yt1k_tvbox"},
+
+
 
 
 
@@ -391,9 +397,21 @@
 {"name":"🍎苹果国际城🍎","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaogangzong/box-pg/main/jsm.json"},
 {"name":"📦雷欧资源箱📦","url":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/LEO.json?ref_type=heads"},
 {"name":"PG节奏熊猫","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
+
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/ztxiaoyao/tvbox/main/修改版.txt
+{"name":"自制接口离歌主页线路 ","url":"http://39.101.135.137:8080"},
+{"name":"离歌主页线路","url": "http://39.101.135.137:8080"}, 
+{"name":"🍎鼎盛原小苹果🍎","url":"http://61.183.41.92:588/影视/鼎盛MAX.json"},
+{"url":"https://qixing.myhkw.com/tianwei/svip.json","name":"🚀天微影视VIP线🚀"},
+{"url":"https://152.32.170.60/kvymin/TVRule/raw/branch/master/config.json","name":"kvymin线路"},
+{"url":"http://qixing.myhkw.com/QX/api.json","name":"🚀七星影视VIP线"},
+{"url":"https://152.32.170.60/hu/hcr/raw/branch/master/10086.txt","name":"PY最新"},
+
+
 {"name":"🔥amin","url":"https://d.kstore.space/download/7587/amin.json"},
 {"name":"🦅网游鹰","url":"https://d.kstore.space/download/5141/wyyk.json"},
 {"name":"🦅网游鹰","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk.json"},
+{"name":"🈵cally满①","url":"https://s2.pub/cally"},
 {"url":"https://d.n13.club/","name":"老猫迷"},
 {"url":"http://152.32.170.60/ddx/TVBox/raw/branch/master/t4.json","name":"老猫迷"},
 {"url":"https://d.kstore.space/download/2912/0318.json","name":"西夏影视"},
@@ -458,14 +476,24 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/36ccde62-800c-4e35-bfdf-06c7456fa05b.bmp","name":"央视接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/15dfd77a-2eeb-4984-9516-14a177b1a68e.bmp","name":"韩剧接口"},
 
-
-
+////http://120.79.4.185/dc.json
+{"url":"http://120.79.4.185","name": "公众号[码点小干货]"},
+{"url":"http://120.79.4.185","name":"🍎 码点苹果仓 🍎"},
+{"url":"http://router.bopop.buzz:9999/yyds.json","name":"🍊 码点橘子仓 🍊"},
+{"url":"http://mdxgh.mohuajz.eu.org/mdxgh.json","name":"🌽 码点玉米仓 🌽"},
+{"url":"http://mdxgh.mohuajz.eu.org/md.json","name":"🍆 码点茄子仓 🍆"},
+{"url":"http://mdxgh.tpddns.cn:9999","name":"🍇 码点葡萄仓 🍇"},
+{"url":"http://router.bopop.buzz:9999/mdxgh.json","name":"🍑 码点桃子仓 🍑"},
+{"url":"http://mdxgh.tpddns.cn:9999/md.json","name":"🍉 码点西瓜仓 🍉"},
+{"url":"http://router.bopop.buzz:9999/qj.json","name":"🍓 码点草莓仓 🍓"},
+{"url":"http://mdxgh.tpddns.cn:9999/qj.json","name":"🍋 码点柠檬仓 🍋"},
+{"url":"http://120.79.4.185/qj.json","name":"🍒 码点樱桃仓 🍒"},
+{"url":"http://mdxgh.mhfs.eu.org/mdxgh.json","name":"🍍 码点菠萝仓 🍍"},
+{"url":"http://mdxgh.mhfs.eu.org/md.json","name":"🍅 码点柿子仓 🍅"},
 
 
 {"name":"🐈影音天堂①","url": "https://agit.ai/1018610504/yytt/raw/branch/main/tongyong.json"},
 {"name":"👹影音天堂②","url": "https://agit.ai/1018610504/yytt/raw/branch/main/dimaston.json"},
-
-
 
 {"url":"http://lin.ohphp.com/3/qg.json","name":"qg"},
 {"url":"https://notabug.org/dongchenys/pt/raw/json/jianjie.json","name":"dongchenys_4K"},
