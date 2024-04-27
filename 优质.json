@@ -377,6 +377,14 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/todou66/tvbox/main/d.json","name":"todou66_d"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/todou66/tvbox/main/jbxa.json","name":"todou66_jbxa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/4yt1k/TVBox/main/tvbox.txt","name":"4yt1k_tvbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fav.json","name":"s14685_fav"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/favnet.json","name":"s14685_favnet"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fty.json","name":"s14685_fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fty2.json","name":"s14685_fty2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/net.json","name":"s14685_net"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/sc.json","name":"s14685_sc"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tb.json","name":"s14685_tb"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tbnet.json","name":"s14685_tbnet"},
 
 
 
@@ -407,6 +415,8 @@
 {"url":"http://qixing.myhkw.com/QX/api.json","name":"🚀七星影视VIP线"},
 {"url":"https://152.32.170.60/hu/hcr/raw/branch/master/10086.txt","name":"PY最新"},
 
+{"name":"🐯自定tb","url":"http://winniec.asuscomm.com/iptv/tb.json"},
+{"name":"🐯自定fav","url":"http://winniec.asuscomm.com/iptv/fav.json"},
 
 {"name":"🔥amin","url":"https://d.kstore.space/download/7587/amin.json"},
 {"name":"🦅网游鹰","url":"https://d.kstore.space/download/5141/wyyk.json"},
