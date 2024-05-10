@@ -245,7 +245,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/bf/master/2.txt","name":"tianwaifeifan_2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/bf/master/zy2.txt","name":"tianwaifeifan_zy2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/bf/master/zy备份.txt","name":"tianwaifeifan_zy备份"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json","name":"guot55_ygbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json","name":"guot55_月光宝盒"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json","name":"guot55_pro"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/box原.json","name":"guot55_box原"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/yp/api.json","name":"guot55_云盘合集"},
@@ -417,7 +417,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json","name":"xinyi1984_xy"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/movies.json","name":"wwb521_movies"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/movies.json","name":"zeee-u_movies"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
 
 
 
@@ -569,21 +569,15 @@
 {"url":"http://mdxgh.mhfs.eu.org/md.json","name":"🍅 码点柿子仓 🍅"},
 
 
-{"name":"🐈影音天堂①","url": "https://agit.ai/1018610504/yytt/raw/branch/main/tongyong.json"},
-{"name":"👹影音天堂②","url": "https://agit.ai/1018610504/yytt/raw/branch/main/dimaston.json"},
-
-{"url":"http://lin.ohphp.com/3/qg.json","name":"qg"},
-{"url":"https://notabug.org/dongchenys/pt/raw/json/jianjie.json","name":"dongchenys_4K"},
-{"url":"https://gitee.com/wj0321/tvlive/raw/main/wj.json","name":"wj0321_wj"},
 {"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
 {"url":"http://lin.ohphp.com/1/my.json","name":"宇静鸣"},
 {"url":"http://lin.ohphp.com/2/tvkj.json","name":"宇静鸣"},
 {"url":"http://lin.ohphp.com/da/bao.json","name":"4K线路3"},
+{"url":"http://lin.ohphp.com/3/qg.json","name":"宇静鸣"},
 {"url":"http://lin.ohphp.com/yinliu/xc.json","name":"4K线路7"},
 {"url":"https://接口.tvbox.中国","name":"V哥接口"},
 {"url":"http://稳定接口.tvbox.中国","name":"V哥稳定接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/6c4776f1-6ce7-42c5-a39a-dc3b273090a3.bmp","name":"IKTV"},
-
 
 
 
@@ -2504,6 +2498,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/业余.txt","name":"guxiangbin-业余"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/业余少儿.txt","name":"guxiangbin-业余少儿"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/业余盘搜.txt","name":"guxiangbin-业余盘搜"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/业余阿里.txt","name":"guxiangbin-业余阿里"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/丽人行科技.txt","name":"guxiangbin-丽人行科技"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/乌鸦乐乐.txt","name":"guxiangbin-乌鸦乐乐"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/二哈.txt","name":"guxiangbin-二哈"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guxiangbin/tvbox2/main/乌鸦.txt","name":"guxiangbin-乌鸦"},
