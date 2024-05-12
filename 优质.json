@@ -348,6 +348,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/5/main/a.json","name":"kan31467_a"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan.json","name":"kan31467_kan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan1.json","name":"kan31467_kan1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan2.json","name":"kan31467_kan2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan3.json","name":"kan31467_kan3"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13174771/tvboxlist/main/aa.json","name":"13174771_aa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzwei528/zyc/main/vip.json","name":"xzwei528_vip"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/z1287724120/TVBox/main/1.json","name":"z1287724120_1"},
@@ -419,6 +421,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/movies.json","name":"zeee-u_movies"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/18503873514/NPX/main/配置/影视.json","name":"18503873514_影视"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV123/main/jsm.json","name":"123linyao123_jsm"},
+
+
+
 
 
 
@@ -445,7 +451,8 @@
 {"url":"https://gitee.com/newtxin/tvbox/raw/main/1.json","name":"纽特帅"},
 
 
-
+{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/kan31467/1/main/json/kan.json","name":"💗kan💗"},
+{"url":"https://notabug.org/kan314/M/raw/main/kan.json","name": "💗kan备用1💗"},
 {"url":"https://notabug.org/kan314/gao/raw/master/js.json","name":"💗汉💗"},
 {"name":"🔮宅男必备站🔮","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"🎉东辰影视口🎉","url":"https://gitee.com/dongchenys/liu/raw/master/hc.json"},
@@ -549,6 +556,7 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/56a17912-21a4-45aa-945b-a51e2f30226c.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/0ab79f0b-0b8b-4aeb-b076-ec9d20690a19.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/91761004-a885-4ab0-8dab-939a891dc5f8.bmp","name":"T4接口"},
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/00e1fa01-14df-499b-90b4-4c8258a75b05.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/36ccde62-800c-4e35-bfdf-06c7456fa05b.bmp","name":"央视接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/15dfd77a-2eeb-4984-9516-14a177b1a68e.bmp","name":"韩剧接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/e77177d0-38c7-42c2-8157-71b6524ba29a.bmp","name":"皮皮接口"},
