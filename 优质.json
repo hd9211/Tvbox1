@@ -426,8 +426,14 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/no7ren/tvbox/main/05132k.json","name":"no7ren_05132k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/no7ren/tvbox/main/05134k.json","name":"no7ren_05134k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/no7ren/tvbox/main/13032024","name":"no7ren_13032024"},
-
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/0404.json","name":"yotudo_0404"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/0423.json","name":"yotudo_0423"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/0424.json","name":"yotudo_0424"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/0501.json","name":"yotudo_0501"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/0507.json","name":"yotudo_0507"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/2.json","name":"yotudo_2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/4k.json","name":"yotudo_4k"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmq/tvBoxSource/main/source.json","name":"xmq_source"},
 
 
 
@@ -475,16 +481,17 @@
 {"url":"http://qixing.myhkw.com/QX/api.json","name":"🚀七星影视VIP线"},
 {"url":"https://152.32.170.60/hu/hcr/raw/branch/master/10086.txt","name":"PY最新"},
 
-{"name":"🐯自定GHfav","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fav.json"},
-{"name":"🐯自定GHtb","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tb.json"},
+{"name":"🐯自定GHfav","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/favgh.json"},
+{"name":"🐯自定GHtb","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tbgh.json"},
 {"name":"🐯自定net","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/net.json"},
-{"name":"🐯自定fav","url":"http://winniec.asuscomm.com/iptv/fav.json"},
-{"name":"🐯自定tb","url":"http://winniec.asuscomm.com/iptv/tb.json"},
+{"name":"🐯自定fav","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fav.json"},
+{"name":"🐯自定tb","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tb.json"},
+{"name":"🐯自定tvbox","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tvbox.json"},
 {"name":"🐯自定favnet","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/favnet.json"},
 {"name":"🐯自定tbnet","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tbnet.json"},
-{"name":"🐯自定fty","url":"http://winniec.asuscomm.com/iptv/fty.json"},
+{"name":"🐯自定fty","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fty.json"},
 
-
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyykdc.json
 {"name":"🔥amin","url":"https://d.kstore.space/download/7587/amin.json"},
 {"name":"🦅网游鹰","url":"https://d.kstore.space/download/5141/wyyk.json"},
 {"name":"🦅网游鹰","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyyk.json"},
@@ -599,6 +606,12 @@
 {"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/直播/api.json","name":"直播"},
 {"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/磁力/api.json","name":"磁力"},
 {"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/云盘/api.json","name":"云盘"},
+
+//http://ztha.top/TVBox/GYCK.json
+{"name":"📛公众号丨挺好分享","url":"http://ztha.top/TVBox/thdjk.json"},
+{"name":"📛挺好丨PG本地包","url":"http://ztha.top/pg/jsm.json"},
+{"name":"📛挺好丨粉丝投稿","url":"http://ztha.top/TVBox/thfsjk.json"},
+{"name":"🧶挺好丨挺好[JS]","url":"http://ztha.top/catjs/JS/js.json"},
 
 //https://github.com/hl128k/tvbox/
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/3/0821.json","name":"hl128k_0821"},
