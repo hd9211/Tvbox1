@@ -434,6 +434,21 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/2.json","name":"yotudo_2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TV/4k.json","name":"yotudo_4k"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmq/tvBoxSource/main/source.json","name":"xmq_source"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/TANG0105/TVBox/main/0105.json","name":"TANG0105_0105"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/1","name":"tvboxtofree_1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/2","name":"tvboxtofree_2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/3","name":"tvboxtofree_3"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/5","name":"tvboxtofree_5"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/6","name":"tvboxtofree_6"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/7","name":"tvboxtofree_7"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/8","name":"tvboxtofree_8"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/app.json","name":"ly2517_app"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/juyou.json","name":"ly2517_juyou"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/py.json","name":"ly2517_py"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/tvbox2.json","name":"ly2517_tvbox2"},
+
+
+
 
 
 
@@ -705,24 +720,10 @@
 {"url":"https://github.moeyy.xyz/raw.githubusercontent.com/SnailVod/DEOM/main/gzh1.txt","name":"『免费分享』"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/line2-many.json
-{"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
-{"url":"https://wds.ecsxs.com/230989.json","name":"☃螞蟻線路3-TV〔20231212〕"},
+{"url":"https://raw.githubusercontent.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
+{"url":"https://raw.githubusercontent.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json","name":"發現線路2-TV〔20240410〕"},    
+{"url":"http://yingshi.fongmi.eu.org/","name":"☃螞蟻線路3-TV〔20240513〕"},
 {"url":"http://w.longba123.top/app/api.json","name":"✨龍霸線路4-TV〔20231212〕"},
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"💨南风〔多条线路〕"}, 
-{"url":"http://52bsj.vip:98/wuai","name":"🌝吾爱〔多条线路〕"}, 
-{"url":"http://9xi4o.tk/0725.json","name":"4K云盘〔多条线路〕"}, 
-{"url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name":"🍎小苹果〔多条线路〕"},
-{"url":"https://raw.iqiq.io/liu673cn/box/main/m.json","name":"🍸老刘备〔多条线路〕"},
-{"url":"http://js.134584.xyz/json/pp87.json","name":"💨白嫖线路〔多条线路〕"},
-{"url":"http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0","name":"🐾兽爪线路〔多条线路〕"},
-{"url":"http://www.dmtv.ml/mao/single.json","name":"🧗‍♀️乱世〔多条线路〕"},
-{"url":"https://dxawi.github.io/0/0.json","name":"📱网络搜集①〔多条线路〕"},
-{"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"📱网络搜集②〔多条线路〕"},
-{"url":"http://js.134584.xyz/json/pp87.json","name":"📱网络搜集③〔多条线路〕"},
-{"url":"https://agit.ai/Jonwall/Box/raw/branch/a/T20.json","name":"📱网络搜集④〔多条线路〕"},
-{"url":"http://byyds.top/w.txt","name":"📱网络搜集⑤〔多条线路〕"},
-{"url":"https://raw.iqiq.io/liu673cn/box/main/m.json","name":"📱网络搜集⑥〔多条线路〕"},
-{"url":"http://www.dmtv.ml/mao/mao.php?type=single","name":"📱网络搜集⑦〔多条线路〕"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/all.json
 {"name":"💙阿里搜片","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/💙阿里搜片.txt"},
