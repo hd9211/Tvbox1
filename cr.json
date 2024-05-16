@@ -372,6 +372,13 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TVBoxSource-main/18/星云线路.json","name":"yotudo_星云线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TVBoxSource-main/18/浮力yyfxz1.json","name":"yotudo_浮力yyfxz1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TVBoxSource-main/18/蜂蜜在线.json","name":"yotudo_蜂蜜在线"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yotudo/tvbox/main/TVBoxSource-main/直播源/yyfx.json","name":"yotudo_yyfx"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Newtxin/tvbox/main/fuli.json","name":"Newtxin_fuli"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvboxtofree/1/main/4","name":"tvboxtofree_4"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/18.json","name":"ly2517_18"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/19.json","name":"ly2517_19"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/vip.json","name":"ly2517_vip"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up003/main/tv/1668.json","name":"hfr1107_1668"},
 
 
 
@@ -976,15 +983,11 @@
 {"url":"https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json","name":"🔞MHQTV线路"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/line_config.json
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
-{"url":"https://wds.ecsxs.com/230989.json","name":"螞蟻線路2-TV"},
-{"url":"http://w.longba123.top/app/api.json","name":"龍霸線路3-TV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt","name":"自用線路1-AV"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.txt","name":"自用線路2-AV"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yescopys/box/825da80f57a48f181c0a91d67ea1ae2bec298126/ah/18cn.json","name":"自用線路3-AV"},
-{"url":"https://大屌蜂蜜.eu.org","name":"自用線路3-AV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json","name":"自用線路2-AV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yescopys/box/main/ah/18cn.json","name":"自用線路3-AV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h","name":"更新中3-18+"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name":"更新中3-AV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt","name":"更新中-AV"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/1280283789/TVBOX/main/LC18/多仓lc.json
