@@ -453,6 +453,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ly2517/test/main/tvbox2.json","name":"ly2517_tvbox2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bingwei288/TvBox/main/zdy.json","name":"bingwei288_zdy"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/szhuilaile/tvbox1/main/cw.txt","name":"szhuilaile_cw"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ayuyyae/maccmstvbox/master/tv.json","name":"Ayuyyae_tv"},
+
+
 
 
 
@@ -551,8 +554,10 @@
 {"url":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
 {"url":"http://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json","name": "🍑王🏆线路"},
 {"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name": "短剧 | 心动"},
-{"url":"https://json.qlkjy.cn/zy.json","name":"奇乐技术网"},
-{"url":"https://ys.qlkjy.cn/ql/zy.json","name":"奇乐技术网"},
+
+{"url":"https://json.qlkjy.cn/pz.json","name":"奇乐技术网"},
+{"url":"https://ys.qlkjy.cn/ql/pz.json","name":"奇乐技术网"},
+
 {"url":"https://gitee.com/heng546199810/hxvip8/raw/master/hxvip3.txt","name":"恒星斧头帮"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/3371438472/tvbox2/master/TV.json","name":"肥猫宝贝"},
 {"url":"http://router.bopop.buzz:9999/mdxgh.json","name":"码点小干货"},
@@ -587,6 +592,7 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/0ab79f0b-0b8b-4aeb-b076-ec9d20690a19.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/91761004-a885-4ab0-8dab-939a891dc5f8.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/00e1fa01-14df-499b-90b4-4c8258a75b05.bmp","name":"T4接口"},
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/75fc2c2b-a89b-4668-adeb-04f8df7511a3.bmp","name":"DJMV T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/36ccde62-800c-4e35-bfdf-06c7456fa05b.bmp","name":"央视接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/15dfd77a-2eeb-4984-9516-14a177b1a68e.bmp","name":"韩剧接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/e77177d0-38c7-42c2-8157-71b6524ba29a.bmp","name":"皮皮接口"},
@@ -654,6 +660,12 @@
 {"url":"http://fmys.top/fmys.json","name":"🏠驸马影视"},
 {"url":"https://6446.kstore.space/fmys.json","name":"🏠驸马影视（备用）"},
 {"url":"https://6446.kstore.space/fmwp.json","name":"🏠驸马影视（网盘4K专线）"},
+
+//https://gitee.com/shangyunvip/cjdc/raw/master/json/1.json
+{"url":"https://gitee.com/shangyunvip/yscdx/raw/master/sydx.json","name":"🐉殇云综合主线-1🐉"},
+{"url":"https://gitee.com/shangyunvip/yscdx/raw/master/WP.json","name":"⚡阿里夸克磁力PG-2⚡"},
+{"url":"https://gitee.com/shangyunvip/yscdx/raw/master/jtxx.json","name":"📚学习娱乐线路-3📚"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/jiexi.json","name":"⚠️解析嗅探资源慎用-4⚠️"},
 
 //http://8.210.232.168/dc1.json
 {"url":"http://8.210.232.168/xc.json","name":"（微信公众号）玉玉软件库"},
