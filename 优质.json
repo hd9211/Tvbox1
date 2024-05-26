@@ -459,6 +459,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bingwei288/TvBox/main/zdy.json","name":"bingwei288_zdy"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/szhuilaile/tvbox1/main/cw.txt","name":"szhuilaile_cw"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ayuyyae/maccmstvbox/master/tv.json","name":"Ayuyyae_tv"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lansonsam/alist-tvbox-url/main/api.json","name":"lansonsam_api"},
 
 
 
@@ -466,6 +467,7 @@
 
 
 
+{"url":"https://xingyuexi.eu.org/xmzf.json","name":"寻梦之帆"},
 {"url":"https://notabug.org/wc/3/raw/master/100.json","name":"影视仓接口2"},
 {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json","name":"K"},
 {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json","name":"业余"},
@@ -500,7 +502,6 @@
 {"name":"PG节奏熊猫","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/ztxiaoyao/tvbox/main/修改版.txt
-{"name":"自制接口离歌主页线路 ","url":"http://39.101.135.137:8080"},
 {"name":"离歌主页线路","url": "http://39.101.135.137:8080"}, 
 {"name":"🍎鼎盛原小苹果🍎","url":"http://61.183.41.92:588/影视/鼎盛MAX.json"},
 {"url":"https://qixing.myhkw.com/tianwei/svip.json","name":"🚀天微影视VIP线🚀"},
@@ -520,8 +521,8 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyykdc.json
 {"name":"🔥amin","url":"https://d.kstore.space/download/7587/amin.json"},
-{"name":"🦅网游鹰","url":"https://d.kstore.space/download/5141/wyyk.json"},
-{"name":"🦅网游鹰","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyyk.json"},
+{"name":"🦅网游鹰G线路","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyyk.json"},
+{"name":"🦅网游鹰K线路","url":"https://d.kstore.space/download/5141/wyyk.json"},
 {"name":"🦅网游鹰备用","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyyk.json.bak"},
 {"name":"🈵cally满①","url":"https://s2.pub/cally"},
 {"name":"📦天招线路","url":"https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/4K.json"},
@@ -597,6 +598,7 @@
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/91761004-a885-4ab0-8dab-939a891dc5f8.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/00e1fa01-14df-499b-90b4-4c8258a75b05.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/75fc2c2b-a89b-4668-adeb-04f8df7511a3.bmp","name":"DJMV T4接口"},
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/07246026-0096-420e-b007-6953a663aa4d.bmp","name":"T4接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/36ccde62-800c-4e35-bfdf-06c7456fa05b.bmp","name":"央视接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/15dfd77a-2eeb-4984-9516-14a177b1a68e.bmp","name":"韩剧接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/e77177d0-38c7-42c2-8157-71b6524ba29a.bmp","name":"皮皮接口"},
