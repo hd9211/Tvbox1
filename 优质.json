@@ -328,6 +328,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan1.txt","name":"fighter1993_fan1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/fan2.txt","name":"fighter1993_fan2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fighter1993/mytv/main/lt.json","name":"fighter1993_lt"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg.json","name":"aliluya1977_shg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/shg1.json","name":"aliluya1977_shg1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/XC.json","name":"aliluya1977_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sliven8/tvbox/main/mm.txt","name":"sliven8_mm"},
@@ -461,6 +462,11 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fslxd/tvbox/main/song.json","name":"fslxd_song"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"yoursmile66_XC"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/heart8619/lzy/main/lzy.json","name":"heart8619_lzy"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/innwin/tvbox/main/xiaomi.json","name":"innwin_xiaomi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandaTigerC/ee/main/DZ2.json","name":"PandaTigerC_DZ2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandaTigerC/ee/main/PG2.json","name":"PandaTigerC_PG2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandaTigerC/ee/main/XC1.json","name":"PandaTigerC_XC1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandaTigerC/ee/main/XC2.json","name":"PandaTigerC_XC2"},
 
 
 
