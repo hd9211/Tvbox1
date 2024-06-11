@@ -677,6 +677,9 @@
 {"url":"http://稳定接口.tvbox.中国","name":"V哥稳定接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/6c4776f1-6ce7-42c5-a39a-dc3b273090a3.bmp","name":"IKTV"},
 
+//http://xzweb.top/祥子影视/本站接口.txt
+{"url":"http://xzweb.top/祥子影视/main/xzys2024.json","name":"👿祥子影视4K"},
+{"url":"http://xzweb.top/祥子影视/main/xzysdm.json","name":"👿祥子影视(4K弹幕)"}
 
 
 //https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/warehouse.txt
