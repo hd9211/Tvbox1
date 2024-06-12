@@ -238,6 +238,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/Fetch/main/tvbox.json","name":"Supprise0901_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/fty3.json","name":"xiaolvdouya_fty3"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/fan.json","name":"samisold_fan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/wangerxiao.json","name":"samisold_王小二"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/feimao.json","name":"samisold_feimao"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/x/main/PG.json","name":"tianwaifeifan_PG"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianwaifeifan/x/main/X.json","name":"tianwaifeifan_X"},
@@ -484,11 +485,23 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dushan555/PublicFile/main/20240607tvbox.txt","name":"dushan555_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sirius0427/tvbox/main/my_ext.json","name":"sirius0427_my_ext"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yub168/myTvbox/master/config.json","name":"yub168_config"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victorjiax/OpenSourceRSS/main/TVBox/xpg.json","name":"victorjiax_xpg"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"victorjiax_xpg"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/cool.json","name":"hugcabbage_cool"},
 
 
 
 
 
+
+{"url":"https://download.kstore.space/download/5206/ZJ1.json","name":"🦄本群自建4k🦄"},
+{"url":"https://download.kstore.space/download/5206/heji3.json","name":"🦄本群自建资源🦄"},
+{"url":"https://download.kstore.space/download/5206/订制接口.json","name":"🦄影视定制🦄"},
+{"url":"https://jihulab.com/a844755785/ts/-/raw/main/shenxian0.json","name":"🦄神仙🦄"},
+{"url":"https://download.kstore.space/download/5206/4Kshijie.json","name":"🦄4K视界🦄"},
+
+
+{"url":"https://jihulab.com/magicbox/boxapi/-/raw/main/fenghe.json","name":"🐼经典叶子🐼"},
 {"url":"https://xingyuexi.eu.org/xmzf.json","name":"寻梦之帆"},
 {"url":"https://notabug.org/wc/3/raw/master/100.json","name":"影视仓接口2"},
 {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json","name":"K"},
@@ -498,7 +511,7 @@
 {"url":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json","name":"小美"},
 {"url":"http://122.51.37.23/man/cally.json","name":"cally"},
 {"url":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json","name":"炫猪"},
-{"url":"https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ","name":"夜猫"},
+{"url":"https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ","name":"夜猫子"},
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86.bmp","name":"雷蒙"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json","name":"缝纫机"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/lb/A.txt","name":"精选线路"},
@@ -588,10 +601,11 @@
 {"url":"https://盒子迷.top/禁止贩卖","name":"盒子迷"},
 {"url":"https://盒子迷.top/4k","name":"盒子迷4K"},
 {"url":"https://盒子迷.top/春盈天下","name":"春盈天下"},
+{"url":"https://tv.youdu.fan:666/cy/","name":"春盈天下"},
 {"url":"https://jihulab.com/jinenge/tvbox/-/raw/main/1.json","name":"进恩哥"},
 {"url":"http://hucongrong.web3v.work/短剧.json","name":"短剧"},
+{"url":"https://tv.youdu.fan:666/短剧频道/","name":"短剧频道"},
 {"url":"https://8307.kstore.space/kx.json","name":"蓝光"},
-{"url":"https://gitee.com/siye88/siye/raw/master/春盈天下","name":"春盈天下"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/TVBOX盒子.txt","name":"盒子迷"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/jsm.json","name":"夜泊金沙专线"},
 {"name":"🎯️ 短剧合集 🎯","url":"https://jihulab.com/jie200911161/cat/-/raw/main/TVBOX/短剧/短剧.bmp"},
