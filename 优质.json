@@ -468,6 +468,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lansonsam/alist-tvbox-url/main/api.json","name":"lansonsam_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alisahghjj/tvbox/main/tvbox","name":"alisahghjj_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alisahghjj/tvbox/main/52","name":"alisahghjj_52"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alisahghjj/tvbox/main/taoapi","name":"alisahghjj_taoapi"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json","name":"ouhaibo1980_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fslxd/tvbox/main/song.json","name":"fslxd_song"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"yoursmile66_XC"},
@@ -490,6 +491,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/cool.json","name":"hugcabbage_cool"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yvws/tvbox/main/config.json","name":"yvws_config"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/master/box","name":"zhoujck_box"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/libinghui123/tvbox/main/tvbox/pg/jsm.json","name":"libinghui123_jsm"},
+
 
 
 
