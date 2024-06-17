@@ -498,7 +498,6 @@
 
 
 
-
 {"url":"https://gitee.com/tengxinjixie/tv/raw/master/xf.json","name":"腾鑫"},
 {"url":"https://raw.gitcode.com/chenrui007/test/raw/main/影视-适合全部人群","name":"晨瑞黑科"},
 {"url":"https://raw.gitcode.com/chenrui007/test/raw/main/影视-只适合年轻人","name":"晨瑞黑科"},
@@ -615,7 +614,7 @@
 {"url":"https://gitlab.com/xmbjm/dc/-/raw/main/T4.json","name":"拾光T4线路"},
 {"url":"https://gitlab.com/xmbjm/omg/-/raw/main/omg.json","name":"拾光单线路"},
 {"url":"https://gitee.com/tvkj/tw/raw/main/svip.json","name":"天微影视vip"},
-{"url":"https://juziyou.vip/tv","name":"橘子柚"},
+{"url":"http://juziyou.vip/tv","name":"橘子柚"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt","name":"橘子柚"},
 {"url":"https://安卓哥.com","name":"安卓哥"},
 {"url":"https://盒子迷.top/禁止贩卖","name":"盒子迷"},
@@ -649,7 +648,7 @@
 {"url":"http://mdxgh.v6.rocks:9999/","name":"🐡码点主仓库"},
 {"url":"http://mdxgh.dynv6.net","name":"码点"},
 {"url":"http://oneone.dynv6.net:9999/","name":"🐡码点备用仓"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/4TVBox/4TVBox/main/config.json","name":"4TVBox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/4TVBox/TVBox/main/config.json","name":"4TVBox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},  
 {"url":"https://box.iqinu.com","name":"龙门线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json","name":"龙门线路"},    
