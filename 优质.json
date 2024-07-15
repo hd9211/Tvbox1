@@ -516,10 +516,20 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gtcsky/spider/github/mySrc2.json","name":"gtcsky_mySrc2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gtcsky/spider/github/newSrc.json","name":"gtcsky_newSrc"},
 {"url":"hhttps://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json","name":"bobyang3_直播"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckySe7ens/tvbox_config/master/open/tvbox.json","name":"LuckySe7ens_蹲街捏蚂蚁"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/tvboxpzyDIY2/main/tvboxDX.json","name":"hkwpc_tvboxDX"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JSZMonkey/tv/main/api.json","name":"JSZMonkey_api"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ponyFan/mybox/main/apple.json","name":"ponyFan_apple"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kumianren/MiPG/main/Miwex.json","name":"Kumianren_Miwex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kumianren/MiPG/main/Miwex.json","name":"Kumianren_Miwex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kumianren/MiPG/main/wex.json","name":"Kumianren_wex"},
 
 
 
 
+
+
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/mk2.json","name":"宝盒应用商店"},
 
 
 {"url":"https://8815.kstore.space/shentu2.json","name":"软件分享阁"},
@@ -696,9 +706,9 @@
 {"url":"http://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json","name": "🍑王🏆线路"},
 {"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name": "短剧 | 心动"},
 
-{"url":"https://json.qlkjy.cn/qa.json","name":"奇乐技术网"},
-{"url":"https://ys.qlkjy.cn/ql/qa.json","name":"奇乐技术网"},
-{"url":"https://8383.kstore.space/qa.json","name":"奇乐技术网-高速"},
+{"url":"https://json.qlkjy.cn/qb.json","name":"奇乐技术网"},
+{"url":"https://ys.qlkjy.cn/ql/qb.json","name":"奇乐技术网"},
+{"url":"https://8383.kstore.space/qb.json","name":"奇乐技术网-高速"},
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/pg/main/苹果源.json","name":"苹果源"},
 {"url":"https://gitee.com/heng546199810/hxvip8/raw/master/hxvip3.txt","name":"恒星斧头帮"},
@@ -784,7 +794,7 @@
 {"url":"http://xzweb.top/祥子影视/main/xzysdm.json","name":"👿祥子影视(4K弹幕)"},
 
 
-//https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/warehouse.txt
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
 {"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/影视/api.json","name":"影视"},
 {"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/动漫/api.json","name":"动漫"},
 {"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/文艺/api.json","name":"文艺"},
