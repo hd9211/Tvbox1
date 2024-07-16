@@ -232,10 +232,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/midsummer0206/zxvideosource/master/zx.json","name":"midsummer0206_zx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/midsummer0206/zxvideosource/master/zx.bmp","name":"midsummer0206_zx1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mangoocc/free9/main/jsm.json","name":"mangoocc_jsm"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/fxz.json","name":"child9527_fxz"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/shzj.json","name":"child9527_shzj"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/sft.json","name":"child9527_sft"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/temp.json","name":"child9527_temp"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/xuexi.json","name":"child9527_xuexi"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/child9527/tvbox/main/zhz.json","name":"child9527_zhz"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhuixing05/tvbox/main/tv.json","name":"zhuixing05_tv"},
@@ -523,6 +519,18 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kumianren/MiPG/main/Miwex.json","name":"Kumianren_Miwex"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kumianren/MiPG/main/Miwex.json","name":"Kumianren_Miwex"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kumianren/MiPG/main/wex.json","name":"Kumianren_wex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/PG/PG.json","name":"yuanwangokk-1_PG"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/Ray/Ray.json","name":"yuanwangokk-1_Ray"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/drpy_dzlive/index.json","name":"yuanwangokk-1_index"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/feimao/feimao.json","name":"yuanwangokk-1_肥猫"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/fty/fty.json","name":"yuanwangokk-1_fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/gaotianliuyun/gaotianliuyun.json","name":"yuanwangokk-1_gaotianliuyun"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/hecheng/hecheng.json","name":"yuanwangokk-1_hecheng"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/kstore.space/wang.json","name":"yuanwangokk-1_王小二"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/miaoyingshi/miaoyingshi.json","name":"yuanwangokk-1_猫影视"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/moyu/moyu.json","name":"yuanwangokk-1_摸鱼"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/shenxian/shenxian.json","name":"yuanwangokk-1_神仙"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/tvbox/main/TV-master/xiangyaqing/xiangyaqing.json","name":"yuanwangokk-1_香雅情"},
 
 
 
@@ -1070,8 +1078,12 @@
 {"url":"https://github.moeyy.xyz/raw.githubusercontent.com/SnailVod/DEOM/main/gzh1.txt","name":"『免费分享』"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/line2-many.json
-{"url":"https://raw.githubusercontent.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt","name":"自用線路1-TV"},
-{"url":"https://raw.githubusercontent.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json","name":"發現線路2-TV〔20240410〕"},    
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox1.txt","name":"自用線路1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox2.json","name":"發現線路2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox4.json","name":"發現線路4"},  
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2fomi.txt  ","name":"發現線路2fomi"}, 
+
+
 {"url":"http://yingshi.fongmi.eu.org/","name":"☃螞蟻線路3-TV〔20240513〕"},
 {"url":"http://w.longba123.top/app/api.json","name":"✨龍霸線路4-TV〔20231212〕"},
 
@@ -1687,6 +1699,7 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/if.json
 {"name":"👕┃湯┃影視(Github)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/X.json"},
+{"name":"🦐┃湯┃影視","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/alantang1977/X/main/a.json"},
 {"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
 {"name":"⛩️┃湯┃本地(PG)","url":"file://pg/jsm.json"},  
 {"name":"🍙┃湯┃饭太硬","url":"http://饭太硬.com/tv"}, 
