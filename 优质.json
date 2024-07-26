@@ -49,6 +49,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/xj.json","name":"ltxxjs_xj"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jsxj.json","name":"ltxxjs_jsxj"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/tvbox/main/xj.json","name":"ltxxjs_xj"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/tvbox/main/xjjs.json","name":"ltxxjs_xjjs"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/01.json","name":"xiongjian83_01"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json","name":"xiongjian83_X"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/XJ.json","name":"xiongjian83_XJ"},
@@ -365,9 +366,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ken088/pg/main/学习.json","name":"ken088_学习"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/N/main/app.json","name":"kan31467_app"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/N/main/fan.json","name":"kan31467_fan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/点播.json","name":"kan31467_点播"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/fty/fty.json","name":"kan31467_fty"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/5/main/a.json","name":"kan31467_a"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/json/kan.json","name":"kan31467_kan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/5/main/a.json","name":"kan31467_a"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/13174771/tvboxlist/main/aa.json","name":"13174771_aa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzwei528/zyc/main/vip.json","name":"xzwei528_vip"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/z1287724120/TVBox/main/1.json","name":"z1287724120_1"},
@@ -552,6 +554,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/simletimes/Linkfiles/main/NewTow.json","name":"simletimes_NewTow"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyjune/tvbox/main/zz.json","name":"gyjune_zz"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/inakaten/yg/main/gr.txt","name":"inakaten_gr"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tjyu010/tvbox/main/yinshi.json","name":"tjyu010_yinshi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Wowo82/TG/main/收集.json","name":"Wowo82_收集"},
+
+
 
 
 
@@ -560,7 +566,10 @@
 
 
 
-{"url":"https://gitee.com/JKzb/BHapp/raw/master/tvkj.json","name":"宝盒APP接口升级版"},
+
+{"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ba.json","name":"dokiss1"},
+{"url":"https://gitee.com/JKzb/bh/raw/master/BHapp.json","name":"宝盒APP"},
+{"url":"https://gitee.com/JKzb/BHapp/raw/master/tvkj.json","name":"天微科技"},
 {"url":"https://8815.kstore.space/shentu2.json","name":"软件分享阁"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/woniuxs/woniuxs.github.io/main/naiyou","name":"蜗牛科技仓"},
 {"url":"https://pastebin.com/raw/4hhLaYdM","name":"MyPaste家庭版线路"},
@@ -809,6 +818,11 @@
 {"url":"https://接口.tvbox.中国","name":"V哥接口"},
 {"url":"http://稳定接口.tvbox.中国","name":"V哥稳定接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/6c4776f1-6ce7-42c5-a39a-dc3b273090a3.bmp","name":"IKTV"},
+
+
+{"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/bd112246-eb72-4aeb-8566-c80aafcd42a7.bmp","name":"懒猫精选仓"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json","name":"荷城茶秀"},
+
 
 
 //https://docs.qq.com/sheet/DQWxKaUlMZlJPVnVG?tab=000001
@@ -1719,7 +1733,7 @@
 {"name":"🤹🏼少儿益智线路🤹🏼","url":"http://qrh.yimkj.cn/se/少儿.json"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/if.json
-{"name":"👕┃湯┃影視(Github)","url":"https://raw.gitmirror.com/alantang1977/X/main/X.json"},
+{"name":"👕┃湯┃影視(Github)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json"},
 {"name":"🦐┃湯┃影視(Gitee)","url":"https://gitee.com/alantanjun/pg/raw/main/tv.json"},
 {"name":"🐼┃湯┃(节奏熊猫Gitee)","url":"https://gitee.com/alantanjun/pg/raw/main/pgtv.json"},
 {"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
