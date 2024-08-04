@@ -423,6 +423,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/favnet.json","name":"s14685_favnet"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fty.json","name":"s14685_fty"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/fty2.json","name":"s14685_fty2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/m.json","name":"s14685_m"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/net.json","name":"s14685_net"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/sc.json","name":"s14685_sc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/s14685/tv/main/tb.json","name":"s14685_tb"},
@@ -567,7 +568,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ppt005/tvbox/main/box","name":"ppt005_box"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ppt005/tvbox/main/tvbox.txt","name":"ppt005_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ppt005/tvbox/main/tvx.json","name":"ppt005_tvx"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/Monster.json","name":"林中的小屋"},
 
 
 
@@ -872,10 +873,6 @@
 {"url":"https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json","name":"公众号【宝盒没宝】"},
 {"url":"https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json?ref_type=heads","name":"公众号【宝盒迷】"},
 {"url":"https://gitlab.com/guot55/bh/-/raw/main/max.json","name":"公众号【宝盒没宝】"},
-
-//http://xzweb.top/祥子影视/本站接口.txt
-{"url":"http://xzweb.top/祥子影视/main/xzys2024.json","name":"👿祥子影视4K"},
-{"url":"http://xzweb.top/祥子影视/main/xzysdm.json","name":"👿祥子影视(4K弹幕)"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
