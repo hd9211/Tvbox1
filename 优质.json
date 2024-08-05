@@ -535,6 +535,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gtcsky/spider/github/mySrc2.json","name":"gtcsky_mySrc2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gtcsky/spider/github/newSrc.json","name":"gtcsky_newSrc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveTV.json","name":"bobyang3_直播"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/liveVodTV.json","name":"bobyang3_直播"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bobyang3/TVRelated/master/TVBoxOSC/vod.json","name":"bobyang3_vod"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckySe7ens/tvbox_config/master/open/tvbox.json","name":"LuckySe7ens_蹲街捏蚂蚁"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkwpc/tvboxpzyDIY2/main/tvboxDX.json","name":"hkwpc_tvboxDX"},
@@ -569,6 +570,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ppt005/tvbox/main/tvbox.txt","name":"ppt005_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ppt005/tvbox/main/tvx.json","name":"ppt005_tvx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/Monster.json","name":"林中的小屋"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ld4399/tvBox/main/tvBox.json","name":"ld4399_tvBox"},
+
+
+
 
 
 
@@ -853,12 +858,9 @@
 
 {"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
 {"url":"http://我不是.摸鱼儿.top/vip","name":"摸鱼4k-vip"},
-{"url":"https://gitee.com/JKzb/bh/raw/master/MYJK.json","name":"摸鱼4k"},
-{"url":"http://lin.ohphp.com/1/my.json","name":"宇静鸣"},
-{"url":"http://lin.ohphp.com/2/tvkj.json","name":"宇静鸣"},
-{"url":"http://lin.ohphp.com/da/bao.json","name":"4K线路3"},
-{"url":"http://lin.ohphp.com/3/qg.json","name":"宇静鸣"},
-{"url":"http://lin.ohphp.com/yinliu/xc.json","name":"4K线路7"},
+{"url":"http://lin.vipxian.top/yl/1/yjm.json","name":"宇静鸣"},
+{"url":"http://lin.vipxian.top/yl/2/yjm.json","name":"宇静鸣"},
+{"url":"http://lin.vipxian.top/yl/3/yjm.json","name":"宇静鸣"},
 {"url":"https://接口.tvbox.中国","name":"V哥接口"},
 {"url":"http://稳定接口.tvbox.中国","name":"V哥稳定接口"},
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/6c4776f1-6ce7-42c5-a39a-dc3b273090a3.bmp","name":"IKTV"},
