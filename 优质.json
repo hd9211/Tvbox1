@@ -581,6 +581,11 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/387673116/Tvbox/main/index.jsonbak","name":"387673116_index"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xc.json","name":"jymyong_xc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xiaomi.json","name":"jymyong_xiaomi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/TV/master/G.json","name":"Grovin720_G"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/TV/master/G.txt","name":"Grovin720_G"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/TV/master/R.json","name":"Grovin720_R"},
+
+
 
 
 
@@ -842,8 +847,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},  
 {"url":"https://box.iqinu.com","name":"龙门线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json","name":"龙门线路"},    
-{"url":"https://www.xn--rgv465a.top/刺猬线路禁止贩卖","name":"刺猬线路1"},
-{"url":"https://www.cwss.xyz/刺猬线路禁止贩卖","name":"刺猬线路2"},
+{"url":"https://www.cwss.xyz/刺猬线路禁止贩卖","name":"刺猬线路"},
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json","name":"公众号【宝盒迷】"},
 {"name":"心魔仓库🤨","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"},
 {"url":"https://download.kstore.space/download/4562/pglblb/0618.txt","name":"wokaotianshi123-0618"},
@@ -877,12 +881,6 @@
 
 {"url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/bd112246-eb72-4aeb-8566-c80aafcd42a7.bmp","name":"懒猫精选仓"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json","name":"荷城茶秀"},
-
-//https://docs.qq.com/sheet/DQWxKaUlMZlJPVnVG?tab=000001
-{"url":"http://ygbh.live/box.php","name":"月光宝盒BOX接口（单线）"},
-{"url":"https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json","name":"公众号【宝盒没宝】"},
-{"url":"https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json?ref_type=heads","name":"公众号【宝盒迷】"},
-{"url":"https://gitlab.com/guot55/bh/-/raw/main/max.json","name":"公众号【宝盒没宝】"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
