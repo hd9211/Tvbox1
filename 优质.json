@@ -586,7 +586,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/TV/master/G.txt","name":"Grovin720_G"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/TV/master/R.json","name":"Grovin720_R"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zongru666/myIPTV/main/yingshi2024.json","name":"zongru666_yingshi2024"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sherman12311/tvbox/main/ok/ok.json","name":"sherman12311_ok"},
 
 
 
@@ -867,17 +867,17 @@
 
 
 ////http://120.79.4.185/dc.json
-{"url":"http://120.79.4.185","name":"公众号[码点小干货]"},
-{"url":"http://mdxgh.tpddns.cn:9999/xgh.json","name":"🍎 码点苹果仓 🍎"},
-{"url":"http://120.79.4.185/xgh.json","name":"🍑 码点桃子仓 🍑"},
+{"url":"http://120.79.4.185/xgh.json","name":"🍎 码点苹果仓 🍎"},
+{"url":"http://mdxgh.tpddns.cn:9999/xgh.json","name":"🍑 码点桃子仓 🍑"},
 {"url":"http://120.79.4.185/mdkdb.json","name":"🌹 码点玫瑰仓 🌹"},
 {"url":"http://120.79.4.185/mdxgh.json","name":"🍒 码点樱桃仓 🍒"},
+{"url":"http://120.79.4.185/dz.json","name":"🍓 码点草莓仓 🍓"},
 {"url":"http://mdxgh.tpddns.cn:9999/md.json","name":"🍟 码点薯条仓 🍟"},
-{"url":"http://router.bopop.buzz:9999/xgh.json","name":"🍔 码点汉堡仓 🍔"},
-{"url":"http://router.bopop.buzz:9999/yyds.json","name":"🍊 码点橘子仓 🍊"},
-{"url":"http://mdxgh.tpddns.cn:9999/mdkdb.json","name":"🍓 码点草莓仓 🍓"},
-{"url":"http://router.bopop.buzz:9999/mdxgh.json","name":"🍋 码点柠檬仓 🍋"},
-{"url":"http://router.bopop.buzz:9999/mdkdb.json","name":"🍄 码点蘑菇仓 🍄"},
+{"url":"http://mdxgh.tpddns.cn:9999/mdkdb.json","name":"🍔 码点汉堡仓 🍔"},
+{"url":"http://mdxgh.tpddns.cn:9999/dz.json","name":"🍊 码点橘子仓 🍊"},
+
+{"url":"http://120.79.4.185","name":"🍊 码点 🍊"},
+
 
 {"url":"http://我不是.摸鱼儿.top","name":"摸鱼4k"},
 {"url":"http://我不是.摸鱼儿.top/vip","name":"摸鱼4k-vip"},
@@ -2555,7 +2555,7 @@
 {"url":"https://bitbucket.org/ls125781003/qqctg/raw/main/动漫频道/api.json","name":"动漫频道"},
 
 
-//https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc2
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json","name":"饭太硬"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json","name":"小米"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json","name":"肥猫"},
@@ -2565,6 +2565,7 @@
 { "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json","name":"南风"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json","name":"OK"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json","name":"PG"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json","name":"摸鱼儿"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/骚零/api.json","name":"骚零"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json","name":"天天开心"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json","name":"王二小"},
