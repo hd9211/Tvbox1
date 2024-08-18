@@ -525,7 +525,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/07061553.json","name":"HIEIHIEI_07061553"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/HieiDef.json","name":"HIEIHIEI_HieiDef"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/zy.json","name":"wlcmc1972_zy"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"HuShanquan3_m"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"蕉影视TV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/canghaixiao369/zyck/main/T4.json","name":"canghaixiao369_T4"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JSZMonkey/tv/main/app.json","name":"JSZMonkey_app"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vios0810/TVBOX/main/TVBOX.json","name":"vios0810_寶盒沒寶"},
@@ -587,6 +587,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Grovin720/TV/master/R.json","name":"Grovin720_R"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zongru666/myIPTV/main/yingshi2024.json","name":"zongru666_yingshi2024"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sherman12311/tvbox/main/ok/ok.json","name":"sherman12311_ok"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Inliang/tvbox/main/zijian.json","name":"Inliang_zijian"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zxwwp/TVBox/master/20221115.json","name":"zxwwp_20221115"},
 
 
 
@@ -603,7 +605,10 @@
 
 
 
-{"url":"https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt","name":"欧乐泥巴 "},
+
+{"url":"https://jihulab.com/e8/4k/-/raw/master/kele.json","name":"高清4K版影音天堂"},
+{"url":"https://www.ywsj.cf/upload/2023/10/yyzq4k.json","name":"yyzq影音"},
+{"url":"https://gitlab.com/-/snippets/2343779/raw/main/snippetfile1.txt","name":"欧乐泥巴"},
 {"url":"https://cdn05042023.gitlink.org.cn/rghy/jy/raw/branch/master/jy.json","name":"畅梦影视"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp","name":"雷蒙"},
 {"url":"http://530.my3v.work/jy.json","name":"金鹰影视1"},
@@ -840,9 +845,10 @@
 {"url":"http://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json","name":"🍑王🏆线路"},
 {"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name":"短剧 | 心动"},
 
-{"url":"https://json.qlkjy.cn/qd.json","name":"奇乐技术网"},
-{"url":"https://ys.qlkjy.cn/ql/qd.json","name":"奇乐技术网"},
+{"url":"https://奇乐科技.xyz/qd.json","name":"奇乐技术网"},
+{"url":"https://json.奇乐科技.xyz/qd.json","name":"奇乐技术网"},
 {"url":"https://8383.kstore.space/qd.json","name":"奇乐技术网-高速"},
+
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/pg/main/苹果源.json","name":"苹果源"},
 {"url":"https://gitee.com/heng546199810/hxvip8/raw/master/hxvip3.txt","name":"恒星斧头帮"},
@@ -855,6 +861,7 @@
 {"url":"http://oneone.dynv6.net:9999/","name":"🐡码点备用仓"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/4TVBox/TVBox/main/config.json","name":"4TVBox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},  
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/catbox.json","name":"残月影视"},  
 {"url":"https://box.iqinu.com","name":"龙门线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json","name":"龙门线路"},    
 {"url":"https://www.cwss.xyz/刺猬线路禁止贩卖","name":"刺猬线路"},
