@@ -403,6 +403,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/ok.json","name":"bizhangjie_ok"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hotword/afan/main/fx.json","name":"hotword_fx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/main.json","name":"wwz09_main"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/main2.json","name":"wwz09_main2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/main-js.json","name":"wwz09_main-js"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwz09/ubuntu/main/mao.json","name":"wwz09_mao"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/baikeshu/admin-TVBox/main/ying.txt","name":"baikeshu_ying"},
@@ -680,8 +681,8 @@
 {"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Newtxin/tvbox/main/0404.json","name":"纽特帅"},
 {"url":"https://jihulab.com/jinenge/tvbox/-/raw/main/1.json","name":"纽特帅"},
 {"url":"https://gitee.com/newtxin/tvbox/raw/main/1.json","name":"纽特帅"},
-
-
+{"url":"https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/jk.bmp","name":"肥猫"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xifan2333/tvbox-source/main/feimao.json","name":"肥猫"},
 
 
 
@@ -2101,21 +2102,23 @@
 {"url":"https://anaer.github.io/Meow/meow.json","name":"🐱喵呜.GIT"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json
-{"url":"","name":"🐊🐊接口更新7.11🐊🐊"},
-{"url":"","name":"🍀此接口免费禁止贩卖🍀"},
-{"url":"http://www.饭太硬.com/tv","name":"🚀饭太硬推荐"},
-{"url":"http://肥猫.com/","name":"🚀肥猫线路"}, {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"🚀酷安潇洒哥线路"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json","name":"🚀宝盒线路"},
-{"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name":"🚀香雅情镜像线路"},
-{"url":"http://itvbox.cc/云星日记","name":"🚀云星日记线路"},
-{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name":"🚀FongMI线路"},
-{"url":"http://pandown.pro/tvbox/tvbox.json","name":"🚀巧计线路"},
-{"url":"https://weixine.net/ysc.json","name":"🚀运输车路"},
-{"url":"https://100km.top/0","name":"🚀骚 0线路"},
-{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"🚀高天流云js"},
-{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"🚀高天流云 XYQ"},
-{"url":"http://www.lyyytv.cn/yt/yt.json","name":"🚀影探线路"},
-{"url":"http://dxawi.github.io/0/0.json","name":"🚀dxawi线路"},
+{"url":"","name":"🦅🦅接口更新8.22🦅🦅"},
+{"url":"","name":"线路按🌟-❤️-🌵-🌱推荐"},
+{"url":"http://www.饭太硬.com/tv","name":"🌟饭太硬"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"❤️潇洒哥线路"},
+{"url":"http://www.mpanso.com/小米/DEMO.json","name":"❤️小米线路"},
+{"url":"http://我不是.摸鱼儿.top","name":"🌵摸鱼线路"},
+{"url":"http://itvbox.cc/云星日记","name":"🌵云星日记线路"},
+{"url":"https://weixine.net/ysc.json","name":"🌵运输车路"},
+{"url":"http://肥猫.com/","name":"🌵肥猫线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json","name":"🌵宝盒线路"},
+{"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name":"🌵香雅情线路"},
+{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name":"🌵FongMI线路"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name":"🌵巧计线路"},
+{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"🌵高天流云js"},
+{"url":"https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"🌵高天流云 XYQ"},
+{"url":"http://www.lyyytv.cn/yt/yt.json","name":"🌱影探线路"},
+{"url":"http://dxawi.github.io/0/0.json","name":"🌱dxawi线路"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/noimank/tvbox/main/tvboxmuti.json
 {"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"🚀1-潇洒哥线路"},
