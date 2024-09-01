@@ -612,7 +612,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm4.json","name":"newrecha_jsm4"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm5pg.json","name":"newrecha_jsm5pg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/wex-1.json","name":"newrecha_wex-1"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/wex-4.json","name":"newrecha_wex-4"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm5pg.json","name":"newrecha_jsm5pg"},
 
 
@@ -626,6 +625,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asxs123/tvbox/main/欧歌云端.txt","name":"asxs123_欧歌云端"},
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/rxsweet/tvbox/main/fan.json","name":"rxsweet_fan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qubitsky/tvbox/main/data.json","name":"qubitsky_data"},
+
 
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/mk2.json","name":"宝盒应用商店"},
