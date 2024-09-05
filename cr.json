@@ -448,12 +448,11 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0901.json","name":"newrecha_0901"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0902.json","name":"newrecha_0902"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0903.json","name":"newrecha_0903"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/newtest.json","name":"newrecha_newtest"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/newtest2.json","name":"newrecha_newtest2"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/newtest3.json","name":"newrecha_newtest3"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/onlytest.json","name":"newrecha_onlytest"},
-
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0905-1.json","name":"newrecha_0905-1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0905-2.json","name":"newrecha_0905-2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0905-3.json","name":"newrecha_0905-3"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0905-4.json","name":"newrecha_0905-4"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0905.json","name":"newrecha_0905"},
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/wex-all.json","name":"newrecha_wex-all"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/绅士_解.json","name":"newrecha_绅士解"},
@@ -468,7 +467,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/KAN314go/A/main/tv/成人接口.txt","name":"KAN314go_成人接口"},
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/tvbox/main/MY要要.txt","name":"vbskycn_MY要要"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tanz8/live/main/video.json","name":"tanz8_video"},
 
 
 
@@ -1609,15 +1608,15 @@
 
  
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/all.json
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/tvbox.json
+{"name":"Guard-H","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Guard-H.txt"},
 {"name":"18","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/18.txt"},
 {"name":"9918(H)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/9918(H).txt"},
 {"name":"FenWe","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/FenWe.txt"},
 {"name":"Gmmtekamu-18","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Gmmtekamu-18.txt"},
-{"name":"Guard-H","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Guard-H.txt"},
 {"name":"Huhujun","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Huhujun.txt"},
 {"name":"Peter(H)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Peter(H).txt"},
 {"name":"PyramidStore","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/PyramidStore.txt"},
-{"name":"README.md","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/README.md"},
 {"name":"Study520x","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Study520x.txt"},
 {"name":"XXX1","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/XXX1.txt"},
 {"name":"XXX6","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/XXX6.txt"},
