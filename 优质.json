@@ -638,7 +638,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/DemonTree/tvcw/main/xc.json","name":"DemonTree_xc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tanz8/live/main/live.json","name":"tanz8_live"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tanz8/live/main/movies.json","name":"tanz8_movies"},
-
+{"url":"https://ghp.ci/https://raw.githubusercontent.com/riverstar1998/TVBOXlink/main/rsbox.json","name":"riverstar1998_rsbox"},
 
 
 
@@ -1414,6 +1414,8 @@
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/if.json
 {"name":"👕┃湯┃影視(Github)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json"},
 {"name":"🏇┃湯┃PG(Github)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/jsm.json"},
+{"name":"🚁┃湯┃影視(Gitcode)","url":"https://gitcode.net/alantang77/live/-/raw/master/X.bmp"},
+{"name":"🐤┃湯┃影視(Gitcode)","url":"https://gitcode.net/alantang77/live/-/raw/master/jsm.bmp"},
 {"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
 {"name":"⛩️┃湯┃本地(PG)","url":"file://pg/jsm.json"},
 {"name":"🍙┃湯┃饭太硬","url":"http://饭太硬.com/tv"},
