@@ -99,12 +99,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/tvbox.json","name":"jymyong-tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/0821.json","name":"jymyong_0821"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/cysl.json","name":"jymyong_cysl"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/tvbox001.json","name":"jymyong_tvbox001"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/tvbox002.json","name":"jymyong_tvbox002"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/tvbox003.json","name":"jymyong_tvbox003"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/test.json","name":"jymyong_test"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xc.json","name":"jymyong_xc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xiaomi.json","name":"jymyong_xiaomi"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/xzvip.json","name":"jymyong_xzvip"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js.json","name":"ziyongdaima-js"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/vKUCbEdE.json","name":"ziyongdaima-vKUCbEdE"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/YSC.json","name":"ziyongdaima-YSC"},
@@ -606,7 +603,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jsm.json","name":"qq1719248506_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/sp.json","name":"qq1719248506_sp"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnny-JJJ/TVbox/main/m.json","name":"Johnny-JJJ_m"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/KAN314go/A/main/kan.json","name":"KAN314go-kan"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/KAN314go/k/main/json/kan.json","name":"KAN314go-kan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lengjing1015/tvbox/main/ljhkj.json","name":"lengjing1015-冷静黑科技"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/yingshi","name":"qaz1371041-yingshi"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaabbbxu/tvboxs/main/box1.json","name":"aaabbbxu-box1"},
@@ -633,8 +630,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tanz8/live/main/movies.json","name":"tanz8_movies"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/riverstar1998/TVBOXlink/main/rsbox.json","name":"riverstar1998_rsbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhouatie/dotfiles/main/tvbox.json","name":"zhouatie_tvbox"},
-
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/VT/main/采集.json","name":"LIUJEI_采集"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/VT/main/短剧.json","name":"LIUJEI_短剧"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/VT/main/影视.json","name":"LIUJEI_影视"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/VT/main/魔盒.json","name":"LIUJEI_魔盒"},
 
 
 
@@ -1296,7 +1295,6 @@
 {"name":"🚀蜂蜜线路","url":"https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"MY星辰","url":"http://8.210.232.168/xc.json"},
 {"name":"MY巧技","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
-
 
 
 //http://rihou.cc:55
