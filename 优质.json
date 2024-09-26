@@ -435,6 +435,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandaTigerC/TVBox01/main/line.json","name":"PandaTigerC_line"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/feelsyt/tvboxfile/main/txto.json","name":"feelsyt_txto"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json","name":"xinyi1984_xy"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json","name":"xinyi1984_应用商店"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jsm.json","name":"xinyi1984_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/movies.json","name":"小武哥"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/movies.json","name":"zeee-u_movies"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
@@ -495,7 +497,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victorjiax/OpenSourceRSS/main/TVBox/xpg.json","name":"victorjiax_xpg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/victorjiax/OpenSourceRSS/main/TVBox/main.json","name":"victorjiax_main"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"victorjiax_xpg"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/cool.json","name":"hugcabbage_cool"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/main/cool.json","name":"hugcabbage_cool"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/main/pg.json","name":"hugcabbage_pg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yvws/tvbox/main/config.json","name":"yvws_config"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/master/box","name":"zhoujck_box"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/libinghui123/tvbox/main/tvbox/pg/jsm.json","name":"libinghui123_jsm"},
@@ -568,6 +571,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json","name":"newrecha_0914"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/XYQTVBox.json","name":"newrecha_XYQTVBox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/dianshi.json","name":"newrecha_dianshi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/doki-VI.json","name":"newrecha_doki-VI"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm-pg.json","name":"newrecha_jsm-pg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm.json","name":"newrecha_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm4.json","name":"newrecha_jsm4"},
@@ -600,6 +604,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/api.json","name":"qq1719248506_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/fan.json","name":"qq1719248506_fan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jsm.json","name":"qq1719248506_jsm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/qq1719248506.github.io/main/jsm.json","name":"qq1719248506_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnny-JJJ/TVbox/main/m.json","name":"Johnny-JJJ_m"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/KAN314go/k/main/json/kan.json","name":"KAN314go-kan"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lengjing1015/tvbox/main/ljhkj.json","name":"lengjing1015-冷静黑科技"},
@@ -635,6 +640,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fikryxuuuu/TVBOX/main/jsm.json","name":"fikryxuuuu_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fikryxuuuu/TVBOX/main/liuer.json","name":"fikryxuuuu_liuer"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ccyn/tvbox_list/main/kaixin.json","name":"ccyn_kaixin"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vvip-tv/interface/main/1.json","name":"vvip-tv_1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhao-zg/self-pg/main/dl_jsm.json","name":"zhao-zg_dl_jsm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhao-zg/self-pg/main/jsm.json","name":"zhao-zg_jsm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhao-zg/self-pg/main/my_jsm.json","name":"vvip-tv_my_jsm"},
 
 
 
@@ -1247,6 +1256,7 @@
 {"name":"MY猫猫","url":"http://肥猫.live"},
 {"name":"MY饭饭","url":"http://www.饭太硬.top/tv/"},
 {"name":"MY小雅","url":"http://my.zhoujie218.top:4567/sub/0"}, 
+
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
 {"name":"MY洒哥","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
@@ -1261,6 +1271,7 @@
 {"name":"MY欧歌","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},
 {"name":"MY自用高清","url":"https://tv.zhoujie218.top/duocang/myhd.json"}, 
 {"name":"MY自用标清","url":"https://tv.zhoujie218.top/duocang/mybq.json"}, 
+
 {"name":"MY探探","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"🔰骚零","url":"https://100km.top/0"},
 {"name":"🛡大卫","url":"https://xhdwc.tk/0"},
