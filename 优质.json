@@ -97,7 +97,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wilsonXo/tvbox-sub/master/xiaoya.json","name":"wilsonXo-xiaoya"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json","name":"xiaolong69-1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/tvbox.json","name":"jymyong-tvbox"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/000.json","name":"jymyong_000"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/cysl.json","name":"jymyong_cysl"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/gitee.json","name":"jymyong_gitee"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jymyong/jymyong.github.io/main/json/kv.json","name":"jymyong_kv"},
@@ -738,7 +737,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hj0359/TVBox/main/hjtv.json","name":"hj0359_hjtv"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Microbeta365/TVBox/main/api.json","name":"Microbeta365_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnliux/cnliux.github.io/main/1","name":"cnliux_1"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnliux/cnliux.github.io/main/1","name":"cnliux_1"},
+
 
 
 
@@ -1444,7 +1443,6 @@
 {"name":"👀影音天堂","url":"http://tvbox.vip/4k"},
 {"name":"🚀蜂蜜线路","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"MY星辰","url":"http://8.210.232.168/xc.json"},
-{"name":"MY巧技","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
 
 
 //http://rihou.cc:55
@@ -2848,7 +2846,7 @@
 {"url":"https://cn.kstore.space/download/2863/01.txt","name":"🍄线路三🍄"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/adeya520/tvbox/main/xianlu_spare.json
-{"name":"🏡曾经爱放假","url":"http://192.168.31.95:4567/sub/0"},
+{"name":"🏡曾经爱放假","url":"http://192.168.31.95:4567/sub/ade"},
 {"name":"🍚饭太硬啊","url":"http://www.饭太硬.com/tv/"},
 {"name":"🚀肥猫线路","url":"http://肥猫.com"},
 {"name":"🚀摸鱼线路","url":"http://我不是.摸鱼儿.top"},
