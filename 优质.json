@@ -520,6 +520,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"蕉影视TV"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/canghaixiao369/zyck/main/T4.json","name":"canghaixiao369_T4"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/canghaixiao369/zyck/main/yingshi.json","name":"canghaixiao369_yingshi"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/canghaixiao369/zyck/main/yp.json","name":"canghaixiao369_yp"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/canghaixiao369/zyck/main/ys.json","name":"canghaixiao369_ys"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JSZMonkey/tv/main/app.json","name":"JSZMonkey_app"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vios0810/TVBOX/main/TVBOX.json","name":"vios0810_寶盒沒寶"},
@@ -659,6 +660,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tanz8/live/main/movies.json","name":"tanz8_movies"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/riverstar1998/TVBOXlink/main/rsbox.json","name":"riverstar1998_rsbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhouatie/dotfiles/main/tvbox.json","name":"zhouatie_tvbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/T9/main/云芸.json","name":"LIUJEI_云芸"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/T9/main/影视.json","name":"LIUJEI_影视"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/T9/main/短剧.json","name":"LIUJEI_短剧"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/T9/main/采集.json","name":"LIUJEI_采集"},
@@ -737,7 +739,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hj0359/TVBox/main/hjtv.json","name":"hj0359_hjtv"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Microbeta365/TVBox/main/api.json","name":"Microbeta365_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnliux/cnliux.github.io/main/1","name":"cnliux_1"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/taojinliang123/TVBox/main/ts.json","name":"taojinliang123_听书"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/raycn120/tvbox/main/fan","name":"raycn120_fan"},
 
 
 
@@ -1443,6 +1446,7 @@
 {"name":"👀影音天堂","url":"http://tvbox.vip/4k"},
 {"name":"🚀蜂蜜线路","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"MY星辰","url":"http://8.210.232.168/xc.json"},
+{"name":"MY巧技","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
 
 
 //http://rihou.cc:55
@@ -1838,28 +1842,22 @@
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/noimank/tvbox/main/tvboxmuti.json
-{"url":"https://gh.three2all.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"🚀1-潇洒哥线路"},
-{"url":"http://肥猫.live","name":"🚀2-肥猫"},
-{"url":"http://饭太硬.top/tv","name":"🚀3-饭太硬推荐"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"🚀1-潇洒哥线路"},
+{"url":"https://肥猫.live","name":"🚀2-肥猫"},
+{"url":"https://www.饭太硬.com/tv","name":"🚀3-饭太硬推荐"},
 {"url":"https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json","name":"🚀4-健康家用"},
-{"url":"https://gh.three2all.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json","name":"🚀5-宝盒线路"},
-{"url":"https://gh.three2all.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name":"🚀6-香雅情镜像线路"},
-{"url":"https://gh.three2all.com/https://raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json","name":"🚀7-FongMI线路"},
-{"url":"http://pandown.pro/tvbox/tvbox.json","name":"🚀8-巧计线路"},
-{"url":"https://weixine.net/ysc.json","name":"🚀9-运输车路"},
-{"url":"https://100km.top/0","name":"🚀10-骚 0线路"},
-{"url":"https://gh.three2all.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name":"🚀11-霜辉月明 py"},
-{"url":"https://gh.three2all.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"🚀12-高天流云js"},
-{"url":"https://gh.three2all.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"🚀13-高天流云 XYQ"},
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"🚀14-南风线路"},
-{"url":"http://www.lyyytv.cn/yt/yt.json","name":"🚀15-影探线路"},
-{"url":"http://dxawi.github.io/0/0.json","name":"🚀16-dxawi线路"},
-{"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"🚀17-D佬魔改"},
-{"url":"https://szyyds.cn/tv/x.json","name":"🚀18-小马线路"},
-{"url":"https://tv.lan2wan.top/candymuj.json","name":"🚀19-看电影线路"},
-{"url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json","name":"🚀20-夜猫子线路"},
-{"url":"https://www.wya6.cn/tv/yc.json","name":"🚀21-无意线路"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json","name":"🚀5-宝盒线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json","name":"🚀6-FongMI线路"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name":"🚀7-巧计线路"},
+{"url":"https://weixine.net/ysc.json","name":"🚀8-运输车路"},
+{"url":"https://100km.top/0","name":"🚀9-骚 0线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"🚀10-高天流云js"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"🚀11-高天流云 XYQ"},
+{"url":"http://www.lyyytv.cn/yt/yt.json","name":"🚀12-影探线路"},
+{"url":"http://dxawi.github.io/0/0.json","name":"🚀13-dxawi线路"},
+{"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"🚀14-D佬魔改"},
+{"url":"https://szyyds.cn/tv/x.json","name":"🚀15-小马线路"},
+{"url":"https://www.wya6.cn/tv/yc.json","name":"🚀16-无意线路"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/SnailVod/woniu/main/4k.json
 {"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/SnailVod/woniu/main/jsm.json","name":"蜗牛4k🛫主力"},
