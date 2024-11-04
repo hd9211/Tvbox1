@@ -581,21 +581,16 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0825.json","name":"newrecha_0825"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0826.json","name":"newrecha_0826"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0827.json","name":"newrecha_0827"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.bk.json","name":"newrecha_0914"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json","name":"newrecha_0914"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json.bak-1104","name":"newrecha_1104"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json","name":"newrecha_0914"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/XYQTVBox.json","name":"newrecha_XYQTVBox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/dianshi.json","name":"newrecha_dianshi"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/doki-VX.json","name":"newrecha_doki-VX"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/index.json","name":"newrecha_index"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/index2.json","name":"newrecha_index2"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm-pg.json","name":"newrecha_jsm-pg"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm.json","name":"newrecha_jsm"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm4.json","name":"newrecha_jsm4"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jsm5pg.json","name":"newrecha_jsm5pg"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/py.json","name":"newrecha_py"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/new.json","name":"newrecha_new"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/recha.json","name":"newrecha_recha"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/test.json","name":"newrecha_test"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/歐歌.txt","name":"newrecha_歐歌"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/肥貓.json","name":"newrecha_肥貓"},
 
@@ -741,7 +736,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnliux/cnliux.github.io/main/1","name":"cnliux_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/taojinliang123/TVBox/main/ts.json","name":"taojinliang123_听书"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/raycn120/tvbox/main/fan","name":"raycn120_fan"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ys-0910/yansheng/main/ys.json","name":"ys-0910_ys"},
 
 
 
@@ -1398,7 +1393,7 @@
 
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
-{"name":"MY洒哥","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
+{"name":"MY洒哥","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"ware影视","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
 {"name":"ware动漫","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
 {"name":"ware文艺","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
