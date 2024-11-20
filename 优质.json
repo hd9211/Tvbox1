@@ -597,6 +597,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/歐歌.txt","name":"newrecha_歐歌"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/天天开心.json","name":"newrecha_天天开心"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/美益達影視.json","name":"newrecha_美益達影視"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/泥視頻vip修正計畫.json","name":"newrecha_泥視頻"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/肥貓.json","name":"newrecha_肥貓"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/json/07061553.json","name":"newrecha_07061553"},
 
@@ -814,8 +815,6 @@
 
 {"url":"https://cdn09022024.gitlink.org.cn/feimao/jk/raw/branch/master/jk.bmp","name":"肥猫"},
 
-
-
 {"url":"https://700sjro44343.vicp.fun/eggp/tv.json","name":"茄子库"},
 {"url":"http://xhztv.top/xhz.json","name":"🚀小盒子"},
 {"url":"http://xhztv.top/4k.json","name":"🚀小盒子4K"},
@@ -995,21 +994,26 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/ck/main/ck.json
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json
+//https://xmbjm.github.io/ck.json
+//http://xmbjm.fh4u.org/ck.txt
 //https://gitlab.com/xmbjm/ck/-/raw/main/ck.json
-{"name":"📚公众号：拾光趣乐屋📚","url":"https://4708.kstore.space/omg/omg.json"},
+{"name":"📚公众号：拾光趣乐屋📚","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"},
+{"name":"拾光备①📚拾光仓库","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"},
+{"name":"拾光备②📚拾光仓库","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"},
+{"name":"拾光备③📚拾光仓库","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"},
+{"name":"拾光追影📚拾光仓库","url":"https://d.kstore.dev/download/4708/omg/zy.json"},
+{"name":"拾光看剧📚拾光仓库","url":"https://d.kstore.dev/download/4708/omg/omg.json"},
 {"name":"饭太硬📚拾光仓库","url":"http://www.饭太硬.com/tv/"},
 {"name":"菜妮丝📚拾光仓库","url":"https://tv.xn--yhqu5zs87a.top"},
-{"name":"D佬大📚拾光仓库","url":"https://download.kstore.space/download/2883/nzk/nzk0722.json"},
+{"name":"D佬大📚拾光仓库","url":"https://d.kstore.dev/download/2883/nzk/nzk0722.json"},
 {"name":"动漫城📚拾光仓库","url":"https://www.yingm.cc/dm/dm.json"},
 {"name":"喵影视📚拾光仓库","url":"http://meowtv.cn/tv"},
-{"name":"环宇轩📚拾光仓库","url":"https://codeberg.org/137599883/hyxuan/raw/branch/main/xnf.json"},
-{"name":"小脑斧📚拾光仓库","url":"https://6492.kstore.space/xnf/xnf.json"},
+{"name":"小脑斧📚拾光仓库","url":"https://d.kstore.dev/download/6492/xnf/xnf.json"},
 {"name":"YHY📚拾光仓库","url":"https://7336.kstore.space/tvbox/yhykeji.json"},
 {"name":"肥猫📚拾光仓库","url":"http://肥猫.com/"},
 {"name":"青龙📚拾光仓库","url":"https://gitee.com/yiwu369/6758/raw/master/1.json"},
 {"name":"小米📚拾光仓库","url":"http://www.mpanso.com/小米/DEMO.json"},
 {"name":"恒星📚拾光仓库","url":"http://yuhuavip1.top/育华学堂/斧头帮.php"},
-{"name":"云星📚拾光仓库","url":"http://itvbox.cc/云星日记"},
 {"name":"欧歌📚拾光仓库","url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"},
 {"name":"O  K📚拾光仓库","url":"http://ok321.top/ok"},
 {"name":"神仙📚拾光仓库","url":"http://pt.sxtv.top:66/sx.json"},
@@ -1029,7 +1033,7 @@
 {"name":"星辰📚拾光仓库","url":"https://fmbox.cc"},
 {"name":"龙伊📚拾光仓库","url":"https://龙伊.top"},
 {"name":"传说📚拾光仓库","url":"https://chuanshuo.77blog.cn/tv.json"},
-{"name":"多多📚拾光仓库","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"},
+{"name":"多多📚拾光仓库","url":"https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"},
 {"name":"秒播📚拾光仓库","url":"http://miao.qoo.qoo.us.kg/"},
 {"name":"春莹📚拾光仓库","url":"https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master"},
 {"name":"黄金📚拾光仓库","url":"https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"},
@@ -1038,16 +1042,21 @@
 {"name":"各种网盘📚拾光仓库","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 {"name":"PizazzGY📚拾光仓库","url":"https://mirror.ghproxy.com/https://github.com/PizazzGY/TVBox/blob/main/api.json"},
 {"name":"PiGY备用📚拾光仓库","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
-{"name":"影视备用📚拾光仓库","url":"https://d.kstore.space/download/6474/tvbox/api.json"},
+{"name":"影视备用📚拾光仓库","url":"https://d.kstore.dev/download/6474/tvbox/api.json"},
+{"name":"码点苹果📚拾光仓库","url":"http://120.79.4.185/xgh.json"},
+{"name":"码点玫瑰📚拾光仓库","url":"http://120.79.4.185/mdkdb.json"},
+{"name":"码点樱桃📚拾光仓库","url":"http://120.79.4.185/mdxgh.json"},
+{"name":"码点草莓📚拾光仓库","url":"http://120.79.4.185/dz.json"},
 {"name":"欧歌网盘📚拾光仓库","url":"https://xn--2qg-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌2qg"},
 {"name":"拾光儿童📚拾光仓库","url":"https://gitee.com/xmbjmjk/srpd/raw/master/srpd.json"},
 {"name":"欧歌儿童📚拾光仓库","url":"https://xn--2qg-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌2qg"},
 {"name":"请勿贩卖📚拾光仓库","url":"http://tvkj.top/QXZJ/svip.json"},
 
+
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/master/api
-{"url":"https://codeberg.org/zhoujck/config/raw/branch/master/box","name":"🍬糖果影视"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/master/api","name":"🍬糖果影视(备用)"},
-{"url":"https://gitee.com/zhoujckk/config/raw/branch/master/box","name":"🍬糖果影视(备用)"},
+{"url":"https://framagit.org/zhoujck/config/-/raw/main/box","name":"🍬糖果影视"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box","name":"🍬糖果影视(github)"},
+{"url":"https://gitee.com/zhoujckk/config/raw/main/box","name":"🍬糖果影视(gitee)"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/yf20230412/yf20230412.github.io/main/22
 {"url":"https://download.kstore.space/download/4645/99.json","name":"🐟小鱼|KS影视🐟"},
@@ -1641,8 +1650,8 @@
 {"name":"👕┃湯┃影視(Github)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json"},
 {"name":"🏇┃湯┃影視(极狐)","url":"https://git.acwing.com/alantang/X/-/raw/main/X.json"},
 {"name":"🐤┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/X.json"},
-{"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://git.gra.phite.ro/alantang/pg/raw/branch/main/jsm.json"},
-//{"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
+{"name":"🤡┃湯┃(hipy道长)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/hipy/main/index.json"},
+{"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json"},
 {"name":"⛩️┃湯┃本地(PG)","url":"file://pg/jsm.json"},
 {"name":"🍙┃湯┃饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name":"🚁┃湯┃骚0影視","url":"https://www.100km.top/0"}, 
