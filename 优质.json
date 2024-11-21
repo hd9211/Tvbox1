@@ -585,7 +585,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0827.json","name":"newrecha_0827"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json","name":"newrecha_0914"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json.bak-1104","name":"newrecha_1104"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-no-sex.json","name":"newrecha_0914"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914.json","name":"newrecha_0914"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/a01.json","name":"newrecha_a01"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/a02.json","name":"newrecha_a02"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/best.json","name":"newrecha_best"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/best12.json","name":"newrecha_best12"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/best13.json","name":"newrecha_best13"},
@@ -783,6 +785,8 @@
 {"url":"http://tv.laohu.cool/tvbox.json","name":"私人小屋"},
 {"url":"https://7213.kstore.vip/吃猫的鱼","name":"吃猫的鱼"},
 {"url":"http://175.178.251.183:6689/tv.txt","name":"极速2G2H"},
+{"url":"https://git.acwing.com/999/tvbox/-/raw/main/魔盒.json","name":"魔盒"},
+{"url":"https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json","name":"ocean"},
 
 
 //http://k.xzwl.top/
@@ -1100,7 +1104,11 @@
 {"name":"🎯 杰哥在线[影视] 🎯","url":"https://jihulab.com/jie200911161/cat/-/raw/main/TVBOX/2.bmp"},
 {"url":"https://codeberg.org/xiaohe/123321/raw/branch/main/HD.json","name":"小盒公社"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机稳定版"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/source/main/stage/main.json","name":"时光机"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
+{"url":"https://www.lintech.work/static/source/main.json","name":"时光机超大杯"},
+
+
 {"url":"https://gitee.com/bestpvp/source/raw/master/source/stable/main.json","name":"时光机稳定版"},
 {"url":"https://gitee.com/bestpvp/source/raw/master/source/nightly/main.json","name":"时光机领先版"},
 {"url":"http://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json","name":"🍑王🏆线路"},
