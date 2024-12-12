@@ -47,7 +47,7 @@
 {"sourceName":"jixiejishu-T&S仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName":"jixiejishu-T&S仓","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName":"jixiejishu-T&SD仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&SD.txt"},
-{"sourceName":"jixiejishu-T&SN仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&SN.txt"},
+
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt
 //https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dck/duo.txt
@@ -134,6 +134,12 @@
 {"sourceName":"blackDawn-sun","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackDawn-sun/tvbox/main/sgdc1129/sgdc-github.json"},
 {"sourceName":"yub168","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yub168/myTvbox/master/mulConfig.json"},
 
+{"sourceName":"8qNvKr","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCzyys.json"},
+{"sourceName":"Supprise0901","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/warehouse.txt"},
+{"sourceName":"njmaojing","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/njmaojing/tvbox/main/muti.json"},
+{"sourceName":"chendi0207","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt"},
+
+
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/api.json
 {"sourceName":"🦉个人仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"},
 {"sourceName":"🐋潇洒仓","sourceUrl":"https://9877.kstore.space/FourDS/api.json"},
@@ -154,7 +160,7 @@
 {"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：应用边界.txt"},
 {"sourceName":"💯雷蒙影视线路💯","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视线路.json"},
 {"sourceName":"💯雷蒙影视专线💯","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视专线.json"},
-]}
+
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/anzcoffeetime/TVbox/main/DCys.json
 {"sourceName":"👻毒盒多仓","sourceUrl":"https://tv.youdu.fan:666"},
@@ -166,11 +172,6 @@
 {"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/b.txt?ref=main"},
 {"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/c.txt?ref=main"},
 
-{"sourceName":"8qNvKr","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCzyys.json"},
-
-{"sourceName":"Supprise0901","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/warehouse.txt"},
-{"sourceName":"njmaojing","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/njmaojing/tvbox/main/muti.json"},
-{"sourceName":"chendi0207","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/skyfish9/tvbox/main/otv/wuheng18_ysc.json
 {"sourceName":"wuheng18_ysc01","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/ysc/master/01.jpg"},
@@ -608,9 +609,10 @@
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duoD.txt
-{"sourceName":"👧Dcodeberg","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T%26SD.txt"},
-{"sourceName":"👧D备kkgithub","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
-{"sourceName":"👧D备ghp.ci","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SD.txt"},
+{"sourceName":"👧Dcodeberg","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&SD.txt"},
+{"sourceName":"👧D备kkgithub","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&SD.txt"},
+{"sourceName":"👧D备ghp.ci","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&SD.txt"},
+
 //出处：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 {"sourceName":"wuheng18_ysc01","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/ysc/master/01.jpg"},
 {"sourceName":"wuheng18_ysc02","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/ysc/master/02.jpg"},
