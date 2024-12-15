@@ -495,7 +495,12 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/sundaguanren/pg1/main/jsm-18x.json","name":"sundaguanren_jsm-18x"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackpotG/tvboxself/main/tvbox.json","name":"JackpotG_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/cr/main/jm.json","name":"qilegeguai_jm"},
-
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ErShuaiL/TVBOX/main/18TV1","name":"ErShuaiL_18TV1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ErShuaiL/TVBOX/main/18TV2","name":"ErShuaiL_18TV2"},
+{"url":"https://alist.ywsj.cf/d/Cloudreve/tvbox/yuan/18/ku18tv.json","name":"18tv3"},
+{"url":"http://118.89.95.193/18tv2.json","name":"18tv4"},	
+{"url":"http://118.89.95.193/18tv网友分享.json","name":"18tv5"},		
+{"url":"http://118.89.95.193/18tv网友分享2.json","name":"18tv6"},	
 
 
 
@@ -568,6 +573,19 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/yinshiyuan/tvbox18.json","name":"350822_tvbox18"},
 {"url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json","name":"abai_a18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/Livecar.json","name":"8qNvKr_Livecar"},
+
+
+
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/ZY.json
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt","name":"29片库"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/laowang/only-sex.json","name":"老王sex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/LGme.json","name":"自用乐哥"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/jsm.json","name":"自用jsm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/aliluya1977/papa.json","name":"aliluya1977papa"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/18caiji.json","name":"18采集"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json","name":"影视园"}, 
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wertymarry/tvbox/main/cs.json","name":"wertymarry-cs"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/S5.json","name":"hjpwyb-WYB"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCzycar.json
