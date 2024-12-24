@@ -27,6 +27,8 @@
 {"sourceName":"星辰单仓","sourceUrl":"http://47.99.102.252/dc.json"},
 {"sourceName":"真心","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/panni521/TVbox/main/ZX/真心.json"},
 {"sourceName":"cygoy","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cygoy/tvbox/main/url.txt"},
+{"sourceName":"百宝箱箱","sourceUrl":"https://play.iptv365.org/tvbox.txt"},
+
 
 
 
@@ -51,11 +53,6 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt
 //https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dck/duo.txt
-{"sourceName":"🌹欧歌tv主仓库🌹","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=tv"},
-{"sourceName":"🌹欧歌tv备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
-{"sourceName":"🌷欧歌tv备2仓库🌷","sourceUrl":"http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
-{"sourceName":"📁欧歌tv本地肋手仓库","sourceUrl":"clan://localhost/tvbox/dc.txt  "},
-{"sourceName":"☘️奇奇单仓☘️","sourceUrl":"http://z.qiqiv.cn/123"},
 {"sourceName":"🔩常用codeberg🔩","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName":"🔩常用gitlab🔩","sourceUrl":"https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName":"🔩常用刘加速🔩","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
@@ -64,6 +61,12 @@
 {"sourceName":"🔩常用ghproxy🔩","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName":"🔩常用凯速备🔩","sourceUrl":"https://d.kstore.dev/download/7731/tvbox/tvboxtools/jk/dxl/T%EF%B9%A0S.txt"},
 {"sourceName":"🔩常用gitee🔩","sourceUrl":"https://gitee.com/jixiejishu/tvboxinformation/raw/main/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName":"☘️奇奇单仓☘️","sourceUrl":"http://z.qiqiv.cn/123"},
+{"sourceName":"☘️潇洒单仓☘️","sourceUrl":"https://9877.kstore.space/FourDS/api.json "},
+{"sourceName":"🌹欧歌tv主仓库🌹","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=tv"},
+{"sourceName":"🌹欧歌tv备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
+{"sourceName":"🌷欧歌tv备2仓库🌷","sourceUrl":"http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
+{"sourceName":"📁欧歌tv本地肋手仓库","sourceUrl":"clan://localhost/tvbox/dc.txt  "},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/woniuxs/TVBOX/main/DC
