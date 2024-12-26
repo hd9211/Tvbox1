@@ -50,6 +50,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/tvbox/main/xjjs.json","name":"ltxxjs_xjjs"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json","name":"xiongjian83_X"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/XJ.json","name":"xiongjian83_XJ"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox1.json","name":"Dong-learn9_tvbox1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json","name":"Dong-learn9_tvbox2"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"PizazzGY_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/byteshijinn/tvbox/master/tvbox.txt","name":"byteshijinn"},
@@ -1737,7 +1738,7 @@
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/if.json
 {"name":"👕┃湯┃影視(Github)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"},
-{"name":"🎩┃湯┃影視(代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@live/X.json"},  
+{"name":"🎩┃湯┃影視(代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},  
 {"name":"🏇┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/X.json"},
 {"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/jsm.json"},
 {"name":"🍙┃湯┃饭太硬","url":"http://www.饭太硬.com/tv"},
