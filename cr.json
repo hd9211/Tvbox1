@@ -584,6 +584,9 @@
 {"url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json","name":"abai_a18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/Livecar.json","name":"8qNvKr_Livecar"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MicrosoftWindowsWorkstationEdition/TVBOX/main/wyykFL.json","name":"wyykFL"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vick5tf/tvbox/main/1.json","name":"vick5tf_1"},
+
+
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/cnyuensui/TVBOX-source/main/福利.json
@@ -599,13 +602,14 @@
 {"name":"🔞福利10","url":"https://mirror.ghproxy.com/https://raw.github.com/zyscdx/tvbox/main/10.txt"},
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/ZY.json
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt","name":"29片库"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/laowang/only-sex.json","name":"自用老王sex"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/LGme.json","name":"自用乐哥"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/jsm.json","name":"自用jsm"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/laowang/only-sex.json","name":"自用老王only-sex"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/LGme.json","name":"自用乐哥LGme"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/jsm.json","name":"自用jsm-xojav"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/s.json","name":"自用SAV兄弟"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/aliluya1977/papa.json","name":"自用papa"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtvbox/main/18caiji.json","name":"自用18采集"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json","name":"影视园"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt","name":"29片库"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wertymarry/tvbox/main/cs.json","name":"熊大专享"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/S5.json","name":"hjpwyb-WYB"},
 
@@ -652,6 +656,27 @@
 {"url":"https://files.cnblogs.com/files/johnjackson/tvbox.json","name":"🔞johnjackson"},
 {"url":"","name":"🔞备用"},
 
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&S.txtD
+{"url": "https://api.hgyx.vip/hgyx.json  ","name": "👩小盒酷玩┃HG线路"},
+//神州线路的白虎线路，修改地址2024.11.14：
+//codeberg封号作者停止维护{"url": "https://codeberg.org/33137585/6758/raw/branch/master/白虎/baihu.json ","name": "🐯🐯白虎"},
+//道长 只支持影视（fongmi）和Easybox：
+{"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "👩┃道长影视和Easybox"},
+//出自 https://github.com/8qNvKr/188 （单线路）：
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/refs/heads/main/hlgg.json ","name": "👩呱哥"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/refs/heads/main/hlgg.json ","name": "👩呱哥备用"},
+//失效{"url": "https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474 ","name": "👩神V"},
+//更新比较慢：
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa.json ","name": "👩aliluya1977pp"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa11.json ","name": "👩aliluya1977pp11"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa.json ","name": "👩aliluya1977pp备用"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa11.json ","name": "👩aliluya1977pp11备用"},
+//QQ群获取：
+{"url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json ","name": "👩bizhangjie"},
+//出自云星日记99.txt：
+{"url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json ","name": "👩bizhangjie云星"},
+{"url": "https://files.cnblogs.com/files/johnjackson/tvbox.json ","name": "👩johnjackson云星"},
+
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/350822/Xtv/main/18DC.json
 {"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/qist/tvbox/master/9918.json","name":"情人知道含xojav"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json","name":"aliluya1977-papa"},
@@ -661,7 +686,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/jsm.json ","name":"asdf1319964f"},
 {"url":"https://api.niaoyun.us/18/jsm.json","name":"鸟云18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenhao963/TVBOX/main/18+參考網頁.json","name":"老王18"},
-{"url":"https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json","name":"黑料瓜哥"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json","name":"黑料瓜哥"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"零骚"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hus888yu/app/main/18.json","name":"hus888yu"},
 {"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/18.json","name":"xzqcsa/ysc"},
