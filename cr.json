@@ -749,6 +749,15 @@
 {"name":"【ETC_h】","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/refs/heads/main/etc.json"},
 {"name":"【小药丸_h】","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/Wang18/refs/heads/main/pro.json"},
 
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/ybjs.json
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/jsm.json","name":"夜泊金沙专线"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/cr/main/jsm.json","name":" 夜泊金沙午夜剧场"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/a/aa/jsm.json","name":" 夜泊金沙VIP专线"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/js-ys/main/jsm.json","name":"夜泊金沙贵宾线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/wex.json","name":"夜泊金沙尊享线路"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/dd/main/index.json","name":"夜泊金沙至尊线路"},
+{"url": "https://jihulab.com/mengzhu2/fmjk/-/raw/main/FMJK.json","name": "宝盒接口"},
+
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/DEDQW/main/18.json","name":"yygtgf-18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yygtgf/DEDQW/main/19.json","name":"yygtgf-19"},
