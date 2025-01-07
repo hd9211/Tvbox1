@@ -807,6 +807,10 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dyjldq/shiyan/main/fongmi.json","name":"dyjldq_fongmi"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dyjldq/shiyan/main/tv.json","name":"dyjldq_tv"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/drzorm/tvbox/main/0.json","name":"drzorm_0"},
+
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxd-520/TvBox123/main/0","name":"lxd-520_0"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxd-520/TvBox123/main/fty.txt","name":"lxd-520_fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxd-520/TvBox123/main/hccx","name":"lxd-520_hccx"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxd-520/TvBox123/main/zy.txt","name":"lxd-520_zy"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxd-520/TvBox123/main/Docker/1.txt","name":"lxd-520_1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json","name":"vcloudc_api"},
