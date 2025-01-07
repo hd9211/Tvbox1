@@ -80,10 +80,10 @@
 {"sourceName":"🔩常用gitee🔩","sourceUrl":"https://gitee.com/jixiejishu/tvboxinformation/raw/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName":"☘️奇奇单仓☘️","sourceUrl":"http://z.qiqiv.cn/123"},
 {"sourceName":"☘️潇洒单仓☘️","sourceUrl":"https://9877.kstore.space/FourDS/api.json "},
-{"sourceName":"🌹欧歌tv主仓库🌹","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=tv"},
-{"sourceName":"🌹欧歌tv备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
-{"sourceName":"🌷欧歌tv备2仓库🌷","sourceUrl":"http://2.a.欧.我爱你/nxog/ou1.php?b=tv"},
-{"sourceName":"📁欧歌tv本地肋手仓库","sourceUrl":"clan://localhost/tvbox/dc.txt  "},
+{"sourceName":"🌹wj欧歌jw主仓库🌹","sourceUrl":"https://xn--wjjw-rp5imh.v.nxog.top/nxog/ou1.php?b=wj欧歌jw"},
+{"sourceName":"🌹wj欧歌jw备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=wj欧歌jw"},
+{"sourceName":"🌷wj欧歌jw备2仓库🌷","sourceUrl":"https://3.nxog.eu.org/nxog/ou1.php?b=wj欧歌jw"},
+{"sourceName":"☘️wj欧歌jw本地肋手仓库☘️","sourceUrl":"clan://localhost/tvbox/dc.txt  "},
 
 {"sourceName":"jixiejishu","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&S.txtD"},
 {"sourceName":"jixiejishu","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&S.txtOK"},
@@ -176,15 +176,18 @@
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/TVBOX/main/AAA/D2.json
-{"sourceName":"🚀优选","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/TVBOX/main/AAA/02.json"},
+{"sourceName":"🚀优选","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/8qNvKr/TVBOX/main/AAA/02.json"},
 {"sourceName":"🎁宝盒多仓","sourceUrl":"http://mzjk.top/DC"},
 {"sourceName":"🌏无界多仓","sourceUrl":"https://www.无界.top/无界线路多仓版"},
-{"sourceName":"📚拾光仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"},
-{"sourceName":"🚀潇洒哥多仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
-{"sourceName":"☁️高天流云","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
-{"sourceName":"💪优质","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
-{"sourceName":"💯雷蒙影视线路💯","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视线路.json"},
-{"sourceName":"💯雷蒙影视专线💯","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视专线.json"},
+{"sourceName":"📚拾光仓库","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"},
+{"sourceName":"🚀潇洒哥多仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
+{"sourceName":"☁️高天流云","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
+{"sourceName":"💪优质","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
+{"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多APP.txt"},
+{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号应用边界.txt"},
+{"sourceName":"💯雷蒙影视线路💯","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视线路.json"},
+{"sourceName":"💯雷蒙影视专线💯","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视专线.json"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/anzcoffeetime/TVbox/main/DCys.json
@@ -331,8 +334,13 @@
 {"sourceName":"tushen6_dc","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/dc.json"},
 {"sourceName":"BinHou","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BinHou/tvbox/main/all.json"},
 {"sourceName":"BinHou","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hus888yu/app/main/111.json"},
+{"sourceName":"xiqiliuse_output","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/output.json"},
+{"sourceName":"xiqiliuse_小盒子","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/xhz.json"},
+{"sourceName":"xiqiliuse_浪里小白龙","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/多线路.json"},
 {"sourceName":"xiqiliuse_天微单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/天微单仓.json"},
 {"sourceName":"xiqiliuse_拾光趣乐屋","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/拾光趣乐屋.json"},
+{"sourceName":"xiqiliuse_🎇恒星影视","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/🎇恒星影视.json"},
+{"sourceName":"xiqiliuse_🛀🏻小白影视","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiqiliuse/tvbox/main/🛀🏻小白影视.json"},
 {"sourceName":"123","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MicrosoftWindowsWorkstationEdition/TVBOX/main/123.txt"},
 {"sourceName":"Dong-learn9_1","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox.json"},
 {"sourceName":"康哥网络","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdjkl66/k/main/kangge/kg.json"},
@@ -345,6 +353,11 @@
 {"sourceName":"JERRYMUYU","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JERRYMUYU/MUYU/main/duocang.json"},
 {"sourceName":"yujiapin","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yujiapin/tvbox/main/all.json"},
 {"sourceName":"zhshpi","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhshpi/tvbox/main/tvbox.txt"},
+{"sourceName":"LIUJEI_AC","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/AC.json"},
+{"sourceName":"LIUJEI_BC","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/BC.json"},
+{"sourceName":"LIUJEI_CC","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/CC.json"},
+{"sourceName":"LIUJEI_DC","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/DC.json"},
+
 
 
 
