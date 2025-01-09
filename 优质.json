@@ -866,6 +866,9 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/dtes.json","name":"heroaku_dtes"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json","name":"ls125781003_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/MicrosoftWindowsWorkstationEdition/TVBOX/main/0618.txt","name":"0618"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Z-SuiFeng/tvbox/SuiFeng/SF.json","name":"Z-SuiFeng_SF"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dengmeiqing/iptv/main/tv.txt","name":"dengmeiqing_tv"},
+
 
 
 
@@ -1309,6 +1312,9 @@
 {"url":"http://b.mtw.so/5VundT","name":"花生疾风"},
 {"url":"http://b.mtw.so/6pyQnP","name":"花生疾风"},
 {"url":"http://u3v.cn/5zFWum","name":"花生疾风"},
+{"url":"https://gitee.com/huasjf/tvbox/raw/main/hsjf3.json","name":"花生疾风"},
+{"url":"https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/wuhui/无悔2.json","name":"花生疾风"},
+
 
 {"url":"http://b.mtw.so/5H8Iij","name":"相声娱乐"},
 {"url":"http://b.mtw.so/6i3NWG","name":"宝宝趣学"},
@@ -1852,8 +1858,6 @@
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/if.json
-{"name":"👕┃湯┃影視(Github)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"},
-{"name":"🎩┃湯┃影視(代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},  
 {"name":"🏇┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/X.json"},
 {"name":"🔐┃湯┃(PG节奏熊猫)","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/jsm.json"},
 {"name":"🍙┃湯┃饭太硬","url":"http://www.饭太硬.com/tv"},
@@ -3409,9 +3413,9 @@
 {"name":"黄金-线路","url":"https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"},
 {"name":"道长-线路","url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"},
 {"name":"网盘-线路","url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json"},
-{"name":"各种网盘-线路","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+{"name":"各种网盘-线路","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 {"name":"PizazzGY-线路","url":"https://mirror.ghproxy.com/https://github.com/PizazzGY/TVBox/blob/main/api.json"},
-{"name":"PiGY备用-线路","url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+{"name":"PiGY备用-线路","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 {"name":"影视备用-线路","url":"https://d.kstore.dev/download/6474/tvbox/api.json"},
 {"name":"码点苹果-线路","url":"http://120.79.4.185/xgh.json"},
 {"name":"码点玫瑰-线路","url":"http://120.79.4.185/mdkdb.json"},
