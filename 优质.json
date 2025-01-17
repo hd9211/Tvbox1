@@ -885,6 +885,23 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wzxxcz/tvboxtv/main/api.json","name":"wzxxcz_api"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zongru666/myIPTV/main/yingshi.json","name":"zongru666_yingshi"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/tvbox/main/tvbox.json","name":"atsushi444_tvbox"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxsjc/tvbox/main/yz/tvbox.json","name":"zxsjc_tvbox"},
+
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/01.json","name":"fastbuild7099_01"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/02.json","name":"fastbuild7099_02"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/03.json","name":"fastbuild7099_03"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/04.json","name":"fastbuild7099_04"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/05.json","name":"fastbuild7099_05"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/06.json","name":"fastbuild7099_06"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/07.json","name":"fastbuild7099_07"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/08.json","name":"fastbuild7099_08"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/09.json","name":"fastbuild7099_09"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/10.json","name":"fastbuild7099_10"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/11.json","name":"fastbuild7099_11"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/12.json","name":"fastbuild7099_12"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api.json","name":"fastbuild7099_api"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api20.json","name":"fastbuild7099_api20"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api4.json","name":"fastbuild7099_api4"},
 
 
 
@@ -1440,8 +1457,12 @@
 {"url":"https://gitlab.com/hardlift/civil/-/raw/main/hz.json","name":"awen"},
 
 //http://lzo.news/
+{"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/苦短影视.json","name":"苦短影视"},
+{"url":"http://go2.work.gd/短剧","name":"短剧"},
 {"url":"http://gzy.lzo.linkpc.net/","name":"刘公子"},
 {"url":"https://my5353.com/liugongzi","name":"刘公子"},
+
+
 
 
 //http://go2.work.gd/
@@ -1670,6 +1691,13 @@
 {"url": "https://gongdian.top/tvbox/niu.json ","name": "🐏OKPG专用┃王小二"},
 {"url": "https://gongdian.top/tvbox/ok.json ","name": "🐏OKPG专用┃OK"},
 
+
+//https://github.moeyy.xyz/https://raw.githubusercontent.com/javastartgeng/tvbox-myself-links/main/line.json
+{"name":"🌈金鹰极速接口","url":"https://fastly.jsdelivr.net/gh/javastartgeng/tvbox-myself-links@main/line/spider.json"}, 
+{"name":"🎎聚宝盆主接口","url":"https://fastly.jsdelivr.net/gh/javastartgeng/tvbox-myself-links@main/line/fan.json"}, 
+
+{"name":"🌈金鹰极速接口","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javastartgeng/tvbox-myself-links/main/line/spider.json"}, 
+{"name":"🎎聚宝盆主接口","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javastartgeng/tvbox-myself-links/main/line/fan.json"}, 
 
 
 //https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json
@@ -2041,7 +2069,7 @@
 
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
-{"name":"MY洒哥","url":"https://github.moeyy.xyz/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
+{"name":"MY洒哥","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"ware影视","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
 {"name":"ware动漫","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
 {"name":"ware文艺","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
