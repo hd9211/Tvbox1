@@ -887,18 +887,13 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/tvbox/main/tvbox.json","name":"atsushi444_tvbox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxsjc/tvbox/main/yz/tvbox.json","name":"zxsjc_tvbox"},
 
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/01.json","name":"fastbuild7099_01"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/02.json","name":"fastbuild7099_02"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/03.json","name":"fastbuild7099_03"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/04.json","name":"fastbuild7099_04"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/05.json","name":"fastbuild7099_05"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/06.json","name":"fastbuild7099_06"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/07.json","name":"fastbuild7099_07"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/08.json","name":"fastbuild7099_08"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/09.json","name":"fastbuild7099_09"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/10.json","name":"fastbuild7099_10"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/11.json","name":"fastbuild7099_11"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/12.json","name":"fastbuild7099_12"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/21.json","name":"fastbuild7099_21"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/22.json","name":"fastbuild7099_22"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/23.json","name":"fastbuild7099_23"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/24.json","name":"fastbuild7099_24"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/25.json","name":"fastbuild7099_25"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/26.json","name":"fastbuild7099_26"},
+
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api.json","name":"fastbuild7099_api"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api20.json","name":"fastbuild7099_api20"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api4.json","name":"fastbuild7099_api4"},
@@ -1455,6 +1450,10 @@
 {"url":"https://icloud.yuwell.com.mp/STAGE/Orange.json","name":"橙色"},
 {"url":"https://gongdian.top:443/tvbox/db.json","name":"宫殿"},
 {"url":"https://gitlab.com/hardlift/civil/-/raw/main/hz.json","name":"awen"},
+{"url":"https://www.lintech.work/标准杯/main.json","name":"时光机标准杯"},
+{"url":"https://gitea.moe/omg/omg/raw/branch/main/api.json","name":"拾光趣乐屋"},
+
+
 
 //http://lzo.news/
 {"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733486568088/苦短影视.json","name":"苦短影视"},
@@ -2069,7 +2068,7 @@
 
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
-{"name":"MY洒哥","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
+{"name":"MY洒哥","url":"https://github.moeyy.xyz/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"ware影视","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
 {"name":"ware动漫","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
 {"name":"ware文艺","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
