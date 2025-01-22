@@ -622,7 +622,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asxs123/tvbox/main/吾爱云端.txt","name":"asxs123_吾爱云端"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asxs123/tvbox/main/小米云端.txt","name":"asxs123_小米云端"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asxs123/tvbox/main/欧歌云端.txt","name":"asxs123_欧歌云端"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asxs123/mytvboxlist/main/Douban.json","name":"asxs123_Douban"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asxs123/mytvboxlist/main/merged.json","name":"asxs123_merged"},
 
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/rxsweet/tvbox/main/config.json","name":"rxsweet_config"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/rxsweet/tvbox/main/fan.json","name":"rxsweet_fan"},
@@ -706,9 +706,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kukuqi666/tvbox/main/ysc.json","name":"kukuqi666_ysc"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K 111.json","name":"BP3388_4K"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BP3388/TVBOX/main/TV.json","name":"BP3388_TV"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/nt01xp/2024/main/fan.json","name":"nt01xp_fan"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/nt01xp/2024/main/ok321.txt","name":"nt01xp_ok321"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/nt01xp/2024/main/tv.json","name":"nt01xp_TV"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/nt01xp/2024/main/jsm.json","name":"nt01xp_jsm"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zerowj/tvbox/main/AAO.json","name":"zerowj_AAO"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zerowj/tvbox/main/tvbox.json","name":"zerowj_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SingerLan/json/master/0827.json","name":"SingerLan_0827"},
@@ -892,9 +890,8 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/02.json","name":"fastbuild7099_02"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/03.json","name":"fastbuild7099_03"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/04.json","name":"fastbuild7099_04"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/05.json","name":"fastbuild7099_05"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/06.json","name":"fastbuild7099_06"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/07.json","name":"fastbuild7099_07"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/101.json","name":"fastbuild7099_101"},
+
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api.json","name":"fastbuild7099_api"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api20.json","name":"fastbuild7099_api20"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/api4.json","name":"fastbuild7099_api4"},
@@ -902,6 +899,14 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liugetianshi/tvbox/main/ying.json","name":"liugetianshi_ying"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liugetianshi/tvbox/main/tvbox.json","name":"liugetianshi_tvbox"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Xuhao5/tv_live/main/XHTVBox.json","name":"Xuhao5_XHTVBox"},
+
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/daodao1982/tvbox/master/fty.json","name":"daodao1982_fty"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/daodao1982/tvbox/master/tvbox.json","name":"daodao1982_tvbox"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/daodao1982/tvbox/master/王小二.txt","name":"daodao1982_王小二"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/daodao1982/tvbox/master/米.txt","name":"daodao1982_米"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/y03110619/tvbox/main/小Y.json","name":"y03110619_小Y"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/y03110619/tvbox/main/测试.json","name":"y03110619_测试"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/y03110619/tvbox/main/小Y.json","name":"y03110619_小Y"},
 
 
 
@@ -1006,6 +1011,7 @@
 {"url":"http://369936.xyz/web119","name":"💕春风影视线路"},
 
 {"url":"https://tvbox.catvod.com/catvod.json","name":"🧿纳梅根良"},
+{"url":"https://gitee.com/shen_tu/lzxw/raw/master/Duanju/duanju.json","name":"短剧"},
 
 
 
@@ -2073,7 +2079,7 @@
 {"name":"影视2025","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zongru666/myIPTV/refs/heads/main/yingshi.json"},
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
-{"name":"MY洒哥","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
+{"name":"MY洒哥","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"ware影视","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
 {"name":"ware动漫","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
 {"name":"ware文艺","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
