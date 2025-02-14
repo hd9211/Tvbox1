@@ -901,7 +901,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxsjc/tvbox/main/yz/tvbox.json","name":"zxsjc_tvbox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxsjc/tvbox/main/pg/jsm.json","name":"zxsjc_jsm"},
 
-
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/01.json","name":"fastbuild7099_01"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/broken.json","name":"fastbuild7099_broken"},
 
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/liugetianshi/tvbox/main/ying.json","name":"liugetianshi_ying"},
@@ -914,7 +914,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/daodao1982/tvbox/master/王小二.txt","name":"daodao1982_王小二"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/daodao1982/tvbox/master/米.txt","name":"daodao1982_米"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/y03110619/tvbox/main/小Y.json","name":"y03110619_小Y"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/y03110619/tvbox/main/测试.json","name":"y03110619_测试"},
+
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cat6625/Tvbox/main/1.json","name":"cat6625_1"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cat6625/Tvbox/main/2.json","name":"cat6625_2"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cymz6/tv-box/main/interface/main.json","name":"cymz6_main"},
@@ -936,6 +936,11 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/QuicklyQuicklyBiuBiuBiu/iptv/main/yingshi.json","name":"Quickly_yingshi"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lemonguo121/BoxRes/main/Myuse/cat.json","name":"lemonguo121_cat"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hdcuijian/zjd/main/jiekou.txt","name":"hdcuijian_jiekou"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Caif1992/TVBox-Multiple-Line-/main/TVBox/feimao.json","name":"Caif1992_feimao"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Caif1992/TVBox-Multiple-Line-/main/TVBox/fty.json","name":"Caif1992_fty"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Caif1992/TVBox/main/d.json","name":"Caif1992_d"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/XiaoBin5566/tvbox/main/ouge.json","name":"XiaoBin5566_ouge"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tianwaifeifan/pg/main/fty.json","name":"tianwaifeifan_fty"},
 
 
 
@@ -1523,6 +1528,7 @@
 //http://go2.work.gd/
 //http://go.work.gd/
 //http://天命.陌尘.icu
+{"url":"https://6296.kstore.vip/facat.json","name":"肥猫备用源"},
 {"url":"https://d.h6room.com/frj0817.json","name":"缝纫机源"},
 {"url":"https://gitee.com/fengdoudev/tv/raw/master/index.json","name":"电影大师"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/fty.json","name":"旺强"},
@@ -2150,7 +2156,7 @@
 {"name":"影视2025","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zongru666/myIPTV/refs/heads/main/yingshi.json"},
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
-{"name":"MY洒哥","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
+{"name":"MY洒哥","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"ware影视","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
 {"name":"ware动漫","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
 {"name":"ware文艺","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
@@ -2226,10 +2232,14 @@
 {"name":"香雅情","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/ol/main/香雅情.txt"},
 
 
-//http://rihou.cc:55
+//http://ttkx.cc:55
 {"url":"http://ttkx.cc:55/天天开心","name":"cc开心软件❤天天开心"},
-{"url":"http://kxrj.site:55/天天开心","name":"[备]开心软件❤天天开心"},
-{"url":"http://rihou.cc:55/天天开心","name":"55天天开心❤天天开心"},
+{"url":"http://ttkx.cc:55/pg/jsm.json","name":"PG[肥羊源]原版蜜蜂影视专用接口❤天天开心"},
+{"url":"http://rihou.cc:55/天天开心","name":"日后服务器❤天天开心"},
+{"url":"https://12448.kstore.space/Baipiao/tvbox/白嫖4K.json","name":"🥬白嫖4K❤天天开心"},
+{"url":"http://我不是.摸鱼儿.xyz","name":"🐟摸鱼\"❤天天开心"},
+{"url":"https://9877.kstore.space/FourDS/movie.json","name":"😎潇洒❤天天开心"},
+{"url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌","name":"欧歌❤天天开心"},
 {"url":"http://www.fish2018.us.kg/z/FongMi.json","name":"蜜蜂❤天天开心"},
 {"url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json","name":"道长❤天天开心"},
 {"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json","name":"PG路线❤天天开心"},
@@ -2238,14 +2248,12 @@
 {"url":"https://gitee.com/ltby1/blue-sky-education/raw/master/蓝天白云教育.json","name":"蓝天白云教育❤天天开心"},
 {"url":"http://www.wya6.cn/tv/yc.json","name":"无意❤天天开心"},
 {"url":"http://www.饭太硬.com/tv","name":"饭太坚硬❤天天开心"},
-{"url":"http://我不是.摸鱼儿.top","name":"摸鱼儿佬❤天天开心"},
 {"url":"http://肥猫.live","name":"肥猫不肥❤天天开心"},
 {"url":"http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json","name":"短剧合集❤天天开心"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"香雅情深❤天天开心"},
 {"url":"http://xhww.fun/小米/DEMO.json","name":"小米❤天天开心"},
 {"url":"http://tvbox.王二小放牛娃.top","name":"王二小放牛娃❤天天开心"},
 {"url":"http://tt.iitvba.com/bata/老年戏曲.json","name":"老年戏曲❤天天开心"},
-{"url":"http://ui6.wlk99.top:8787/uploads/TV/SJ4k60(云视）.json","name":"蓝色影视❤天天开心"},
 
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/mcp2016/TVBox/main/urls.json
