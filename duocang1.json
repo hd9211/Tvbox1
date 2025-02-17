@@ -98,24 +98,24 @@
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt
 //https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dck/duo.txt
-{"sourceName":"☘️奇奇单仓☘️","sourceUrl":"http://z.qiqiv.cn/123"},
-{"sourceName":"🔩常用codeberg🔩","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName":"🔩常用gitlab🔩","sourceUrl":"https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName":"🔩常用jsdelivr🔩","sourceUrl":"https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName":"🔩常用刘加速🔩","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName":"🔩常用欧加速🔩","sourceUrl":"https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName":"🔩常用ghp🔩","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName":"🔩常用ghproxy🔩","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
-{"sourceName":"☘️欧歌主仓带注释codeberg☘️","sourceUrl":"https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"☘️欧歌主仓带注释gitlab☘️","sourceUrl":"https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"☘️欧歌主仓带注释jsdelivr☘️","sourceUrl":"https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"☘️欧歌主仓带注释刘加速☘️","sourceUrl":"https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"☘️欧歌主仓带注释欧歌加速☘️","sourceUrl":"https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"☘️欧歌主仓带注释ghp☘️","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"☘️欧歌主仓带注释ghproxy☘️","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
-{"sourceName":"🌹wj欧歌jw主仓库🌹","sourceUrl":"https://xn--wjjw-rp5imh.v.nxog.top/nxog/ou1.php?b=wj欧歌jw"},
-{"sourceName":"🌹wj欧歌jw备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=wj欧歌jw"},
-{"sourceName":"🌷wj欧歌jw备2仓库🌷","sourceUrl":"https://3.nxog.eu.org/nxog/ou1.php?b=wj欧歌jw"},
+{"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
+{"sourceName": "🔩常用codeberg🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName": "🔩常用gitlab🔩","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt"},
+{"sourceName": "🔩常用jsdelivr🔩","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用刘加速🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用欧加速🔩","sourceUrl": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用ghp🔩","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "🔩常用ghproxy🔩","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
+{"sourceName": "☘️欧歌主仓带注释codeberg☘️","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释gitlab☘️","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释jsdelivr☘️","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释刘加速☘️","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释欧歌加速☘️","sourceUrl": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释ghp☘️","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "☘️欧歌主仓带注释ghproxy☘️","sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/ogmain.txt"},
+{"sourceName": "🌹tv主仓库🌹","sourceUrl": "https://tv.nxog.top/nxog/ou1.php?b=tv"},
+{"sourceName": "🌹tv备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
+{"sourceName": "🌷tv备2仓库🌷","sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=tv"},
 
 
 {"sourceName":"jixiejishu","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&S.txtD"},
@@ -448,7 +448,7 @@
 {"sourceName":"Caif1992_cf","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Caif1992/TVBox-Multiple-Line-/main/TVBox/cf.json"},
 {"sourceName":"XiaoBin5566_点播","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/XiaoBin5566/tvbox/main/点播接口.txt"},
 {"sourceName":"Xylonium_loadrp","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Xylonium/TV-LIVE/main/tvbox/loadrp.txt"},
-
+{"sourceName":"FanchangWang_tvbox","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/tvbox.json"},
 
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
