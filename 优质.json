@@ -91,7 +91,6 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name":"hanhan8127-hanXC"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty/fty.json","name":"shichuanenhui-fty"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bluefriendCN/set/main/mf.json","name":"bluefriendCN-mf"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bluefriendCN/set/main/mx.json","name":"bluefriendCN-mx"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bluefriendCN/set/main/my.json","name":"bluefriendCN-my"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/awfiwgy/tvbox/main/tvbox.json","name":"awfiwgy-tvbox"},
@@ -950,6 +949,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xc106346/tvbox/main/005.json","name":"xc106346_005"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xc106346/tvbox/main/666.json","name":"xc106346_666"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/franciscai/txt4tvbox/main/jiekou.txt","name":"franciscai_jiekou"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/benefit77/TVBoxTools/main/pg/jsm.json","name":"benefit77_jsm"},
 
 
 
@@ -1412,7 +1412,8 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"时光机稳定版"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bestpvp/source/main/stage/main.json","name":"时光机"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json","name":"时光机领先版"},
-{"url":"https://www.lintech.work/static/source/main.json","name":"时光机超大杯"},
+{"url":"https://www.lintech.work/超大杯/main.json","name":"时光机超大杯"},
+{"url":"https://www.lintech.work/标准杯/main.json","name":"时光机标准杯"},
 {"url":"https://gitee.com/bestpvp/source/raw/master/source/stable/main.json","name":"时光机稳定版"},
 {"url":"https://gitee.com/bestpvp/source/raw/master/source/nightly/main.json","name":"时光机领先版"},
 {"url":"http://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json","name":"🍑王🏆线路"},
@@ -1538,6 +1539,12 @@
 {"url":"https://gitea.moe/omg/omg/raw/branch/main/api.json","name":"拾光趣乐屋"},
 {"url":"https://4708.kstore.space/tvbox/api.json","name":"拾光趣乐屋"},
 {"url":"https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json","name":"纽约影视"},
+
+//http://zouming.com
+{"url":"https://3043.kstore.space/bhvip/bh/bh.json","name":"月光宝盒"},
+{"url":"https://codeberg.org/111455dgbfcvdc/cbxvdv2025/raw/branch/main/api.json","name":"冬日暖阳-蓝色影视"},
+{"url":"https://codeberg.org/mzjk0/api/raw/branch/main/vip.json","name":"粉丝自制"},
+
 
 
 //http://lzo.news/
@@ -2052,12 +2059,12 @@
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/if.json
 {"name":"🤹‍♂️┃湯┃影視(Github)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"},
-{"name":"🤹‍♂️┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},
+//{"name":"🤹‍♂️┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},
 {"name":"🏇┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/aTV.json"},
-{"name":"🏇┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/aTV.json"},
+//{"name":"🏇┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/aTV.json"},
 {"name":"🦸┃湯┃(PG节奏熊猫)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/jsm.json"},
-{"name":"🐰┃湯┃(PG代理节奏熊猫)","url":"https://git.gra.phite.ro/alantang/pg/raw/branch/main/jsm.json"},
-{"name":"🧧┃湯┃影視(PY源)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py.json"},  
+//{"name":"🐰┃湯┃(PG代理节奏熊猫)","url":"https://git.gra.phite.ro/alantang/pg/raw/branch/main/jsm.json"},
+//{"name":"🧧┃湯┃影視(PY源)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py.json"},  
 {"name":"🍙┃饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name":"🌊┃米家互联","url":"https://mpanso.me/DEMO.json"},
 {"name":"🐄┃王二小放牛娃","url":"http://tvbox.王二小放牛娃.top"},
