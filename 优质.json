@@ -957,7 +957,31 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ne7359/tvurl/main/jsm.json","name":"ne7359_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/kyp126/TVBox/main/茄子","name":"kyp126_茄子"},
 
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fm.pnga","name":"jixiejishu_fm"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fm.pnga1","name":"jixiejishu_fm1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fm.pnga2","name":"jixiejishu_fm2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fm.pnga3","name":"jixiejishu_fm3"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fty.pnga","name":"jixiejishu_fty"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fty.pnga1","name":"jixiejishu_fty1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fty.pnga2","name":"jixiejishu_fty2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/fty.pnga3","name":"jixiejishu_fty3"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/nf.pnga","name":"jixiejishu_nf"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/nf.pnga1","name":"jixiejishu_nf1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/nf.pnga2","name":"jixiejishu_nf2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/nf.pnga3","name":"jixiejishu_nf3"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/og.pnga","name":"jixiejishu_og"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/og.pnga1","name":"jixiejishu_og1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/og.pnga2","name":"jixiejishu_og2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/og.pnga3","name":"jixiejishu_og3"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/xm.pnga","name":"jixiejishu_xm"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/xm.pnga1","name":"jixiejishu_xm1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/xm.pnga2","name":"jixiejishu_xm2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/main/xm.pnga3","name":"jixiejishu_xm3"},
 
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga","name":"jixiejishu_api"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga1","name":"jixiejishu_api1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga2","name":"jixiejishu_api2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga3","name":"jixiejishu_api3"},
 
 
 
@@ -968,8 +992,10 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/X.json","name":"alantang1977_X"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/aTV.json","name":"alantang1977_aTV"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/jsm.json","name":"alantang1977_jsm"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/py.json","name":"alantang1977_py"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/tv.json","name":"alantang1977_tv"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json","name":"alantang1977_jsm"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/pg/main/py.json","name":"alantang1977_py"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/TVBoxOSC/main/api.json","name":"alantang1977_api"},
 
 
@@ -2197,7 +2223,7 @@
 {"name":"影视2025","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zongru666/myIPTV/refs/heads/main/yingshi.json"},
 {"name":"MY巧巧","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"MY空空","url":"https://raw.liucn.cc/box/m.json"}, 
-{"name":"MY洒哥","url":"https://github.moeyy.xyz/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
+{"name":"MY洒哥","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"},
 {"name":"ware影视","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"},
 {"name":"ware动漫","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json"},
 {"name":"ware文艺","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json"},
