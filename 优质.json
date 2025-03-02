@@ -89,6 +89,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/GITH-TKJY.json","name":"Tinker-TTW-GITH-TKJY"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/beiyongXC","name":"hanhan8127-beiyongXC"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name":"hanhan8127-hanXC"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.json","name":"hanhan8127-shenghan"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json","name":"shichuanenhui-fty"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty/fty.json","name":"shichuanenhui-fty"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/bluefriendCN/set/main/mx.json","name":"bluefriendCN-mx"},
@@ -516,6 +517,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alisahghjj/tvbox/main/taoapi","name":"alisahghjj_taoapi"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/jsm.json","name":"ouhaibo1980_杰歌软件APP"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json","name":"ouhaibo1980_杰歌软件APP"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/zx/FongMi.json","name":"ouhaibo1980_FongMi"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fslxd/tvbox/main/song.json","name":"fslxd_song"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"青柠软件馆"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/heart8619/lzy/main/lzy.json","name":"heart8619_lzy"},
@@ -737,12 +739,17 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LLgit4/TVBox/main/TV.json","name":"LLgit4_TV"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wang-7years/tvBoxJson/main/tv.json","name":"wang-7years_TV"},
 
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox/main/MoonYs.json","name":"city10666_残月影视"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox/main/aiyouteng.json","name":"city10666_残月影视"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox/main/canyue.json","name":"city10666_残月影视"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox/main/catbox.json","name":"city10666_残月影视"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox/main/tvbox.json","name":"city10666_残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/MoonYs.json","name":"city10666_残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/aiyouteng.json","name":"city10666_残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/canyue.json","name":"city10666_残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/catbox.json","name":"city10666_残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/ceshi.json","name":"city10666_ceshi"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/tvbox-xin.json","name":"city10666_残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/tvbox.json","name":"city10666_残月影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-2/main/tvbox-youku.json","name":"city10666_残月影视"},
+
+
+
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yinghuihong/storage/master/m.json","name":"yinghuihong_m"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yangshaoxing/TV-BOX/main/点播源.json","name":"yangshaoxing_点播源"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yangshaoxing/TV-BOX/main/点播源1.json","name":"yangshaoxing_点播源1"},
@@ -1002,6 +1009,9 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X.json","name":"Link-Soul_X"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X2.json","name":"Link-Soul_X2"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X3.json","name":"Link-Soul_X3"},
+
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxzhang456/mylist/main/jsm.json","name":"dxzhang456_jsm"},
+
 
 
 
