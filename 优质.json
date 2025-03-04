@@ -137,7 +137,6 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/swhtv/111/main/hua.json","name":"swhtv_hua"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/swhtv/111/main/hua2.json","name":"swhtv_hua2"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/swhtv/111/main/lib仓库","name":"swhtv_lib仓库"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/joedai007/TVBox/main/fm/fm.json","name":"joedai007-fm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/joedai007/TVBox/main/fm/fm5.json","name":"joedai007-fm5"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/joedai007/TVBox/main/fm/fm6.json","name":"joedai007-fm6"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chanewm/tv/main/tvbox.json","name":"chanewm-tvbox"},
@@ -596,8 +595,6 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tjyu010/tvbox/main/0826.json","name":"tjyu010_0826"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tjyu010/tvbox/main/0827.json","name":"tjyu010_0827"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tjyu010/tvbox/main/1210.json","name":"tjyu010_1210"},
-
-
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tjyu010/tvbox/main/yinshi.json","name":"tjyu010_yinshi"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Wowo82/TG/main/收集.json","name":"Wowo82_收集"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cyixlq/tvbox/main/main.json","name":"cyixlq_main"},
@@ -746,7 +743,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/ceshi.json","name":"city10666_ceshi"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/tvbox-xin.json","name":"city10666_残月影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-ziyong/main/tvbox.json","name":"city10666_残月影视"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/city10666/tvbox-2/main/tvbox-youku.json","name":"city10666_残月影视"},
+
 
 
 
@@ -1011,7 +1008,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Link-Soul/TVBox/main/X3.json","name":"Link-Soul_X3"},
 
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxzhang456/mylist/main/jsm.json","name":"dxzhang456_jsm"},
-
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/box.json","name":"cluntop_box"},
 
 
 
@@ -1614,6 +1611,9 @@
 //http://go2.work.gd/
 //http://go.work.gd/
 //http://天命.陌尘.icu
+
+{"url":"https://6492.kstore.space/xnf/xnf.json","name":"六月"},
+
 {"url":"http://4K4K.shop/","name":"菠萝库"},
 {"url":"https://pz.nxpz.xyz/tvbox/nx.json","name":"念心的日常"},
 {"url":"https://d.kstore.dev/download/11340/mmrjk.json","name":"忙忙软件"},
@@ -2120,9 +2120,8 @@
 
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/if.json
-{"name":"🤹‍♂️┃湯┃影視(Github)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"},
 //{"name":"🤹‍♂️┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},
-{"name":"🏇┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/aTV.json"},
+{"name":"🏇┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/tvbox/raw/branch/main/tv.json"},
 //{"name":"🏇┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/aTV.json"},
 {"name":"🦸┃湯┃(PG节奏熊猫)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/jsm.json"},
 //{"name":"🐰┃湯┃(PG代理节奏熊猫)","url":"https://git.gra.phite.ro/alantang/pg/raw/branch/main/jsm.json"},
@@ -2137,7 +2136,7 @@
 {"name":"🐔┃克隆解析","url":"https://zhangqun66.com/zq/api.json"}, 
 {"name":"🏂┃OK jack","url":"http://ok321.top/tv"},
 {"name":"🐼┃肥猫猫","url":"http://ceshi.肥猫.com/PandaQ"},
-{"name":"🍚┃爆米花","url":"http://www.mpanso.com/小米/DEMO.json"},
+//{"name":"🍚┃爆米花","url":"http://www.mpanso.com/小米/DEMO.json"},
 {"name":"🚁┃骚0影視","url":"https://www.100km.top/0"},
 {"name":"⚪┃小白","url":"http://bp.tvbox.cam/"},
 {"name":"💘┃真心","url":"https://git.gra.phite.ro/alantang/LoveTV/raw/branch/main/FongMi.json"},   
