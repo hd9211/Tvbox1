@@ -916,9 +916,6 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxsjc/tvbox/main/pg/jsm.json","name":"zxsjc_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxsjc/tvbox/main/og/api.json","name":"zxsjc_api"},
 
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/main/0217-test.json","name":"fastbuild7099_test"},
-
-
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/liugetianshi/tvbox/main/ying.json","name":"liugetianshi_ying"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/liugetianshi/tvbox/main/tvbox.json","name":"liugetianshi_tvbox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Xuhao5/tv_live/main/XHTVBox.json","name":"Xuhao5_XHTVBox"},
@@ -1009,6 +1006,9 @@
 
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxzhang456/mylist/main/jsm.json","name":"dxzhang456_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/box.json","name":"cluntop_box"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hnyyhedy/hnmygit/main/api.json","name":"hnyyhedy_api"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lihong196/tvbox1/main/jiekou.txt","name":"lihong196_jiekou"},
+
 
 
 
@@ -1508,6 +1508,8 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/MoonYs.json","name":"残月影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/catbox.json","name":"残月影视"},
+{"url":"https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json","name":"残月影视"},
+{"url":"https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},
 {"url":"http://box.iqinu.com","name":"龙门线路"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json","name":"龙门线路"},
 {"url":"https://www.cwss.xyz/刺猬线路禁止贩卖","name":"刺猬线路"},
