@@ -43,6 +43,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ride-start/ownimpl/main/tv/tvb.json","name":"ride-start_tvb"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/api.json","name":"ltxxjs_api"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jsxj.json","name":"ltxxjs_jsxj"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jsxj-1.json","name":"ltxxjs_jsxj-1"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json","name":"ltxxjs_m"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json","name":"ltxxjs_m2"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m3.json","name":"ltxxjs_m3"},
@@ -469,10 +470,12 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lzhmh/pd/main/33","name":"lzhmh_33"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PandaTigerC/TVBox01/main/line.json","name":"PandaTigerC_line"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/feelsyt/tvboxfile/main/txto.json","name":"feelsyt_txto"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json","name":"xinyi1984_xy"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/live.json","name":"xinyi1984_直播"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json","name":"xinyi1984_应用商店"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/wex.json","name":"xinyi1984_wex"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json","name":"xinyi1984_xy"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy1.json","name":"xinyi1984_xy1"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/jsm.json","name":"xinyi1984_jsm"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xinyi1984/xytv/master/wex.json","name":"xinyi1984_wex"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json","name":"小武哥"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zeee-u/lzh06/main/movies.json","name":"zeee-u_movies"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
@@ -648,9 +651,10 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BryanHK/disc/main/XYQTVBox.json","name":"BryanHK_XYQTVBox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BryanHK/disc/main/test","name":"BryanHK_test"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sysh8888/mao/main/tv/1.json","name":"sysh8888_1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ.json","name":"qq1719248506_XBPQ"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/api.json","name":"qq1719248506_api"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/config.json","name":"qq1719248506_config"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ.json","name":"qq1719248506_XBPQ"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/fan.json","name":"qq1719248506_fan"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qq1719248506/qq1719248506.github.io/main/jsm.json","name":"qq1719248506_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnny-JJJ/TVbox/main/m.json","name":"Johnny-JJJ_m"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/KAN314go/k/main/json/kan.json","name":"KAN314go-kan"},
@@ -991,6 +995,12 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga1","name":"jixiejishu_api1"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga2","name":"jixiejishu_api2"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/api.pnga3","name":"jixiejishu_api3"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/zytguo.txt","name":"jixiejishu_zytguo"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/zytxszx.txt","name":"jixiejishu_zytxszx"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/zytxszx1.txt","name":"jixiejishu_zytxszx1"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/zytxszx2.txt","name":"jixiejishu_zytxszx2"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/main/zytxszx3.txt","name":"jixiejishu_zytxszx3"},
+
 
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nwbgercd/PG/main/jsm.json","name":"nwbgercd_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nwbgercd/PG/main/jsm1.json","name":"nwbgercd_jsm1"},
@@ -1000,21 +1010,29 @@
 
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxzhang456/mylist/main/jsm.json","name":"dxzhang456_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/FongMi.json","name":"cluntop_FongMi"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/aa.json","name":"cluntop_aa"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/api.json","name":"cluntop_api"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/box.json","name":"cluntop_box"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/index.json","name":"cluntop_index"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/jsm.json","name":"cluntop_jsm"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/test.json","name":"cluntop_test"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hnyyhedy/hnmygit/main/2.json","name":"hnyyhedy_2"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lihong196/tvbox1/main/jiekou.txt","name":"lihong196_jiekou"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/w66789/TVbox-2025/main/自定义接口.txt","name":"w66789_自定义接口"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yuzhiblue/tvbox/main/ZH6GeWZ8MT.txt","name":"yuzhiblue_ZH6GeWZ8MT"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yuzhiblue/tvbox/main/hskwPJcwxB.txt","name":"yuzhiblue_hskwPJcwxB"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yuzhiblue/tvbox/main/tvbox.json","name":"yuzhiblue_tvbox"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoun001/tvbox-toplz/main/ok.json","name":"xiaoun001_ok"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoun001/tvbox-toplz/main/toplz_sgtv.json","name":"xiaoun001_toplz_sgtv"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoun001/tvbox-toplz/main/toplz_study.json","name":"xiaoun001_toplz_study"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gzgicn/TVBox/main/mirror/liucn/m.json","name":"gzgicn_m"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaohuonihao/TVyingshi/main/TVBOX/beiyong.json","name":"xiaohuonihao_beiyong"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaohuonihao/TVyingshi/main/TVBOX/beiyong1.json","name":"xiaohuonihao_beiyong1"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaohuonihao/TVyingshi/main/TVBOX/ziyongyuan.json","name":"xiaohuonihao_ziyongyuan"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/VH-PG/TVBox-Test/main/TVBox-Test.json","name":"VH-PG_TVBox-Test"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/geminijummnm/mimitu/main/sources/anbox","name":"geminijummnm_直播"},
+
+
 
 
 
@@ -1484,9 +1502,9 @@
 {"url":"http://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json","name":"🍑王🏆线路"},
 {"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name":"短剧 | 心动"},
 
-{"url":"https://www.奇乐.xyz/jk0222.json","name":"奇乐技术网-主"},
-{"url":"https://8383.kstore.space/jk0222.json","name":"奇乐技术网-快速"},
-{"url":"https://d.kstore.dev/download/8383/jk0222.json","name":"奇乐技术网-高速"},
+{"url":"https://www.奇乐.xyz/jk2503.json","name":"奇乐技术网-主"},
+{"url":"https://d.kstore.dev/download/8383/jk2503.json","name":"奇乐技术网-快速"},
+{"url":"https://8383.kstore.space/jk2503.json","name":"奇乐技术网-高速"},
 {"url":"https://like.肥猫.com/PandaQ","name":"青柠🍋肥猫备用"},
 
 {"url":"http://b.mtw.so/5VundT","name":"花生疾风"},
@@ -1516,9 +1534,8 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/MoonYs.json","name":"残月影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/canyue.json","name":"残月影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/catbox.json","name":"残月影视"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},
-
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/cyys.json","name":"残月影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},
 {"url":"https://jsd.cdn.zzko.cn/gh/1771245847/TvBox/tvbox.json","name":"残月影视"},
 {"url":"https://raw.gitmirror.com/1771245847/TvBox/master/tvbox.json","name":"残月影视"},
 {"url":"http://box.iqinu.com","name":"龙门线路"},
@@ -1740,7 +1757,6 @@
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&S.txt
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T&SN.txt
-//奇奇+自制
 //http://qiqiv.cn/zy.php 
 {"url": "http://肥猫.com ","name": "🌳常┃肥猫宝贝"},
 {"url": "https://肥猫.com ","name": "🌳常┃肥猫/备1"},
@@ -1757,8 +1773,8 @@
 //需要输入激活码(包括OK影视）{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
 //非OK影视需要输入激活码{"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
-{"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
-{"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
+//作者喝茶接口关闭{"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
+//作者喝茶接口关闭{"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
 {"url": "http://rihou.cc:55/天天开心 ","name": "🌳常┃开心"},
 {"url": "http://kxrj.site:55/天天开心 ","name": "🌳常┃开心/备"},
 {"url": "http://ttkx.cc:55/天天开心 ","name": "🌳常┃开心/电信"},
@@ -1816,14 +1832,6 @@
 {"url": "https://raw.kkgithub.com/jixiejishu/zyt/main/api.pnga2 ","name": "📺zyt┃潇洒刘加速"},
 //潇洒本地包在线更新
 //QQ频道异次元空间
-    {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "🌟潇洒通用本地🌟"
-    },
-    {
-      "url": "file://TVBoxOSC/tvbox/api.json",
-      "name": "🌟潇洒蜂蜜本地🌟"
-    },
 //TVbox助手提供（目前已经没有了）
 //https://lige.chat/
 //失效{"url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json ","name": "🚀T┃网盘"},
