@@ -235,6 +235,9 @@
 {"sourceName":"小白仓库","sourceUrl":"http://39.101.135.137:8686/"},
 
 //
+{"sourceName":"hiboxs仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json"},
+{"sourceName":"Li-Deng-Hui","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Li-Deng-Hui/ComponentProject/master/yc.json"},
+{"sourceName":"lanceflyliuk","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lanceflyliuk/tvbox-json/main/TVBoxUpdate.json"},
 {"sourceName":"B14ckman","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/B14ckman/TVBox2/main/zyjx.json"},
 {"sourceName":"zhenhappy","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zhenhappy/tvbox/main/tvbox.json"},
 {"sourceName":"18503873514","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/影视聚合.json"},
@@ -350,16 +353,7 @@
 {"sourceName":"ls125781003-dx2仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dx2.json"},
 {"sourceName":"ls125781003-dx3仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dx3.json"},
 {"sourceName":"ls125781003-dx4仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dx4.json"},
-{"sourceName":"ls125781003-cang","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang.json"},
-{"sourceName":"ls125781003-cang1","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang1.json"},
-{"sourceName":"ls125781003-cang2","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang2.json"},
-{"sourceName":"ls125781003-cang3","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang3.json"},
-{"sourceName":"ls125781003-cang4","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang4.json"},
-{"sourceName":"ls125781003-dx","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/dx.json"},
-{"sourceName":"ls125781003-dx1","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/dx1.json"},
-{"sourceName":"ls125781003-dx2","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/dx2.json"},
-{"sourceName":"ls125781003-dx3","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/dx3.json"},
-{"sourceName":"ls125781003-dx4","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/dx4.json"},
+
 
 
 {"sourceName":"ztxiaoyao仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ztxiaoyao/tvbox/main/修改版.txt"},
@@ -383,7 +377,6 @@
 {"sourceName":"鹏九仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/mcp2016/TVBox/main/urls.json"},
 {"sourceName":"vbskycn-all仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vbskycn/tvbox/main/all.json"},
 {"sourceName":"vbskycn-yuan仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vbskycn/tvbox/main/yuan.json"},
-{"sourceName":"hiboxs仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json"},
 {"sourceName":"一木多线路仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"},
 {"sourceName":"wokaotianshi123仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
 {"sourceName":"wokaotianshi123-爱尚仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/aishang.json"},
