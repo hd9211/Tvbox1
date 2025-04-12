@@ -80,7 +80,8 @@
 {"key":"搜AV资源","name": "搜AV资源","api": "https://api.souavzy.vip/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":78},
 {"key":"杏吧资源","name": "杏吧资源","api": "https://xingba111.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":79},
 {"key":"YES资源","name": "YES资源","api": "https://www.yeszy1.com/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":80},
-{"key":"番茄资源","name": "番茄资源","api": "https://fqzy4.me/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":81}
+{"key":"番茄资源","name": "番茄资源","api": "https://fqzy4.me/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":81},
+{"key":"黄色仓库","name": "黄色仓库","api": "https://hsckzy.vip/api.php/provide/vod/","playUrl": "", "search":1,"group": "影视","isActive":true,"ext": "","categories": "","type": 1,"id":82}
 ],
 "iptv":[
 {"name":"Ray直播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","type":"remote","epg":"http://epg.112114.xyz","isActive":true,"id":1},
