@@ -540,7 +540,8 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yub168/myTvbox/master/liveSource.json","name":"yub168_直播"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/victorjiax/OpenSourceRSS/main/TVBox/xpg.json","name":"victorjiax_xpg"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/victorjiax/OpenSourceRSS/main/TVBox/main.json","name":"victorjiax_main"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"victorjiax_xpg"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json","name":"victorjiax_豆豆"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hy5528/tvbox/main/my.json","name":"victorjiax_豆豆"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hugcabbage/coolplay/main/cool.json","name":"hugcabbage_cool"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hugcabbage/coolplay/main/pg.json","name":"hugcabbage_pg"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yvws/tvbox/main/config.json","name":"yvws_config"},
@@ -1876,8 +1877,8 @@ https://ghfast.top/https://raw.githubusercontent.com/lmclub/box/main/app/conf/dc
 {"url": "https://fmbox.cc ","name": "🐹T┃星辰/玉"},
 {"url": "http://47.99.102.252/xc.json ","name": "🐹T┃星辰/玉备"},
 {"url": "http://meowtv.cn/tv ","name": "🐹T┃喵影视"},
-{"url": "https://gitee.com/yiwu369/6758/raw/master/1.json ","name": "🐹T┃青龙1"},
-{"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json ","name": "🐹T┃青龙2"},
+{"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json ","name": "🐹T┃青龙"},
+{"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json ","name": "🐹T┃青龙4K"},
 //codeberg封号不再维护{"url": "https://codeberg.org/33137585/6758/raw/master/1.json ","name": "🐹T┃青龙codeberg"},
 {"url": "https://11256.kstore.space/TWYS/api.json ","name": "🐹T┃天微/恒星"},
 {"url": "http://ygbhbox.3vfree.club/pg/jsm.json ","name": "🐹T┃天微/恒星"},
@@ -1926,6 +1927,7 @@ https://ghfast.top/https://raw.githubusercontent.com/lmclub/box/main/app/conf/dc
 {"url": "https://gongdian.top/tvbox/xiaosa.json ","name": "🐏OKPG专用┃潇洒"},
 {"url": "https://gongdian.top/tvbox/niu.json ","name": "🐏OKPG专用┃王小二"},
 {"url": "https://gongdian.top/tvbox/ok.json ","name": "🐏OKPG专用┃OK"},
+
 
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/javastartgeng/tvbox-myself-links/main/line.json
