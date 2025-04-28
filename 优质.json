@@ -675,11 +675,15 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tanz8/live/main/movies.json","name":"tanz8_movies"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/riverstar1998/TVBOXlink/main/rsbox.json","name":"riverstar1998_rsbox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zhouatie/dotfiles/main/tvbox.json","name":"zhouatie_tvbox"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/ys.json","name":"LIUJEI_ys"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/影视.json","name":"LIUJEI_影视"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/短剧.txt","name":"LIUJEI_短剧"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/采集.json","name":"LIUJEI_采集"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/音乐.json","name":"LIUJEI_音乐"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/魔盒.json","name":"LIUJEI_魔盒"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TS/master/影视.json","name":"LIUJEI_影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TS/master/短剧.txt","name":"LIUJEI_短剧"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TS/master/采集.json","name":"LIUJEI_采集"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TS/master/魔盒.json","name":"LIUJEI_魔盒"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fikryxuuuu/xx/main/xx.json","name":"fikryxuuuu_xx"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fikryxuuuu/xx/main/zb.json","name":"fikryxuuuu_zb"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fikryxuuuu/xx/main/pg/xx.json","name":"fikryxuuuu_xx"},
@@ -1039,6 +1043,12 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lwd461235458/Tvbox-Sin/main/jsm.json","name":"lwd461235458_jsm"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nnvn123/TV/main/111.json","name":"nnvn123_111"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nnvn123/TV/main/喵影视.json","name":"nnvn123_喵影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cxelva/xpg/main/ad.json","name":"cxelva_安邸装饰影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cxelva/xpg/main/av.json","name":"cxelva_美美影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cxelva/xpg/main/cxelva.json","name":"cxelva_小苹果影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cxelva/xpg/main/xs.json","name":"cxelva_小苹果影视"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cxelva/xpg/main/yd.json","name":"cxelva_艺达影视"},
+
 
 
 
@@ -1757,9 +1767,9 @@
 {"url": "https://肥猫.com ","name": "🌳常┃肥猫/备1"},
 {"url": "https://6296.kstore.vip/facat.json ","name": "🌳常┃肥猫/凯速"},
 //需要输入激活码(包括OK影视）{"url": "http://ok321.top/ok ","name": "🌳常┃ok线路"},
-//非OK影视需要输入激活码 {"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
+//非OK影视需要输入激活码   {"url": "http://ok321.top/tv ","name": "🌳常┃ok内部"},
 //需要输入激活码(包括OK影视）{"url": "https://10936.kstore.space/ok ","name": "🌳常┃ok线路凯速"},
-//非OK影视需要输入激活码 {"url": "https://10936.kstore.space/tv ","name": "🌳常┃ok内部凯速"},
+//非OK影视需要输入激活码  {"url": "https://10936.kstore.space/tv ","name": "🌳常┃ok内部凯速"},
 {"url": "http://tvbox.王二小放牛娃.top ","name": "🌳常┃王小二"},
 {"url": "http://我不是.摸鱼儿.com ","name": "🌳常┃摸鱼"},
 {"url": "http://我不是.摸鱼儿.xyz ","name": "🌳常┃摸鱼备"},
@@ -1789,21 +1799,20 @@
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer ","name": "🌳常┃奇奇儿童"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json ","name": "🌳常┃青龙"},
 {"url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json ","name": "🌳常┃青龙4K"},
-{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG"},
-{"url": "http://www2.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG2"},
-{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG3"},
+{"url": "https://www.252035.xyz/p/jsm.json ","name": "🌳常┃PG"},
 {"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json ","name": "🌳常┃PG备"},
-{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心"},
-{"url": "http://www2.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心2"},
-{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心3"},
+{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG备2"},
+{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json ","name": "🌳常┃PG备3"},
+{"url": "https://www.252035.xyz/z/FongMi.json ","name": "🌳常┃真心"},
 {"url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json ","name": "🌳常┃真心备"},
+{"url": "http://www.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心备2"},
+{"url": "http://www3.fish2018.ip-ddns.com/z/FongMi.json ","name": "🌳常┃真心备3"},
 //zyt 目前默认是欧歌
 //通过更改后缀切换不同的加速平台：
-//.pnga=https://ghgo.xyz
 //后面加1
-//.pnga1=https://ghfast.top
+//.pnga1=借用欧歌加速
 //后面加2
-//.pnga2=借用欧歌加速
+//.pnga2=https://github.moeyy.xyz/
 //后面加3
 //.pnga3=借用刘老备加速
 {"url": "https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1 ","name": "📺zyt┃欧歌codeberg"},
@@ -1858,6 +1867,7 @@
 {"url": "http://yuhuavip1.top/育华学堂/斧头帮.php ","name": "☂️搜┃恒星育华学堂"},
 {"url": "http://www.meowtv.top ","name": "☂️搜┃猫TV"},
 {"url": "https://tv.蜗牛.top/svip ","name": "☂️搜┃蜗牛影视"},
+{"url": "http://fmys.top/fmys.json ","name": "☂️搜┃驸马线路"},
 {"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin ","name": "☂️搜┃多多影视"},
 {"url": "http://tv.laohu.cool/tvbox.json ","name": "☂️搜┃老虎"},
 {"url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json ","name": "☂️搜┃影仓"},
@@ -1872,6 +1882,7 @@
 {"url": "https://gongdian.top/tvbox/xiaosa.json ","name": "🐏OKPG专用┃潇洒"},
 {"url": "https://gongdian.top/tvbox/niu.json ","name": "🐏OKPG专用┃王小二"},
 {"url": "https://gongdian.top/tvbox/ok.json ","name": "🐏OKPG专用┃OK"},
+
 
 
 
