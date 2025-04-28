@@ -450,7 +450,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ZhangBei/TVBoxSource/main/18/18-01.json","name":"ZhangBei_18-01"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ZhangBei/TVBoxSource/main/18/18-02.json","name":"ZhangBei_18-02"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ZhangBei/TVBoxSource/main/18/18-03.json","name":"ZhangBei_18-03"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/adl.json","name":"Johnisonn_adl"},
+
 {"url":"https://d.kstore.space/download/7708/a18.json","name":"18 AV"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/jygldj/jygldj/main/se.txt","name":"jygldj_se"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/Aries/jsm.json","name":"yuanwangokk-1_jsm"},
@@ -469,7 +469,8 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/vbskycn/tvbox/main/MY要要.txt","name":"vbskycn_MY要要"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/tanz8/live/main/video.json","name":"tanz8_video"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hexiaokun85/TVBOX/main/11.json","name":"hexiaokun85_11"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/休闲.txt","name":"LIUJEI_休闲"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/休闲.json","name":"LIUJEI_休闲"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TS/master/休闲.json","name":"LIUJEI_休闲"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/pro.json","name":"shan790903_pro"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/zy18.json","name":"shan790903_zy18"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wfvw126/tvbox/main/火.txt","name":"wfvw126_火"},
@@ -787,6 +788,12 @@
 {"url": "https://api.hgyx.vip/hgyx.json  ","name": "👩小盒酷玩┃HG线路"},
 //神州线路的白虎线路，修改地址2024.11.14：
 //codeberg封号作者停止维护{"url": "https://codeberg.org/33137585/6758/raw/branch/master/白虎/baihu.json ","name": "🐯🐯白虎"},
+//PG 
+//https://t.me/s/tgsearchers
+{"url": "https://www.252035.xyz/p/jsm.json?pwd=18x ","name": "PG18X"},
+{"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json-18x ","name": "PG18X备"},
+{"url": "http://www.fish2018.ip-ddns.com/p/jsm.json?pwd=18x ","name": "PG18X备2"},
+{"url": "http://www3.fish2018.ip-ddns.com/p/jsm.json?pwd=18x ","name": "PG18X备3"},
 //道长 只支持影视（fongmi）和Easybox：
 {"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json ","name": "👩┃道长影视和Easybox"},
 //出自 https://github.com/8qNvKr/188 （单线路）：
@@ -803,6 +810,8 @@
 //出自云星日记99.txt：
 {"url": "https://github.moeyy.xyz/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json ","name": "👩bizhangjie云星"},
 {"url": "https://files.cnblogs.com/files/johnjackson/tvbox.json ","name": "👩johnjackson云星"},
+
+
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtv/main/18DC.json
 {"url":"https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/9918.json","name":"情人知道含xojav"},
@@ -875,8 +884,8 @@
 {"name":"🐸xa4","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hus888yu/app/main/xa4.json"},
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Stiletto/self.json
-{"name":"【ETC_h】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/refs/heads/main/etc.json"},
-{"name":"【小药丸_h】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/Wang18/refs/heads/main/pro.json"},
+{"name":"【ETC_h】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/etc.json"},
+{"name":"【小药丸_h】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/Wang18/main/pro.json"},
 
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/qilegeguai/ysc/main/ybjs.json
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qilegeguai/main/refs/heads/main/main.json","name":"夜泊金沙-极速专线"},
