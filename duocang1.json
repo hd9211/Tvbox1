@@ -81,7 +81,7 @@
 {"sourceName":"龙门线路","sourceUrl":"http://box.iqinu.com/conf/dc.json"},
 {"sourceName":"qq254950134","sourceUrl":"http://120.46.39.251/tvbox/duo.json"},
 {"sourceName":"飞哥传奇线路","sourceUrl":"https://chuanshuo.77blog.cn/dc.json"},
-
+{"sourceName":"幸福年年","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/2023ususiua.php"},
 
 
 
@@ -111,7 +111,6 @@
 //https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dck/duo.txt
 {"sourceName": "☘️奇奇单仓☘️","sourceUrl": "http://z.qiqiv.cn/123"},
 {"sourceName": "🔩常用codeberg🔩","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
-{"sourceName": "🔩常用gitlab🔩","sourceUrl": "https://gitlab.com/jixiejishu/tvboxinformation/-/raw/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName": "🔩常用jsdelivr🔩","sourceUrl": "https://cdn.jsdelivr.net/gh/jixiejishu/tvboxinformation@main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用刘加速🔩","sourceUrl": "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
 {"sourceName": "🔩常用欧加速🔩","sourceUrl": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26S.txt"},
@@ -121,6 +120,8 @@
 {"sourceName": "🌹欧歌主仓库🌹","sourceUrl": "https://tv.nxog.top/nxog/ou1.php?b=tv"},
 {"sourceName": "🌹欧歌备1仓库🌹","sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=tv"},
 {"sourceName": "🌷欧歌备2仓库🌷","sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=tv"},
+{"sourceName": "☘️欧歌本地助手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
+{"sourceName": "☘️欧歌本地助手仓库☘️","sourceUrl": "clan://localhost/tvbox/dc.txt  "},
 {"sourceName": "🌴天微在线 🌴","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
 {"sourceName": "🌴多多在线 🌴","sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"},
 
@@ -230,6 +231,8 @@
 {"sourceName":"小白仓库","sourceUrl":"http://39.101.135.137:8686/"},
 
 //
+{"sourceName":"hanhan8127","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/shenghanku.json"},
+{"sourceName":"xiehaifu_ck","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiehaifu/Tvbox/main/ck.txt"},
 {"sourceName":"yub168","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yub168/myTvbox/master/mulConfig.json"},
 {"sourceName":"Johnisonn-self","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Stiletto/self.json"},
 {"sourceName":"cuixu1992_source","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cuixu1992/live/main/tv/source.json"},
@@ -253,7 +256,7 @@
 {"sourceName":"samisold_multiple","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/samisold/FongmiTVMod/main/conf/multiple_source_tvbox_bak.json"},
 {"sourceName":"samisold_multiple","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/samisold/FongmiTVMod/main/conf/multiple_source_tvbox_cn.json"},
 {"sourceName":"鹏九仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/mcp2016/TVBox/main/urls.json"},
-{"sourceName":"shan790903","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/1111.json"},
+{"sourceName":"shan790903_ShanTV","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/ShanTV/ShanTV.json"},
 {"sourceName":"hiboxs仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json"},
 {"sourceName":"Li-Deng-Hui","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Li-Deng-Hui/ComponentProject/master/yc.json"},
 {"sourceName":"lanceflyliuk","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lanceflyliuk/tvbox-json/main/TVBoxUpdate.json"},
@@ -262,7 +265,6 @@
 {"sourceName":"18503873514","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/影视聚合.json"},
 {"sourceName":"Supprise0901","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/warehouse.txt"},
 {"sourceName":"ywg228","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ywg228/tvbox/main/multisource.json"},
-{"sourceName":"hanhan8127","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/shenghanku.json"},
 {"sourceName":"noimank仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/noimank/tvbox/main/tvboxmuti.json"},
 {"sourceName":"knowledge789-yuan","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/knowledge789/tvbox/main/yuan.txt"},
 {"sourceName":"knowledge789-2","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/knowledge789/tvbox/main/2.txt"},
@@ -822,7 +824,8 @@
 /////////////////////////////
 {"sourceName":"CR","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
 {"sourceName":"yangxiaoge-CR","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/多仓adult.json"},
-{"sourceName":"shan790903-1111-18","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/1111-18.json"},
+{"sourceName":"xiehaifu-CR","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xiehaifu/Tvbox/main/Sourceone.json"},
+{"sourceName":"shan790903-OthTV18","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/OthTV18.json"},
 {"sourceName":"shan790903-1111_18","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/shan790903/1111/main/1111_18.json"},
 {"sourceName":"Wind5170-test","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Wind5170/TV/main/test.json"},
 {"sourceName":"Wind5170-test","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Wind5170/TV/main/boxlist18.json"},
