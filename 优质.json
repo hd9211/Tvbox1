@@ -716,6 +716,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BP3388/TVBOX/main/TV.json","name":"BP3388_TV"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BP3388/TVBOX/main/tvbox","name":"BP3388_tvbox"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BP3388/TVBOX/main/拾光本地.json","name":"BP3388_拾光"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BP3388/TVBOX/main/摸鱼53","name":"BP3388_摸鱼"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BP3388/TVBOX/main/星辰53","name":"BP3388_星辰"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/1234修改版.json","name":"nt01xp_1234修改版"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt01xp/2024/main/52sw.json","name":"nt01xp_52sw"},
@@ -1044,8 +1045,7 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yuboona/tvboxjson/main/fan.json","name":"yuboona_fan"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zhijiantv/tvbox/main/jk.json","name":"zhijiantv_jk"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt2020xp/01/main/jsm.json","name":"nt2020xp_jsm"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt2020xp/01/main/itv3.json","name":"nt2020xp_itv3"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt2020xp/01/main/test.json","name":"nt2020xp_test"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt2020xp/01/main/xgg.json","name":"nt2020xp_xgg"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/nt2020xp/01/main/tv.json","name":"nt2020xp_tv"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Li-Deng-Hui/ComponentProject/master/ys.json","name":"Li-Deng-Hui_ys"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lndsqhj/zblive/main/pg/hejm.json","name":"lndsqhj_hejm"},
@@ -1075,6 +1075,8 @@
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/FreakLongs/tvbox-config/main/guanfang.json","name":"FreakLongs_guanfang"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/kyeo-hub/tvbox/main/config.json","name":"kyeo-hub_config"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lingjiao0710/tvbox-useful/master/XC.json","name":"lingjiao0710_XC"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/highyangQQ/tvbox-config/main/dxtvbox.json","name":"highyangQQ_dxtvbox"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/highyangQQ/tvbox-config/main/tvbox.json","name":"highyangQQ_tvbox"},
 
 
 
@@ -2280,7 +2282,7 @@
 //https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/main/if.json
 {"name":"🦸┃湯┃影視(Github)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"},
 //{"name":"👮┃湯┃影視(git.gra)","url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/X.json"},
-//{"name":"🏇┃湯┃影視(国内代理Github)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/aTV.json"},
+{"name":"🏇┃湯┃影視(国内代理)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},
 {"name":"🐼┃湯┃(PG节奏熊猫)","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/jsm.json"},
 //{"name":"🐰┃湯┃(Github国内代理)","url":"https://git.gra.phite.ro/alantang/LoveTV/raw/branch/main/ta.json"},
 {"name":"💘┃clunPG源","url":"https://clun.top/box.json"},
