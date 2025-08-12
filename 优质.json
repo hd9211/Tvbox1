@@ -465,9 +465,6 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/market.json","name":"xinyi1984_应用商店"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy.json","name":"xinyi1984_xy"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/xytv/master/json/xy1.json","name":"xinyi1984_xy1"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/Jar-FongMi/mine/json/index.json","name":"xinyi1984_index"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/Jar-FongMi/mine/json/index2.json","name":"xinyi1984_index2"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/xinyi1984/Jar-FongMi/mine/json/test.json","name":"xinyi1984_test"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/movies.json","name":"小武哥"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zeee-u/lzh06/main/movies.json","name":"zeee-u_movies"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/dannyHallo/TvBox/main/a.json","name":"dannyHallo_a"},
@@ -1162,8 +1159,11 @@
 
 
 
-
-
+{"url":"https://d.kstore.dev/download/10759/api/xuexi.json","name":"儿童教育"},
+{"url":"https://d.kstore.dev/download/10759/api/zhijiao.json","name":"儿童教育"},
+{"url":"https://d.kstore.dev/download/10759/api/xiqu.json","name":"戏曲相声"},
+{"url":"https://d.kstore.dev/download/10759/api/yinyue.json","name":"音乐接口"},
+{"url":"https://codeberg.org/mzjk0/api/raw/branch/main/vip.json","name":"粉丝自制"},
 {"url":"https://700sjro44343.vicp.fun/vip/vip/tv.json","name":"全影多仓"},
 {"url":"http://14.103.112.79:369/xgg.json","name":"软件小哥哥"},
 {"url":"http://47.96.82.41:6137/xgg.json","name":"软件小哥哥"},
@@ -2395,6 +2395,7 @@
 
 //https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/if.json
 {"name":"🦸┃湯┃影視(Github)","url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json"},
+{"name":"🎩┃湯┃影視(kstore)","url":"https://cnb.cool/junchao.tang/jtv/-/git/raw/main/X.json"},
 {"name":"👮┃湯┃影視(kstore)","url":"https://d.kstore.dev/download/15114/X.json"},
 {"name":"🏇┃湯┃影視(国内代理)","url":"https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json"},
 {"name":"🐼┃湯┃(PG节奏熊猫)","url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/jsm.json"},
@@ -2403,11 +2404,11 @@
 {"name":"🍙┃饭太硬","url":"http://www.饭太硬.com/tv"},
 {"name":"🌊┃米家互联","url":"http://miqk.cc/小米/DEMO.json"},
 {"name":"🐄┃王二小放牛娃","url":"http://tvbox.王二小放牛娃.top"},
-//{"name":"🐄┃王二小放牛娃","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top"},
+{"name":"🍃┃老张直播","url":"http://zhangqun66.com/zq/api.json"},
 //{"name":"🐄┃王二小放牛娃","url":"ttp://tv.999888987.xyz"},
 //{"name":"🐄┃王二小放牛娃","url":"https://9280.kstore.space/wex.json"},
 //{"name":"🏂┃OK jack","url":"http://ok321.top/ok"},
-{"name":"🐱┃肥猫猫","url":"https://肥猫.com"},
+{"name":"🐱┃肥猫猫","url":"http://肥猫.com"},
 {"name":"🎁┃盒子迷","url":"https://盒子迷.top/禁止贩卖"},
 {"name":"🚁┃骚0影視","url":"https://www.100km.top/0"},
 {"name":"⚪┃小白","url":"http://bp.tvbox.cam/"},
