@@ -832,6 +832,8 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/YF-pan/tvbox/main/test_tvbox.json","name":"YF-pan_test"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/yuanpanxia/TVBOX/main/wanou.json","name":"yuanpanxia_wanou"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/letian1650/mybox/main/m.json","name":"letian1650_m"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/azzj.json","name":"🔥爱在指尖|乐哥影视"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/azzj01.json","name":"🔥爱在指尖|乐哥影视"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json","name":"🔥爱在指尖|短剧🔥"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/landuomayi/mytv/main/tvbox.json","name":"landuomayi_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/hftv/live/main/tvbox.json","name":"hftv_tvbox"},
@@ -1138,6 +1140,11 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/hbwdhj/pg/main/hejm.json","name":"bwdhj-hejm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/hbwdhj/pg/main/jsm.json","name":"bwdhj-jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xmbjm/svip/main/svip.json","name":"xmbjm-svip"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/a270686161/tvbox-config/main/tvbox.json","name":"a270686161-tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/goodsimple321/tvbox-config/main/tvbox.json","name":"goodsimple321-tvbox"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/maoshuiwei/tvbox/main/xbpq.json","name":"maoshuiwei"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/roc3815/tvbox/main/tv.json","name":"roc3815"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/rainweb82/tvbox/main/config.json","name":"rainweb82"},
 
 
 
@@ -1156,6 +1163,10 @@
 
 
 
+
+
+
+{"url":"https://gitee.com/iy-cpu/iy/raw/master/天神IY.json","name":"天神IY"},
 {"url":"https://d.kstore.dev/download/10759/api/xuexi.json","name":"儿童教育"},
 {"url":"https://d.kstore.dev/download/10759/api/zhijiao.json","name":"儿童教育"},
 {"url":"https://d.kstore.dev/download/10759/api/xiqu.json","name":"戏曲相声"},
