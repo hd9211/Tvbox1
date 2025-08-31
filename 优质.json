@@ -331,10 +331,11 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/linitfor/DramaSource/main/tvbox/denli.json","name":"linitfor_denli"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/linitfor/DramaSource/main/tvbox/dianshi.json","name":"linitfor_dianshi"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/linitfor/DramaSource/main/tvbox/jsm.json","name":"linitfor_jsm"},
-{"url":"https://gh.catmak.name/https://raw.githubusercontent.com/zengjian03/han/master/1/api.json","name":"zengjian03_1"},
-{"url":"https://gh.catmak.name/https://raw.githubusercontent.com/zengjian03/han/master/2/api.json","name":"zengjian03_2"},
-{"url":"https://gh.catmak.name/https://raw.githubusercontent.com/zengjian03/han/master/3/api.json","name":"zengjian03_3"},
-{"url":"https://gh.catmak.name/https://raw.githubusercontent.com/zengjian03/han/master/4/api.json","name":"zengjian03_4"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/1/api.json","name":"zengjian03_1"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/2/api.json","name":"zengjian03_2"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/3/api.json","name":"zengjian03_3"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/4/api.json","name":"zengjian03_4"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/5/api.json","name":"zengjian03_5"},
 
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/cysk003/Yoursmile7-TVBox/master/XC.json","name":"cysk003_XC"},
@@ -1145,6 +1146,12 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/maoshuiwei/tvbox/main/xbpq.json","name":"maoshuiwei"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/roc3815/tvbox/main/tv.json","name":"roc3815"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/rainweb82/tvbox/main/config.json","name":"rainweb82"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/direct.json","name":"simonlin661107_direct"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/ikun.json","name":"simonlin661107_ikun"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/jsm.json","name":"simonlin661107_jsm"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/lzi.json","name":"simonlin661107_lzi"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/simonlin661107/tvbox_qist/main/simon_mix.json","name":"simonlin661107_simon_mix"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/leevi0709/duoapi/main/config.json","name":"leevi0709"},
 
 
 
@@ -4519,7 +4526,9 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json","name":"零零影视"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/mcp2016/TVBox/main/pj.json","name":"mcp2016_鹏九"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/mcp2016/TVBox/main/backup/OK猫影.json","name":"mcp2016_OK猫影"},
+
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/cloudplains/jnsj/main/XC.json","name":"cloudplains_XC"},
+
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/jigedos/Yoursmile7/master/XC.json","name":"jigedos_XC"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/jigedos/bb/main/ff1.json","name":"jigedos_ff1"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/mengzehe/TVBox/main/yyfx.json","name":"mengzehe_yyfx"},
