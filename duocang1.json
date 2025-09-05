@@ -16,8 +16,8 @@
 {"sourceName": "码点小干货","sourceUrl": "http://mdxgh.top:5555/dc.json"},
 //https://xn--nvvn-rp5imh.v.nxog.top/api.php?id=1
 {"sourceName":"🌹nv欧歌vn主仓库🌹","sourceUrl":"https://xn--nvvn-rp5imh.v.nxog.top/nxog/ou1.php?b=nv欧歌vn"},
-{"sourceName":"🌹nv欧歌vn备1仓库🌹","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=nv欧歌vn"},
-{"sourceName":"🌷nv欧歌vn备2仓库🌷","sourceUrl":"http://2.a.欧.我爱你/nxog/ou1.php?b=nv欧歌vn"},
+{"sourceName":"🌹nv欧歌vn备1仓库🌹"，"sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=nv欧歌vn"}，
+{"sourceName":"🌷nv欧歌vn备2仓库🌷"，"sourceUrl":"http://2.a.欧.我爱你/nxog/ou1.php?b=nv欧歌vn"},
 {"sourceName":"欧歌多线路","sourceUrl":"https://xn--teet-rp5imh.v.nxog.top/api.php?id=2"},
 {"sourceName":"欧歌多线路","sourceUrl":"https://xn--gppg-rp5imh.v.nxog.top/api.php?id=2"},
 {"sourceName":"欧歌多线路","sourceUrl":"https://xn--occo-rp5imh.v.nxog.top/api.php?id=2"},
@@ -32,6 +32,7 @@
 {"sourceName":"月光宝盒max多仓","sourceUrl":"http://ygbh.site/max.php"},
 {"sourceName":"月光宝盒max多仓","sourceUrl":"http://ygbh.site/max.php"},
 {"sourceName":"🚀天微仓库🚀","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+{"sourceName":"🚀天微仓库🚀","sourceUrl":"https://qixing.myhkw.com/自用测试.txt"},
 {"sourceName":"星辰单仓","sourceUrl":"http://47.99.102.252/dc.json"},
 {"sourceName":"潇洒单仓","sourceUrl":"https://d.kstore.dev/download/9877/FourDS/api.json"},
 {"sourceName":"潇洒单仓","sourceUrl":"https://9877.kstore.space/AnotherDS/api.json"},
@@ -55,17 +56,17 @@
 {"sourceName":"业余日后单仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"挺好","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json"},
 {"sourceName":"刘备精选单仓","sourceUrl":"https://raw.liucn.cc/box/dc.txt"},
-{"sourceName":"网络名家","sourceUrl":"https://play.iptv365.org/tvbox.txt"}, 
-{"sourceName":"天命人影视","sourceUrl":"https://yyrj.fun/dc/"}, 
-{"sourceName":"博立玩盒","sourceUrl":"https://gitee.com/arlen29/blplay/raw/master/DC2.json"}, 
-{"sourceName":"搞机大师","sourceUrl":"http://139.196.228.200:5678/公众号搞机大师/gaojiduocang.txt"}, 
-{"sourceName":"rogers601","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/rogers601/myhtbx/main/dcy601.json"}, 
+{"sourceName":"网络名家","sourceUrl":"https://play.iptv365.org/tvbox.txt"}， 
+{"sourceName":"天命人影视","sourceUrl":"https://yyrj.fun/dc/"}， 
+{"sourceName":"博立玩盒","sourceUrl":"https://gitee.com/arlen29/blplay/raw/master/DC2.json"}， 
+{"sourceName":"搞机大师","sourceUrl":"http://139.196.228.200:5678/公众号搞机大师/gaojiduocang.txt"}， 
+{"sourceName":"rogers601","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/rogers601/myhtbx/main/dcy601.json"}， 
 {"sourceName":"duoc","sourceUrl":"http://suo.im/duoc"},
 {"sourceName":"tianwaifeifan","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/tianwaifeifan/22/master/dl.json"},
 {"sourceName":"自营多仓","sourceUrl":"https://pastebin.com/raw/a6DCFCfp"},
 {"sourceName":"祥子影视多仓","sourceUrl":"http://k.xzwl.top/祥子影视"},
 {"sourceName":"花生疾风","sourceUrl":"http://b.mtw.so/5zCCNs"},
-{"sourceName":"花生疾风-教育","sourceUrl":"http://b.mtw.so/5yW50n"},
+{"sourceName":"花生疾风-教育"，"sourceUrl":"http://b.mtw.so/5yW50n"},
 {"sourceName":"蓝色影视","sourceUrl":"https://d.kstore.dev/download/4684/Xboxb.json"},
 {"sourceName":"蜗牛仓ds","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/woniuxs/TVBOX/main/ds"},
 {"sourceName":"影视家总站","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/xiaomei5201/tvbox/main/ysc.json"},
@@ -108,8 +109,12 @@
 {"sourceUrl":"https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2","sourceName":"Jsnzkpg"},
 {"sourceName":"潇洒单仓","sourceUrl":"https://9877.kstore.space/AnotherDS/api.json"},
 {"sourceName":"欧歌单仓","sourceUrl":"https://欧歌.v.nxog.top/nxog/ou1.php"},
+//{"sourceName":"杰歌","sourceUrl":"http://vip.nxog.top/"},
 {"sourceName":"极狐仓库","sourceUrl":"https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"},
 {"sourceName":"网络名家","sourceUrl":"https://zitengjushi.lvtu369.com/jingdian.json"},
+//{"sourceName":"月亮分享驿站线路","sourceUrl":"https://xn--0lqf28wu83a2uw595b.v.nxog.top/api.php?id=1"},
+{"sourceName":"月亮分享驿站线路","sourceUrl":"https://xn--3lq960d.v.nxog.top/api.php?id=2"},
+{"sourceName":"loopool","sourceUrl":"https://v.muzid.eu.org/xl.json"},
 
 
 
@@ -348,6 +353,9 @@
 {"sourceName":"yub168","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/yub168/myTvbox/master/mulConfig.json"},
 {"sourceName":"Jsnzkpg","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"},
 
+
+{"sourceName":"zengjian03-dc","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/dc.json"},
+{"sourceName":"chenjingxiong","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/chenjingxiong/mytvbox/main/all.json"},
 {"sourceName":"18503873514","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/18503873514/NPX/main/聚合.json"},
 {"sourceName":"18503873514","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/18503873514/NPX/main/影视聚合.json"},
 {"sourceName":"cluntop","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/main/tv"},
@@ -374,7 +382,6 @@
 {"sourceName":"影用仓库","sourceUrl":"http://tv.weidonglong.com/ysc5.json"},
 {"sourceName":"星释槐线路","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/xingshihuai/TVbox-/main/星释槐线路.json"},
 {"sourceName":"byztga","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/byztga/Tvbox_2/main/Tvbox.json"},
-{"sourceName":"zengjian03-dc","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/zengjian03/han/master/dc.json"},
 {"sourceName":"zemingyan","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/zemingyan/tvbox/main/all.json"},
 {"sourceName":"caijuemou","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/caijuemou/tvbox/main/all.json"},
 {"sourceName":"dsp-19","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/dsp-19/tvbox/main/sgdc/sgdc.json"},
@@ -973,9 +980,9 @@
 {"sourceName":"dql521_cr","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/dql521/TVBox/main/cr.json"},
 {"sourceName":"ErShuaiL_18TVALL","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/ErShuaiL/TVBOX/main/18TVALL"},
 {"sourceName":"yschaizhen_jkh","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/yschaizhen/xian/main/jkh"},
-{"sourceName":"yschaizhen_jkh1","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
-{"sourceName":"lege0001","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/lege/七日.json"},
-{"sourceName":"serein2494","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/serein2494/TVBOX/main/hide.json"},
+{"sourceName":"yschaizhen_jkh1"，"sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
+{"sourceName":"lege0001"，"sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/lege/七日.json"},
+{"sourceName":"serein2494"，"sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/serein2494/TVBOX/main/hide.json"}，
 //https://ghfast.top/https://raw.githubusercontent.com/anzcoffeetime/TVbox/main/DC18.json
 {"sourceName":"anzcoffeetime-AAA","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/anzcoffeetime/TVbox/main/AAA.json"},
 {"sourceName":"anzcoffeetime-优选","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/anzcoffeetime/TVbox/main/cr.txt"},
@@ -1015,11 +1022,11 @@
 
 //https://ghfast.top/https://raw.githubusercontent.com/Johnisonn/tvbox/main/lines.json
 {"sourceName":"🐯Gitee10仓(绿茶18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/lc.txt"},
-{"sourceName":"🐯Gitee11仓(18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/store18.json"},
+{"sourceName":"🐯Gitee11仓(18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/store18.json"}，
 
 //https://ghfast.top/https://raw.githubusercontent.com/gggwang/tvbox/master/tvbox.json
-{"sourceName":"🎯地瓜妹妹🎯福利仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/gggwang/tvbox/master/🎯地瓜妹妹🎯福利仓.json"},
-{"sourceName":"tjyu010_18CR","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/18cr.json"},
+{"sourceName":"🎯地瓜妹妹🎯福利仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/gggwang/tvbox/master/🎯地瓜妹妹🎯福利仓.json"}，
+{"sourceName":"tjyu010_18CR","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/tjyu010/tvbox/main/18cr.json"}，
 {"sourceName":"gggwang_18","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/gggwang/TV/master/all.json"},
 {"sourceName":"sundaguanren_18","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/sundaguanren/pg1/main/hduocang .txt"}
 ]}
