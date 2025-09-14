@@ -733,6 +733,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/kukuqi666/tvbox/main/tvbox.json","name":"kukuqi666_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/kukuqi666/tvbox/main/ysc.json","name":"kukuqi666_ysc"},
 
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K TEST","name":"BP3388_4K TEST"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K.json","name":"BP3388_4K"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K001.json","name":"BP3388_4K001"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K002.json","name":"BP3388_4K002"},
@@ -741,6 +742,7 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K005.json","name":"BP3388_4K005"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K53.json","name":"BP3388_4K53"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/4K视界53","name":"BP3388_4K视界53"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/TEST AJ JSON","name":"BP3388_TEST"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/TV.json","name":"BP3388_TV"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/tvbox","name":"BP3388_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/BP3388/TVBOX/main/拾光本地.json","name":"BP3388_拾光"},
@@ -1034,7 +1036,6 @@
 
 
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/nwbgercd/ys/main/cj.json","name":"nwbgercd_cj"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/nwbgercd/ys/main/py.json","name":"nwbgercd_py"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/nwbgercd/ys/main/jsm.json","name":"nwbgercd_jsm"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/nwbgercd/ys/main/jsm1.json","name":"nwbgercd_jsm1"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/nwbgercd/ys/main/py.json","name":"nwbgercd_py"},
@@ -1152,11 +1153,18 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/zcl668/zcl_tvbox/main/木凡.txt","name":"木凡"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tdtree/my-tvbox-config/main/tvbox.json","name":"tdtree_tvbox"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/tdtree/my-tvbox-config/main/oktv.json","name":"tdtree_oktv"},
-{"url":"https://ghfast.top/https://raw.githubusercontent.com/leexuben/BINGO-TV/main/T.json","name":"leexuben_T"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/leexuben/BINGO-TV/main/MYS.json","name":"leexuben_MYS"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/Jisucloud/XHYSosc/master/XHYSyuan.json","name":"XHTV"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xiaoshuangdashu/10/master/1.json","name":"xiaoshuangdashu_1"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xiaoshuangdashu/10/master/2.json","name":"xiaoshuangdashu_2"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xiaoshuangdashu/10/master/顺.json","name":"xiaoshuangdashu_顺"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/json/main/Max.json","name":"乐享"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/su9erher0es/tvbox/main/ysc/0829.json","name":"su9erher0es_0829"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/su9erher0es/tvbox/main/ysc/9280.json","name":"su9erher0es_9280"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/cefiro131421/DD/master/api.json","name":"cefiro131421_api"},
+{"url":"https://ghfast.top/https://raw.githubusercontent.com/cefiro131421/DD/master/jsm.json","name":"cefiro131421_jsm"},
+
+
 
 
 
@@ -1176,8 +1184,8 @@
 
 
 
-
-
+{"url":"https://git.acwing.com/SVIP/007/-/raw/main/无敌凯少爷躺平单仓接口🈲止贩卖，举报贩卖有奖.json","name":"无敌凯少爷"},
+{"url":"https://gitee.com/jvftibcs-jbduyh/007/raw/master/无敌凯少爷单仓免费一接口禁止贩卖，举报贩卖有奖.json","name":"无敌凯少爷"},
 {"url":"https://11256.kstore.space/qxys/禁止传播.json","name":"天微"},
 {"url":"https://7337.kstore.space/kjtv/自用测试.json","name":"天微"},
 {"url":"https://gitee.com/iy-cpu/iy/raw/master/天神IY.json","name":"天神IY"},
