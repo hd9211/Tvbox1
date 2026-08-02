@@ -117,7 +117,6 @@
 {"url":"https://fastly.jsdelivr.net/gh/HITVHDU/ZB@main/tvbox接口.txt","name":"HITVHDU"},
 {"url":"https://fastly.jsdelivr.net/gh/alivetv/live@main/15.json","name":"alivetv_15"},
 {"url":"https://fastly.jsdelivr.net/gh/czy19950220/TVBoxConfig@main/myConfigs/52bjs/dxwoai18.txt","name":"czy19950220_dxwoai18"},
-{"url":"https://fastly.jsdelivr.net/gh/wanganni/yinshiyuan@main/tvbox18.json","name":"wanganni_tvbox18"},
 {"url":"https://fastly.jsdelivr.net/gh/wanjune/wanjune.github.io@main/static/tvbox/3721.json","name":"wanjune_3721"},
 {"url":"https://fastly.jsdelivr.net/gh/apaoyun/tvbox@main/tvbox.txt","name":"apaoyun_tvbox"},
 {"url":"https://fastly.jsdelivr.net/gh/loikeo/loikeo.github.io@main/tvbox.json","name":"loikeo_tvbox"},
@@ -968,6 +967,7 @@
 {"url":"https://fastly.jsdelivr.net/gh/tfyt81167/TVBOX@main/++AV","name":"tfyt81167_++AV"},
 {"url":"https://fastly.jsdelivr.net/gh/tfyt81167/TVBOX@main/18+TVbox","name":"tfyt81167_18+TVbox"},
 {"url":"https://fastly.jsdelivr.net/gh/tfyt81167/TVBOX@main/AVbox.json","name":"tfyt81167_AVbox"},
+{"url":"https://fastly.jsdelivr.net/gh/tfyt81167/TVBOX@main/tvbox.json","name":"tfyt81167_tvbox"},
 {"url":"https://fastly.jsdelivr.net/gh/huawuhen/tvbox_config@main/tvbox_config_18.json","name":"huawuhen"},
 {"url":"https://fastly.jsdelivr.net/gh/vick5tf/tvbox-config@main/config.json","name":"vick5tf_config"},
 {"url":"https://fastly.jsdelivr.net/gh/vick5tf/tvbox-config@main/config-domestic.json","name":"vick5tf_config"},
@@ -1015,8 +1015,10 @@
 
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/6666","name":"lyqnihao_6666"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/Web鱼壳海豚.json","name":"lyqnihao_Web鱼壳海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/Web鱼壳海豚18.json","name":"lyqnihao_Web鱼壳海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/Web鱼壳海豚py.json","name":"lyqnihao_Web鱼壳海豚py"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/ok海豚.json","name":"lyqnihao_ok海豚"},
+{"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/ok海豚18.json","name":"lyqnihao_ok海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/ok海豚py.json","name":"lyqnihao_ok海豚py"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚.json","name":"lyqnihao_海豚"},
 {"url":"https://fastly.jsdelivr.net/gh/lyqnihao/m3u8@master/FGBLH/FG/海豚666.json","name":"lyqnihao_海豚666"},
@@ -1078,6 +1080,21 @@
 {"url":"https://fastly.jsdelivr.net/gh/g774320776-alt/tvbox-py@main/sub.json.bak","name":"g774320776-alt_sub"},
 {"url":"https://fastly.jsdelivr.net/gh/geoisam/FuckScripts@main/json/adult.json","name":"geoisam_adult"},
 {"url":"https://fastly.jsdelivr.net/gh/luvsic73/yingshicang-91jav-clean@main/config.json","name":"luvsic73_91jav"},
+
+{"url":"https://fastly.jsdelivr.net/gh/billyadult002/strand-vod-addon@main/docs/tvbox-subscription.json","name":"billyadult002"},
+
+{"url":"https://fastly.jsdelivr.net/gh/lidawei1985/LDW-Cinema@main/综合影视配置一.json","name":"lidawei1985_综合影视配置一"},
+{"url":"https://fastly.jsdelivr.net/gh/lidawei1985/LDW-Cinema@main/综合影视配置二.json","name":"lidawei1985_综合影视配置二"},
+{"url":"https://fastly.jsdelivr.net/gh/lidawei1985/LDW-Cinema@main/成人点播配置一.json","name":"lidawei1985_成人点播配置一"},
+{"url":"https://fastly.jsdelivr.net/gh/lidawei1985/LDW-Cinema@main/成人点播配置二.json","name":"lidawei1985_成人点播配置二"},
+{"url":"https://fastly.jsdelivr.net/gh/lidawei1985/LDW-Cinema@main/直播与影视综合配置.json","name":"lidawei1985_直播与影视综合配置"},
+{"url":"https://fastly.jsdelivr.net/gh/lidawei1985/LDW-Cinema@main/combined.json","name":"lidawei1985_combined"},
+{"url":"https://fastly.jsdelivr.net/gh/anmu2013/tv@main/ak.json","name":"anmu2013_ak"},
+{"url":"https://fastly.jsdelivr.net/gh/yexuu/lunatv-local@main/data/tvbox_full.json","name":"yexuu_full"},
+{"url":"https://fastly.jsdelivr.net/gh/yexuu/lunatv-local@main/data/tvbox_jin18.json","name":"yexuu_jin18"},
+{"url":"https://fastly.jsdelivr.net/gh/yexuu/lunatv-local@main/data/tvbox_jingjian.json","name":"yexuu_jingjian"},
+
+
 
 
 
